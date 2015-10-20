@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://vincent-boden.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2015-10-18T21:54:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/post/test07/</loc>
+    <loc>http://localhost:1313/post/test07/</loc>
     <lastmod>2015-10-18T21:54:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/post/test06/</loc>
+    <loc>http://localhost:1313/post/test06/</loc>
     <lastmod>2015-10-18T21:54:01+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/post/test05/</loc>
+    <loc>http://localhost:1313/post/test05/</loc>
     <lastmod>2015-10-18T21:53:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/post/test04/</loc>
+    <loc>http://localhost:1313/post/test04/</loc>
     <lastmod>2015-10-18T21:53:52+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/post/test03/</loc>
+    <loc>http://localhost:1313/post/test03/</loc>
     <lastmod>2015-10-18T21:53:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/post/test01/</loc>
+    <loc>http://localhost:1313/post/test01/</loc>
     <lastmod>2015-10-13T16:54:25+02:00</lastmod>
   </url>
   

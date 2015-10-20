@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vincent&#39;s GIP-site 2015 - 2016</title>
-    <link>http://vincent-boden.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Vincent&#39;s GIP-site 2015 - 2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GIP-site 2015 - 2016</copyright>
     <lastBuildDate>Sun, 18 Oct 2015 21:54:06 +0200</lastBuildDate>
-    <atom:link href="http://vincent-boden.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test07</title>
-      <link>http://vincent-boden.github.io/post/test07/</link>
+      <link>http://localhost:1313/post/test07/</link>
       <pubDate>Sun, 18 Oct 2015 21:54:06 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io/post/test07/</guid>
+      <guid>http://localhost:1313/post/test07/</guid>
       <description>&lt;p&gt;segge&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>test06</title>
-      <link>http://vincent-boden.github.io/post/test06/</link>
+      <link>http://localhost:1313/post/test06/</link>
       <pubDate>Sun, 18 Oct 2015 21:54:01 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io/post/test06/</guid>
+      <guid>http://localhost:1313/post/test06/</guid>
       <description>&lt;p&gt;sgeg&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>test05</title>
-      <link>http://vincent-boden.github.io/post/test05/</link>
+      <link>http://localhost:1313/post/test05/</link>
       <pubDate>Sun, 18 Oct 2015 21:53:57 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io/post/test05/</guid>
+      <guid>http://localhost:1313/post/test05/</guid>
       <description>&lt;p&gt;sehgehrd&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>test04</title>
-      <link>http://vincent-boden.github.io/post/test04/</link>
+      <link>http://localhost:1313/post/test04/</link>
       <pubDate>Sun, 18 Oct 2015 21:53:52 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io/post/test04/</guid>
+      <guid>http://localhost:1313/post/test04/</guid>
       <description>&lt;p&gt;sgeg&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>test03</title>
-      <link>http://vincent-boden.github.io/post/test03/</link>
+      <link>http://localhost:1313/post/test03/</link>
       <pubDate>Sun, 18 Oct 2015 21:53:44 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io/post/test03/</guid>
+      <guid>http://localhost:1313/post/test03/</guid>
       <description>&lt;p&gt;srhsqhsr&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>My first test post</title>
-      <link>http://vincent-boden.github.io/post/test01/</link>
+      <link>http://localhost:1313/post/test01/</link>
       <pubDate>Tue, 13 Oct 2015 16:54:25 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io/post/test01/</guid>
+      <guid>http://localhost:1313/post/test01/</guid>
       <description>
 
 &lt;h2 id=&#34;gip-site:70ed30e6b99d5d4f3645e6e8efafab95&#34;&gt;GIP site&lt;/h2&gt;
