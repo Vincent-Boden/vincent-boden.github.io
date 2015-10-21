@@ -1,100 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vincent&#39;s GIP-site 2015 - 2016</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Vincent&#39;s GIP-site 2015 - 2016</description>
+    <title>Pages on Vincent&#39;s GIP-site 2015 - 2016</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on Vincent&#39;s GIP-site 2015 - 2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GIP-site 2015 - 2016</copyright>
-    <lastBuildDate>Sun, 18 Oct 2015 21:54:06 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2015 17:14:11 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>test07</title>
-      <link>http://localhost:1313/post/test07/</link>
-      <pubDate>Sun, 18 Oct 2015 21:54:06 +0200</pubDate>
-      
-      <guid>http://localhost:1313/post/test07/</guid>
-      <description>&lt;p&gt;segge&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test06</title>
-      <link>http://localhost:1313/post/test06/</link>
-      <pubDate>Sun, 18 Oct 2015 21:54:01 +0200</pubDate>
-      
-      <guid>http://localhost:1313/post/test06/</guid>
-      <description>&lt;p&gt;sgeg&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test05</title>
-      <link>http://localhost:1313/post/test05/</link>
-      <pubDate>Sun, 18 Oct 2015 21:53:57 +0200</pubDate>
-      
-      <guid>http://localhost:1313/post/test05/</guid>
-      <description>&lt;p&gt;sehgehrd&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test04</title>
-      <link>http://localhost:1313/post/test04/</link>
-      <pubDate>Sun, 18 Oct 2015 21:53:52 +0200</pubDate>
-      
-      <guid>http://localhost:1313/post/test04/</guid>
-      <description>&lt;p&gt;sgeg&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test03</title>
-      <link>http://localhost:1313/post/test03/</link>
-      <pubDate>Sun, 18 Oct 2015 21:53:44 +0200</pubDate>
-      
-      <guid>http://localhost:1313/post/test03/</guid>
-      <description>&lt;p&gt;srhsqhsr&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My second test post</title>
-      <link>http://localhost:1313/post/test02/</link>
-      <pubDate>Tue, 13 Oct 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://localhost:1313/post/test02/</guid>
-      <description>&lt;p&gt;My second test post&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My first test post</title>
-      <link>http://localhost:1313/post/test01/</link>
-      <pubDate>Tue, 13 Oct 2015 16:54:25 +0200</pubDate>
-      
-      <guid>http://localhost:1313/post/test01/</guid>
-      <description>
-
-&lt;h2 id=&#34;gip-site:70ed30e6b99d5d4f3645e6e8efafab95&#34;&gt;GIP site&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;10-10T&lt;/li&gt;
-&lt;li&gt;2015-10-10T16&lt;/li&gt;
-&lt;li&gt;69&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IT-TAPA</title>
-      <link>http://localhost:1313/page/ittapa/IT/</link>
+      <title>Bedrijfsbeheer</title>
+      <link>http://localhost:1313/page/bedrijfsbeheer/BB/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://localhost:1313/page/ittapa/IT/</guid>
-      <description>&lt;p&gt;IT-TAPA&lt;/p&gt;
+      <guid>http://localhost:1313/page/bedrijfsbeheer/BB/</guid>
+      <description>&lt;p&gt;Bedrijfsbeheer&lt;/p&gt;
 </description>
     </item>
     
@@ -115,56 +37,6 @@
 &lt;p&gt;I think when I finished my sixth year on Immaculate Institute I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about JavaScript, HTML and CSS at Karel de Grote high school. If I pass that exam I don’t have to study those lessons anymore next year and the things I learn there could always come handy this school year. After I finished my bachelor or master I hope I can start of course in a business where they make beautiful, interactive and responsive websites so I can fully express my passion into my work.&lt;/p&gt;
 
 &lt;p&gt;IT is as I already mentioned something really important in my life. I can’t imagen a life without my computer, smartphone, … . It is a big part of my life and I really like it that my friends of the class share this passion with me so there is always something IT-related to talk about in the class.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bedrijfsbeheer</title>
-      <link>http://localhost:1313/page/bedrijfsbeheer/BB/</link>
-      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://localhost:1313/page/bedrijfsbeheer/BB/</guid>
-      <description>&lt;p&gt;Bedrijfsbeheer&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Ontwikkeling</title>
-      <link>http://localhost:1313/page/software/SO/</link>
-      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://localhost:1313/page/software/SO/</guid>
-      <description>&lt;p&gt;Software Ontwikkeling&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stage</title>
-      <link>http://localhost:1313/page/stage/ST/</link>
-      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://localhost:1313/page/stage/ST/</guid>
-      <description>&lt;p&gt;Stage&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Teksten</title>
-      <link>http://localhost:1313/page/teksten/TE/</link>
-      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://localhost:1313/page/teksten/TE/</guid>
-      <description>&lt;p&gt;Teksten&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Systeembeheer</title>
-      <link>http://localhost:1313/page/systeembeheer/SB/</link>
-      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://localhost:1313/page/systeembeheer/SB/</guid>
-      <description>&lt;p&gt;Systeembeheer&lt;/p&gt;
 </description>
     </item>
     
@@ -254,6 +126,56 @@
 
 &lt;li&gt;&lt;p&gt;Comme vous cliquez cette cadre vous voyez un menu avec les options différentes de protéger de votre document.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT-TAPA</title>
+      <link>http://localhost:1313/page/ittapa/IT/</link>
+      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
+      
+      <guid>http://localhost:1313/page/ittapa/IT/</guid>
+      <description>&lt;p&gt;IT-TAPA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Ontwikkeling</title>
+      <link>http://localhost:1313/page/software/SO/</link>
+      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
+      
+      <guid>http://localhost:1313/page/software/SO/</guid>
+      <description>&lt;p&gt;Software Ontwikkeling&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stage</title>
+      <link>http://localhost:1313/page/stage/ST/</link>
+      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
+      
+      <guid>http://localhost:1313/page/stage/ST/</guid>
+      <description>&lt;p&gt;Stage&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systeembeheer</title>
+      <link>http://localhost:1313/page/systeembeheer/SB/</link>
+      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
+      
+      <guid>http://localhost:1313/page/systeembeheer/SB/</guid>
+      <description>&lt;p&gt;Systeembeheer&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teksten</title>
+      <link>http://localhost:1313/page/teksten/TE/</link>
+      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
+      
+      <guid>http://localhost:1313/page/teksten/TE/</guid>
+      <description>&lt;p&gt;Teksten&lt;/p&gt;
 </description>
     </item>
     
