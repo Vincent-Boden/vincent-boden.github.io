@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vincent&#39;s GIP-site 2015 - 2016</title>
-    <link>http://vincent-boden.github.io:1313/</link>
+    <link>http://www.vincent-boden.github.io/</link>
     <description>Recent content on Vincent&#39;s GIP-site 2015 - 2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GIP-site 2015 - 2016</copyright>
     <lastBuildDate>Sun, 18 Oct 2015 21:54:06 +0200</lastBuildDate>
-    <atom:link href="http://vincent-boden.github.io:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.vincent-boden.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test07</title>
-      <link>http://vincent-boden.github.io:1313/post/test07/</link>
+      <link>http://www.vincent-boden.github.io/post/test07/</link>
       <pubDate>Sun, 18 Oct 2015 21:54:06 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/post/test07/</guid>
+      <guid>http://www.vincent-boden.github.io/post/test07/</guid>
       <description>&lt;p&gt;segge&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>test06</title>
-      <link>http://vincent-boden.github.io:1313/post/test06/</link>
+      <link>http://www.vincent-boden.github.io/post/test06/</link>
       <pubDate>Sun, 18 Oct 2015 21:54:01 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/post/test06/</guid>
+      <guid>http://www.vincent-boden.github.io/post/test06/</guid>
       <description>&lt;p&gt;sgeg&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>test05</title>
-      <link>http://vincent-boden.github.io:1313/post/test05/</link>
+      <link>http://www.vincent-boden.github.io/post/test05/</link>
       <pubDate>Sun, 18 Oct 2015 21:53:57 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/post/test05/</guid>
+      <guid>http://www.vincent-boden.github.io/post/test05/</guid>
       <description>&lt;p&gt;sehgehrd&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>test04</title>
-      <link>http://vincent-boden.github.io:1313/post/test04/</link>
+      <link>http://www.vincent-boden.github.io/post/test04/</link>
       <pubDate>Sun, 18 Oct 2015 21:53:52 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/post/test04/</guid>
+      <guid>http://www.vincent-boden.github.io/post/test04/</guid>
       <description>&lt;p&gt;sgeg&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>test03</title>
-      <link>http://vincent-boden.github.io:1313/post/test03/</link>
+      <link>http://www.vincent-boden.github.io/post/test03/</link>
       <pubDate>Sun, 18 Oct 2015 21:53:44 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/post/test03/</guid>
+      <guid>http://www.vincent-boden.github.io/post/test03/</guid>
       <description>&lt;p&gt;srhsqhsr&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>My second test post</title>
-      <link>http://vincent-boden.github.io:1313/post/test02/</link>
+      <link>http://www.vincent-boden.github.io/post/test02/</link>
       <pubDate>Tue, 13 Oct 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/post/test02/</guid>
+      <guid>http://www.vincent-boden.github.io/post/test02/</guid>
       <description>&lt;p&gt;My second test post&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>My first test post</title>
-      <link>http://vincent-boden.github.io:1313/post/test01/</link>
+      <link>http://www.vincent-boden.github.io/post/test01/</link>
       <pubDate>Tue, 13 Oct 2015 16:54:25 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/post/test01/</guid>
+      <guid>http://www.vincent-boden.github.io/post/test01/</guid>
       <description>
 
 &lt;h2 id=&#34;gip-site:70ed30e6b99d5d4f3645e6e8efafab95&#34;&gt;GIP site&lt;/h2&gt;
@@ -90,30 +90,40 @@
     
     <item>
       <title>Bedrijfsbeheer</title>
-      <link>http://vincent-boden.github.io:1313/page/bedrijfsbeheer/BB/</link>
+      <link>http://www.vincent-boden.github.io/page/bedrijfsbeheer/BB/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/page/bedrijfsbeheer/BB/</guid>
+      <guid>http://www.vincent-boden.github.io/page/bedrijfsbeheer/BB/</guid>
       <description>&lt;p&gt;Bedrijfsbeheer&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>IT-TAPA</title>
-      <link>http://vincent-boden.github.io:1313/page/ittapa/IT/</link>
+      <title>Engels</title>
+      <link>http://www.vincent-boden.github.io/page/engels/EN/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/page/ittapa/IT/</guid>
-      <description>&lt;p&gt;IT-TAPA&lt;/p&gt;
+      <guid>http://www.vincent-boden.github.io/page/engels/EN/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;IT-autobiography:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hello my name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in Beerse. My school is Immaculata Institute in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
+
+&lt;p&gt;My first contact with IT was when I was very young around the age of six. One of my uncles worked in an IT-related business and every time I saw him he told something about what they did. Most of all they made websites and I was really interested even when I was that young. When my parents bought my first pc my addiction started to grow. First I just started with playing games and visiting info websites about stores in my city but when I was older I started to learn how to use my computer as a  software development tool with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
+
+&lt;p&gt;IT means a lot for me, every single moment when I didn&amp;rsquo;t plan anything that day I take my computer and I play games, build websites, do something for school, … . There is actually not a single day that I didn&amp;rsquo;t touched my pc. In the vacations I use my pc even more because on my holiday work I work 9 hours a day with a pc and when I come home from working I start up my own pc. Sometimes they even ask IT-related questions at me on my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert in what I do but I evolved a lot with my IT skills. If I look at what I could three years ago and what I can do know … . Three years ago I only knew the basics and know every day on school I learn something new about computers.&lt;/p&gt;
+
+&lt;p&gt;I think when I finished my sixth year on Immaculate Institute I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about JavaScript, HTML and CSS at Karel de Grote high school. If I pass that exam I don’t have to study those lessons anymore next year and the things I learn there could always come handy this school year. After I finished my bachelor or master I hope I can start of course in a business where they make beautiful, interactive and responsive websites so I can fully express my passion into my work.&lt;/p&gt;
+
+&lt;p&gt;IT is as I already mentioned something really important in my life. I can’t imagen a life without my computer, smartphone, … . It is a big part of my life and I really like it that my friends of the class share this passion with me so there is always something IT-related to talk about in the class.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Frans</title>
-      <link>http://vincent-boden.github.io:1313/page/frans/FR/</link>
+      <link>http://www.vincent-boden.github.io/page/frans/FR/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/page/frans/FR/</guid>
+      <guid>http://www.vincent-boden.github.io/page/frans/FR/</guid>
       <description>&lt;p&gt;&lt;strong&gt;FAQ:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -198,61 +208,51 @@
     </item>
     
     <item>
-      <title>Engels</title>
-      <link>http://vincent-boden.github.io:1313/page/engels/EN/</link>
+      <title>IT-TAPA</title>
+      <link>http://www.vincent-boden.github.io/page/ittapa/IT/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/page/engels/EN/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;IT-autobiography:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Hello my name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in Beerse. My school is Immaculata Institute in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
-
-&lt;p&gt;My first contact with IT was when I was very young around the age of six. One of my uncles worked in an IT-related business and every time I saw him he told something about what they did. Most of all they made websites and I was really interested even when I was that young. When my parents bought my first pc my addiction started to grow. First I just started with playing games and visiting info websites about stores in my city but when I was older I started to learn how to use my computer as a  software development tool with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
-
-&lt;p&gt;IT means a lot for me, every single moment when I didn&amp;rsquo;t plan anything that day I take my computer and I play games, build websites, do something for school, … . There is actually not a single day that I didn&amp;rsquo;t touched my pc. In the vacations I use my pc even more because on my holiday work I work 9 hours a day with a pc and when I come home from working I start up my own pc. Sometimes they even ask IT-related questions at me on my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert in what I do but I evolved a lot with my IT skills. If I look at what I could three years ago and what I can do know … . Three years ago I only knew the basics and know every day on school I learn something new about computers.&lt;/p&gt;
-
-&lt;p&gt;I think when I finished my sixth year on Immaculate Institute I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about JavaScript, HTML and CSS at Karel de Grote high school. If I pass that exam I don’t have to study those lessons anymore next year and the things I learn there could always come handy this school year. After I finished my bachelor or master I hope I can start of course in a business where they make beautiful, interactive and responsive websites so I can fully express my passion into my work.&lt;/p&gt;
-
-&lt;p&gt;IT is as I already mentioned something really important in my life. I can’t imagen a life without my computer, smartphone, … . It is a big part of my life and I really like it that my friends of the class share this passion with me so there is always something IT-related to talk about in the class.&lt;/p&gt;
+      <guid>http://www.vincent-boden.github.io/page/ittapa/IT/</guid>
+      <description>&lt;p&gt;IT-TAPA&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Software Ontwikkeling</title>
-      <link>http://vincent-boden.github.io:1313/page/software/SO/</link>
+      <link>http://www.vincent-boden.github.io/page/software/SO/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/page/software/SO/</guid>
+      <guid>http://www.vincent-boden.github.io/page/software/SO/</guid>
       <description>&lt;p&gt;Software Ontwikkeling&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Stage</title>
-      <link>http://vincent-boden.github.io:1313/page/stage/ST/</link>
-      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://vincent-boden.github.io:1313/page/stage/ST/</guid>
-      <description>&lt;p&gt;Stage&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Systeembeheer</title>
-      <link>http://vincent-boden.github.io:1313/page/systeembeheer/SB/</link>
+      <link>http://www.vincent-boden.github.io/page/systeembeheer/SB/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/page/systeembeheer/SB/</guid>
+      <guid>http://www.vincent-boden.github.io/page/systeembeheer/SB/</guid>
       <description>&lt;p&gt;Systeembeheer&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Teksten</title>
-      <link>http://vincent-boden.github.io:1313/page/teksten/TE/</link>
+      <title>Stage</title>
+      <link>http://www.vincent-boden.github.io/page/stage/ST/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io:1313/page/teksten/TE/</guid>
+      <guid>http://www.vincent-boden.github.io/page/stage/ST/</guid>
+      <description>&lt;p&gt;Stage&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teksten</title>
+      <link>http://www.vincent-boden.github.io/page/teksten/TE/</link>
+      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
+      
+      <guid>http://www.vincent-boden.github.io/page/teksten/TE/</guid>
       <description>&lt;p&gt;Teksten&lt;/p&gt;
 </description>
     </item>
