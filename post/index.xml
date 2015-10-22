@@ -20,30 +20,36 @@
 
 &lt;h3 id=&#34;taak-07-vergelijking-hugo-wordpress:9b329372fbdc015bcba8535af475c9de&#34;&gt;&lt;strong&gt;TAAK 07: VERGELIJKING HUGO - WORDPRESS&lt;/strong&gt;&lt;/h3&gt;
 
-&lt;p&gt;Hugo is een zeer handige software om je eigen blog/website mee te maken. Het nadeel bij Hugo is dat
+&lt;p&gt;Hugo is een zeer handige software om je eigen &lt;strong&gt;blog/website&lt;/strong&gt; mee te maken. Het nadeel bij &lt;strong&gt;Hugo&lt;/strong&gt; is dat
 het heel moeilijk is om ermee te starten. Als je niet weet hoe Hugo werkt moet je eerst heel veel testen,
-onderzoeken en proberen te werken met verschillende thema’s. Elk thema heeft namelijk een aparte manier
-van configureren dus je moet eerst een thema vinden dat je zou willen gebruiken en dan moet je de README.md
+onderzoeken en proberen te werken met verschillende thema’s. Elk thema heeft namelijk een &lt;strong&gt;aparte manier
+van configureren&lt;/strong&gt; dus je moet eerst een thema vinden dat je zou willen gebruiken en dan moet je de &lt;em&gt;README.md&lt;/em&gt;
 lezen of extra uitleg zoeken op de Hugo site zelf om de configuratie van dit bepaalde thema onder de knie
 te krijgen. Vanaf dat je je thema volledig hebt geconfigureerd en hebt aangepast naar jouw voorkeur is het
-toevoegen van posts wel handig en eenvoudig. Jouw bepaalde thema geeft een bepaalde opmaak aan jou markdown
-post en het schrijven van een markdown post is vrij eenvoudig als je eventjes onderzoek doet. Ik heb
-ongeveer dezelfde posts nagemaakt met dezelfde titels op Wordpress en dit zijn mijn conclusies in
-vergelijking met het gebruik van Hugo. Wordpress werkt zeer eenvoudig zonder dat je al te veel moet
-onderzoeken kan je vrijwel meteen een site/blog starten en posts beginnen plaatsen. Er zijn ook hier
-verschillende thema’s waar je uit kan kiezen maar deze werken wel allemaal hetzelfde, je hoeft dus geen
-apart onderzoek te doen voor elk thema. Het opmaken van een post in Wordpress werkt zeer eenvoudig,
-je hebt een opmaak lint met allerlei opmaak toepassingen. Je kan ook zeer gemakkelijk afbeeldingen,
-locaties, … toevoegen aan je post. Het publiceren van de Wordpress blog is ook zeer handig, het werkt
-meteen als je de blog hebt aangemaakt en wanneer je je e-mail hebt bevestigd. Het publiceren via GitHub
-met Hugo daarentegen brengt wel enkele problemen met zich mee. De baseUrl wilde nooit aanpassen en bleef
-steeds op “localhost:1313”, wat er dus voor zorgde dat de site niet kon laden. Soms wilde de CSS ook niet
-laden en kon ik enkel de inhoud zien van mijn site zonder opmaak. Maar wanneer je eenmaal weet hoe het
-werkt gaat het wel vlot. Naar mijn eigen mening vind ik Wordpress wel handiger om mee te werken maar ik
-vind Hugo beter omdat je hier zelf meer moeite in moet steken en dat geeft een gevoel van voldoening dat
-je toch moeite hebt gestoken in het maken van je site/blog.&lt;/p&gt;
+toevoegen van &lt;strong&gt;posts&lt;/strong&gt; wel handig en eenvoudig. Jouw bepaalde thema geeft een bepaalde opmaak aan jou &lt;strong&gt;markdown&lt;/strong&gt;
+post en het schrijven van een markdown post is vrij eenvoudig als je eventjes onderzoek doet.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Ik heb ongeveer dezelfde posts nagemaakt met dezelfde titels op &lt;strong&gt;Wordpress&lt;/strong&gt; en dit zijn mijn conclusies in
+vergelijking met het gebruik van Hugo. Wordpress werkt zeer eenvoudig zonder dat je al te veel moet
+onderzoeken kan je &lt;strong&gt;vrijwel meteen een site/blog starten&lt;/strong&gt; en posts beginnen plaatsen. Er zijn ook hier
+verschillende thema’s waar je uit kan kiezen maar deze werken wel allemaal hetzelfde, je hoeft dus &lt;strong&gt;geen
+apart onderzoek&lt;/strong&gt; te doen voor elk thema. Het &lt;strong&gt;opmaken&lt;/strong&gt; van een post in Wordpress werkt zeer eenvoudig,
+je hebt een opmaak lint met allerlei opmaak toepassingen. Je kan ook zeer gemakkelijk afbeeldingen,
+locaties, … toevoegen aan je post.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Het &lt;strong&gt;publiceren&lt;/strong&gt; van de Wordpress blog is zeer handig, het werkt
+meteen als je de blog hebt aangemaakt en wanneer je je e-mail hebt bevestigd. Het publiceren via &lt;strong&gt;GitHub&lt;/strong&gt;
+met Hugo daarentegen brengt wel enkele problemen met zich mee. De &lt;strong&gt;baseUrl&lt;/strong&gt; wou nooit aanpassen en bleef
+steeds op &lt;em&gt;“localhost:1313”&lt;/em&gt; staan, wat er dus voor zorgde dat de site niet kon laden. Soms wilde de CSS ook niet
+laden en kon ik enkel de inhoud zien van mijn site zonder opmaak. Maar wanneer je eenmaal weet hoe het
+werkt gaat het wel vlot. Naar mijn eigen mening vind ik Wordpress wel &lt;strong&gt;handiger&lt;/strong&gt; om mee te werken maar ik
+vind Hugo beter omdat je hier zelf meer moeite in moet steken en dat geeft een &lt;strong&gt;gevoel van voldoening&lt;/strong&gt; dat&lt;/p&gt;
+
+&lt;h2 id=&#34;je-toch-moeite-hebt-gestoken-in-het-maken-van-je-site-blog:9b329372fbdc015bcba8535af475c9de&#34;&gt;je toch moeite hebt gestoken in het maken van je site/blog.&lt;/h2&gt;
 
 &lt;hr /&gt;
 
