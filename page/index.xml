@@ -26,7 +26,9 @@
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
       <guid>http://vincent-boden.github.io/page/engels/EN/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;IT-autobiography:&lt;/strong&gt;&lt;/p&gt;
+      <description>
+
+&lt;h3 id=&#34;taak-05-it-autobiography:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;strong&gt;TAAK 05: IT-autobiography:&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;Hello my name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in Beerse. My school is Immaculata Institute in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
 
@@ -46,7 +48,9 @@
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
       <guid>http://vincent-boden.github.io/page/frans/FR/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;FAQ:&lt;/strong&gt;&lt;/p&gt;
+      <description>
+
+&lt;h3 id=&#34;taak-04-la-foire-aux-questions:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;strong&gt;TAAK 04: LA FOIRE AUX QUESTIONS&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Il y a des différences entre d&amp;rsquo;Office online et d&amp;rsquo;Office offline?&lt;/p&gt;
@@ -145,7 +149,103 @@
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
       <guid>http://vincent-boden.github.io/page/software/SO/</guid>
-      <description>&lt;p&gt;Software Ontwikkeling&lt;/p&gt;
+      <description>
+
+&lt;h3 id=&#34;taak-07-vergelijking-hugo-wordpress:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;&lt;strong&gt;TAAK 07: VERGELIJKING HUGO - WORDPRESS&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Hugo is een zeer handige software om je eigen blog/website mee te maken. Het nadeel bij Hugo is dat
+het heel moeilijk is om ermee te starten. Als je niet weet hoe Hugo werkt moet je eerst heel veel testen,
+onderzoeken en proberen te werken met verschillende thema’s. Elk thema heeft namelijk een aparte manier
+van configureren dus je moet eerst een thema vinden dat je zou willen gebruiken en dan moet je de README.md
+lezen of extra uitleg zoeken op de Hugo site zelf om de configuratie van dit bepaalde thema onder de knie
+te krijgen. Vanaf dat je je thema volledig hebt geconfigureerd en hebt aangepast naar jouw voorkeur is het
+toevoegen van posts wel handig en eenvoudig. Jouw bepaalde thema geeft een bepaalde opmaak aan jou markdown
+post en het schrijven van een markdown post is vrij eenvoudig als je eventjes onderzoek doet. Ik heb
+ongeveer dezelfde posts nagemaakt met dezelfde titels op Wordpress en dit zijn mijn conclusies in
+vergelijking met het gebruik van Hugo. Wordpress werkt zeer eenvoudig zonder dat je al te veel moet
+onderzoeken kan je vrijwel meteen een site/blog starten en posts beginnen plaatsen. Er zijn ook hier
+verschillende thema’s waar je uit kan kiezen maar deze werken wel allemaal hetzelfde, je hoeft dus geen
+apart onderzoek te doen voor elk thema. Het opmaken van een post in Wordpress werkt zeer eenvoudig,
+je hebt een opmaak lint met allerlei opmaak toepassingen. Je kan ook zeer gemakkelijk afbeeldingen,
+locaties, … toevoegen aan je post. Het publiceren van de Wordpress blog is ook zeer handig, het werkt
+meteen als je de blog hebt aangemaakt en wanneer je je e-mail hebt bevestigd. Het publiceren via GitHub
+met Hugo daarentegen brengt wel enkele problemen met zich mee. De baseUrl wilde nooit aanpassen en bleef
+steeds op “localhost:1313”, wat er dus voor zorgde dat de site niet kon laden. Soms wilde de CSS ook niet
+laden en kon ik enkel de inhoud zien van mijn site zonder opmaak. Maar wanneer je eenmaal weet hoe het
+werkt gaat het wel vlot. Naar mijn eigen mening vind ik Wordpress wel handiger om mee te werken maar ik
+vind Hugo beter omdat je hier zelf meer moeite in moet steken en dat geeft een gevoel van voldoening dat
+je toch moeite hebt gestoken in het maken van je site/blog.&lt;/p&gt;
+
+&lt;h3 id=&#34;een-overzicht-van-de-directory-structuur:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;Een overzicht van de directory-structuur&lt;/h3&gt;
+
+&lt;p&gt;GitLab: &lt;a href=&#34;https://gitlab.com/vincent-boden/VincentBoden-GIPsite2015-2016.git&#34;&gt;https://gitlab.com/vincent-boden/VincentBoden-GIPsite2015-2016.git&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/Vincent-Boden/vincent-boden.github.io.git&#34;&gt;https://github.com/Vincent-Boden/vincent-boden.github.io.git&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Publicatie URL: &lt;a href=&#34;http://vincent-boden.github.io/&#34;&gt;http://vincent-boden.github.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Archetypes:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;default.md&lt;/strong&gt; || Dit bestand is gekopieerd uit mijn hugo thema maar ik heb het niet gebruikt in mijn site.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Layouts:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;content.html&lt;/strong&gt; || Hier staat in HTML en GO de vorm geschreven hoe de content
+map op de site wordt weergegeven, in mijn geval in de vorm van kaartjes.
+Ik heb hier een heel kleine aanpassing aangedaan wat ik op zich wel zeer
+moeilijk vond omdat ik GO niet ken.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;footer.html&lt;/strong&gt; || Hierin staat het pagina einde van de site, ik heb hier enkel kleine
+aanpassingen aan gedaan zoals de school vermelden, achtergrond
+aanpassen, … . Hier heb ik geen problemen mee ondervonden.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;header.html&lt;/strong&gt; || Hierin staat de header van de site en de navigatiebar. Vooral
+met de navigatiebar heb ik veel problemen gehad. Ik heb nieuwe pagina’s
+aangemaakt, voor elk vak een. Met het toevoegen en linken in de navigatiebar
+heb ik enkele problemen ondervonden, de pagina’s bleven namelijk ook tussen
+de posts staan wat dus niet de bedoeling is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;pagination.html&lt;/strong&gt; || Dit is een belangrijk bestand voor maken van meerdere post
+pagina’s en het navigeren daarheen. Ik ben hier dus vanaf afgebleven.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;index.html&lt;/strong&gt; || Dit is de verdeling van waar al de html zal worden geplaatst als
+het in de public mat terecht komt.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Static:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;style.css&lt;/strong&gt; || Hier heb ik de CSS van mijn thema in gekopieerd en een beetje
+aangepast naar hoe ik het wilde. Het moeilijke hierbij was dat ik eerst niet goed
+wist wat bij welk hoorde op de site dus moest ik dit eerst enkele keren testen
+voor dat het goed werkte.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;materialize.min.js&lt;/strong&gt; || Hier staat al de Javascript van mijn thema. Ik heb hier niets
+in aangepast omdat ik vind dat de Javascript van mijn thema er goed uit ziet.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Content:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Al de content&lt;/strong&gt; || Hier staan alle pages en posts in. Deze map stond standaard in het hugo&lt;br /&gt;
+bestand. De inhoud heb ik volledig zelf gemaakt met behulp van de command
+prompt. Hier waren geen moeilijkheden bij.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Rest:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;config.toml&lt;/strong&gt; || In dit bestand staat de configuratie van jou thema, ik heb hier veel
+in aangepast gedurende de vordering van de site omdat ik soms niet goed
+wist wat hier allemaal moest staan.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
 </description>
     </item>
     

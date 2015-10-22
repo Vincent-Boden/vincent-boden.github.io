@@ -19,19 +19,19 @@
     
     <a href="http://vincent-boden.github.io/page/bedrijfsbeheer/BB/">Bedrijfsbeheer<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
     
-    <a href="http://vincent-boden.github.io/page/ittapa/IT/">IT-TAPA<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
-    
     <a href="http://vincent-boden.github.io/page/software/SO/">Software Ontwikkeling<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
+    
+    <a href="http://vincent-boden.github.io/page/engels/EN/">Engels<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
+    
+    <a href="http://vincent-boden.github.io/page/frans/FR/">Frans<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
+    
+    <a href="http://vincent-boden.github.io/page/ittapa/IT/">IT-TAPA<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
     
     <a href="http://vincent-boden.github.io/page/stage/ST/">Stage<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
     
     <a href="http://vincent-boden.github.io/page/systeembeheer/SB/">Systeembeheer<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
     
     <a href="http://vincent-boden.github.io/page/teksten/TE/">Teksten<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
-    
-    <a href="http://vincent-boden.github.io/page/engels/EN/">Engels<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
-    
-    <a href="http://vincent-boden.github.io/page/frans/FR/">Frans<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
     
   </nav>
   <div id="index-banner" class="parallax-container">
@@ -66,7 +66,103 @@
       <div class="col s12">
         <div class="card-panel">
           <h4>Software Ontwikkeling</h4>
-          <p><p>Software Ontwikkeling</p>
+          <p>
+
+<h3 id="taak-07-vergelijking-hugo-wordpress:d14ee5058b83c1d60fff47a03daa92f6"><strong>TAAK 07: VERGELIJKING HUGO - WORDPRESS</strong></h3>
+
+<p>Hugo is een zeer handige software om je eigen blog/website mee te maken. Het nadeel bij Hugo is dat
+het heel moeilijk is om ermee te starten. Als je niet weet hoe Hugo werkt moet je eerst heel veel testen,
+onderzoeken en proberen te werken met verschillende thema’s. Elk thema heeft namelijk een aparte manier
+van configureren dus je moet eerst een thema vinden dat je zou willen gebruiken en dan moet je de README.md
+lezen of extra uitleg zoeken op de Hugo site zelf om de configuratie van dit bepaalde thema onder de knie
+te krijgen. Vanaf dat je je thema volledig hebt geconfigureerd en hebt aangepast naar jouw voorkeur is het
+toevoegen van posts wel handig en eenvoudig. Jouw bepaalde thema geeft een bepaalde opmaak aan jou markdown
+post en het schrijven van een markdown post is vrij eenvoudig als je eventjes onderzoek doet. Ik heb
+ongeveer dezelfde posts nagemaakt met dezelfde titels op Wordpress en dit zijn mijn conclusies in
+vergelijking met het gebruik van Hugo. Wordpress werkt zeer eenvoudig zonder dat je al te veel moet
+onderzoeken kan je vrijwel meteen een site/blog starten en posts beginnen plaatsen. Er zijn ook hier
+verschillende thema’s waar je uit kan kiezen maar deze werken wel allemaal hetzelfde, je hoeft dus geen
+apart onderzoek te doen voor elk thema. Het opmaken van een post in Wordpress werkt zeer eenvoudig,
+je hebt een opmaak lint met allerlei opmaak toepassingen. Je kan ook zeer gemakkelijk afbeeldingen,
+locaties, … toevoegen aan je post. Het publiceren van de Wordpress blog is ook zeer handig, het werkt
+meteen als je de blog hebt aangemaakt en wanneer je je e-mail hebt bevestigd. Het publiceren via GitHub
+met Hugo daarentegen brengt wel enkele problemen met zich mee. De baseUrl wilde nooit aanpassen en bleef
+steeds op “localhost:1313”, wat er dus voor zorgde dat de site niet kon laden. Soms wilde de CSS ook niet
+laden en kon ik enkel de inhoud zien van mijn site zonder opmaak. Maar wanneer je eenmaal weet hoe het
+werkt gaat het wel vlot. Naar mijn eigen mening vind ik Wordpress wel handiger om mee te werken maar ik
+vind Hugo beter omdat je hier zelf meer moeite in moet steken en dat geeft een gevoel van voldoening dat
+je toch moeite hebt gestoken in het maken van je site/blog.</p>
+
+<h3 id="een-overzicht-van-de-directory-structuur:d14ee5058b83c1d60fff47a03daa92f6">Een overzicht van de directory-structuur</h3>
+
+<p>GitLab: <a href="https://gitlab.com/vincent-boden/VincentBoden-GIPsite2015-2016.git">https://gitlab.com/vincent-boden/VincentBoden-GIPsite2015-2016.git</a></p>
+
+<p>GitHub: <a href="https://github.com/Vincent-Boden/vincent-boden.github.io.git">https://github.com/Vincent-Boden/vincent-boden.github.io.git</a></p>
+
+<p>Publicatie URL: <a href="http://vincent-boden.github.io/">http://vincent-boden.github.io/</a></p>
+
+<blockquote>
+<p>Archetypes:</p>
+</blockquote>
+
+<p><strong>default.md</strong> || Dit bestand is gekopieerd uit mijn hugo thema maar ik heb het niet gebruikt in mijn site.</p>
+
+<blockquote>
+<p>Layouts:</p>
+</blockquote>
+
+<p><strong>content.html</strong> || Hier staat in HTML en GO de vorm geschreven hoe de content
+map op de site wordt weergegeven, in mijn geval in de vorm van kaartjes.
+Ik heb hier een heel kleine aanpassing aangedaan wat ik op zich wel zeer
+moeilijk vond omdat ik GO niet ken.</p>
+
+<p><strong>footer.html</strong> || Hierin staat het pagina einde van de site, ik heb hier enkel kleine
+aanpassingen aan gedaan zoals de school vermelden, achtergrond
+aanpassen, … . Hier heb ik geen problemen mee ondervonden.</p>
+
+<p><strong>header.html</strong> || Hierin staat de header van de site en de navigatiebar. Vooral
+met de navigatiebar heb ik veel problemen gehad. Ik heb nieuwe pagina’s
+aangemaakt, voor elk vak een. Met het toevoegen en linken in de navigatiebar
+heb ik enkele problemen ondervonden, de pagina’s bleven namelijk ook tussen
+de posts staan wat dus niet de bedoeling is.</p>
+
+<p><strong>pagination.html</strong> || Dit is een belangrijk bestand voor maken van meerdere post
+pagina’s en het navigeren daarheen. Ik ben hier dus vanaf afgebleven.</p>
+
+<p><strong>index.html</strong> || Dit is de verdeling van waar al de html zal worden geplaatst als
+het in de public mat terecht komt.</p>
+
+<blockquote>
+<p>Static:</p>
+</blockquote>
+
+<p><strong>style.css</strong> || Hier heb ik de CSS van mijn thema in gekopieerd en een beetje
+aangepast naar hoe ik het wilde. Het moeilijke hierbij was dat ik eerst niet goed
+wist wat bij welk hoorde op de site dus moest ik dit eerst enkele keren testen
+voor dat het goed werkte.</p>
+
+<p><strong>materialize.min.js</strong> || Hier staat al de Javascript van mijn thema. Ik heb hier niets
+in aangepast omdat ik vind dat de Javascript van mijn thema er goed uit ziet.</p>
+
+<blockquote>
+<p>Content:</p>
+</blockquote>
+
+<p><strong>Al de content</strong> || Hier staan alle pages en posts in. Deze map stond standaard in het hugo<br />
+bestand. De inhoud heb ik volledig zelf gemaakt met behulp van de command
+prompt. Hier waren geen moeilijkheden bij.</p>
+
+<blockquote>
+<p>Rest:</p>
+</blockquote>
+
+<p><strong>config.toml</strong> || In dit bestand staat de configuratie van jou thema, ik heb hier veel
+in aangepast gedurende de vordering van de site omdat ik soms niet goed
+wist wat hier allemaal moest staan.</p>
+
+<hr />
+
+<hr />
 </p>
           1 Jan 2015
           
@@ -77,13 +173,13 @@
     <div class="row">
       <div class="col s3 m1">
       
-        <a class="btn-floating btn-large waves-effect waves-light" href="http://vincent-boden.github.io/page/ittapa/IT/"><i class="mdi-navigation-arrow-back"></i></a>
+        <a class="btn-floating btn-large waves-effect waves-light" href="http://vincent-boden.github.io/page/bedrijfsbeheer/BB/"><i class="mdi-navigation-arrow-back"></i></a>
       
       </div>
       <div class="col s6 m10 center">&nbsp</div>
       <div class="col s3 m1">
       
-        <a class="btn-floating btn-large waves-effect waves-light" href="http://vincent-boden.github.io/page/stage/ST/"><i class="mdi-navigation-arrow-forward"></i></a>
+        <a class="btn-floating btn-large waves-effect waves-light" href="http://vincent-boden.github.io/page/engels/EN/"><i class="mdi-navigation-arrow-forward"></i></a>
       
       </div>
     </div>

@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GIP-site 2015 - 2016</copyright>
-    <lastBuildDate>Wed, 21 Oct 2015 14:56:25 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2015 14:56:25 +0200</lastBuildDate>
     <atom:link href="http://vincent-boden.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>GIP TAAK 07 - SOFT</title>
+      <title>GIP TAAK 07 SOFTWARE</title>
       <link>http://vincent-boden.github.io/post/GIP%20TAAK%2007/</link>
-      <pubDate>Wed, 21 Oct 2015 14:56:25 +0200</pubDate>
+      <pubDate>Fri, 23 Oct 2015 14:56:25 +0200</pubDate>
       
       <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2007/</guid>
       <description>
 
-&lt;h3 id=&#34;vergelijking-van-hugo-met-wordpress:9b329372fbdc015bcba8535af475c9de&#34;&gt;Vergelijking van Hugo met Wordpress&lt;/h3&gt;
+&lt;h3 id=&#34;taak-07-vergelijking-hugo-wordpress:9b329372fbdc015bcba8535af475c9de&#34;&gt;&lt;strong&gt;TAAK 07: VERGELIJKING HUGO - WORDPRESS&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;Hugo is een zeer handige software om je eigen blog/website mee te maken. Het nadeel bij Hugo is dat
 het heel moeilijk is om ermee te starten. Als je niet weet hoe Hugo werkt moet je eerst heel veel testen,
@@ -43,7 +43,9 @@ werkt gaat het wel vlot. Naar mijn eigen mening vind ik Wordpress wel handiger o
 vind Hugo beter omdat je hier zelf meer moeite in moet steken en dat geeft een gevoel van voldoening dat
 je toch moeite hebt gestoken in het maken van je site/blog.&lt;/p&gt;
 
-&lt;p&gt;==============================================================================================================&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;een-overzicht-van-de-directory-structuur:9b329372fbdc015bcba8535af475c9de&#34;&gt;Een overzicht van de directory-structuur&lt;/h3&gt;
 
@@ -51,7 +53,7 @@ je toch moeite hebt gestoken in het maken van je site/blog.&lt;/p&gt;
 
 &lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/Vincent-Boden/vincent-boden.github.io.git&#34;&gt;https://github.com/Vincent-Boden/vincent-boden.github.io.git&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Publicatie URL:&lt;/p&gt;
+&lt;p&gt;Publicatie URL: &lt;a href=&#34;http://vincent-boden.github.io/&#34;&gt;http://vincent-boden.github.io/&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Archetypes:&lt;/p&gt;
@@ -111,6 +113,119 @@ prompt. Hier waren geen moeilijkheden bij.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;config.toml&lt;/strong&gt; || In dit bestand staat de configuratie van jou thema, ik heb hier veel
 in aangepast gedurende de vordering van de site omdat ik soms niet goed
 wist wat hier allemaal moest staan.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GIP TAAK 04 FRANS</title>
+      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2004/</link>
+      <pubDate>Mon, 19 Oct 2015 17:14:11 +0200</pubDate>
+      
+      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2004/</guid>
+      <description>
+
+&lt;h3 id=&#34;taak-04-la-foire-aux-questions:70280f0e624693dbc05527b961374c9f&#34;&gt;&lt;strong&gt;TAAK 04: LA FOIRE AUX QUESTIONS&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Il y a des différences entre d&amp;rsquo;Office online et d&amp;rsquo;Office offline?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Oui, il y a des différences. Par exemple, il y a moins de options pour le mise en page. Mais pas craint, Office online a aussi beaucoup des bien options.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Où puis-utiliser OneDrive?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;OneDrive est un application multiplateforme. Vous pouvez utiliser le partout. Il y a des applications pour iOS, Mac, Android, Windows, … Ici vous pouvez gérer tous vos fichiers et plus.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Comment partager des fichiers avec OneDrive for Business?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;OneDrive a un avantage pour part des documents. C&amp;rsquo;est facile à utiliser. Suivez ces étapes:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Vous devez cliquer à gauche du nom de votre fichier pour sélecter le fichier   que vous voulez partage.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Après vous cliquer en haut à partager.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Maintenant vous voyez un menu avec les options où vous pouvez choisir.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Quelle types des documents vous pouvez télécharger?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Il y a 2 options de téléverser des documents en OneDrive online. Vous pouvez créer de nouveaux documents d&amp;rsquo;Office comme PowerPoint, Word, Excel, … mais il y a aussi un option pour téléverser des documents de tout types de votre pc avec un maximum de 10 GiB.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Une connexion à Internet est-elle requise pour Office 365 ?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Non, pour utilisé Office, une connexion à internet n&amp;rsquo;est pas nécessaire. Néanmoins, l&amp;rsquo;installation requise une connexion. Aussi, une connexion offre plus des fonctions comme sans connexion:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Services de cloud (Synchronisation avec OneDrive et Office online)&lt;/li&gt;
+&lt;li&gt;E-mail&lt;/li&gt;
+&lt;li&gt;IT Management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donc, quand vous exécutez des changement lorsque vous êtes déconnecté ce&lt;/p&gt;
+
+&lt;p&gt;synchroniser quand vous allez online.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Comment vous changez une extension à Office 365?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En Office vous pouvez utiliser plus que seulement les extensions standard. Si vous pouvez adapter l&amp;rsquo;extensions dans un PDF dans Word par exemple, c&amp;rsquo;est simple par quelque clics comme suit:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Cliquer sur fichier aux coin supérieur gauche de votre document et après en enregistrer sous.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Maintenant vous choisissez la place de enregistrer de votre document.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sous la cadre de enregistrer vous voyez la cadre où vous pouvez changer l&amp;rsquo;extension.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Qu&amp;rsquo;est-ce que le cloud?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Le cloud est une désignation pour les services basés sur le web. Le cloud est utilisé par plus des applications. OneDrive est un part de la cloud du Office. Dans le cloud, vous pouvez stocker des documents, synchroniser avec OneDrive, téléphoner avec Lync et cetera. Le cloud n&amp;rsquo;a pas un interface mais OneDrive apporte certaines fonctions.&lt;/p&gt;
+
+&lt;p&gt;
+&amp;gt; Comment vous pouvez protéger votre document?&lt;/p&gt;
+
+&lt;p&gt;Quand vous avez un document secret ou quand personne peux adapter votre document, vous pouvez protéger votre document:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Cliquer sur fichier aux coin supérieur gauche de votre document. Vous voyez un cadre avec le titre &amp;ldquo;Protéger le document&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Comme vous cliquez cette cadre vous voyez un menu avec les options différentes de protéger de votre document.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GIP TAAK 05 ENGELS</title>
+      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2005/</link>
+      <pubDate>Mon, 19 Oct 2015 17:14:11 +0200</pubDate>
+      
+      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2005/</guid>
+      <description>
+
+&lt;h3 id=&#34;taak-05-it-autobiography:91ecd52a1dace6d8139f0634258e1b69&#34;&gt;&lt;strong&gt;TAAK 05: IT-autobiography:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Hello my name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in Beerse. My school is Immaculata Institute in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
+
+&lt;p&gt;My first contact with IT was when I was very young around the age of six. One of my uncles worked in an IT-related business and every time I saw him he told something about what they did. Most of all they made websites and I was really interested even when I was that young. When my parents bought my first pc my addiction started to grow. First I just started with playing games and visiting info websites about stores in my city but when I was older I started to learn how to use my computer as a  software development tool with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
+
+&lt;p&gt;IT means a lot for me, every single moment when I didn&amp;rsquo;t plan anything that day I take my computer and I play games, build websites, do something for school, … . There is actually not a single day that I didn&amp;rsquo;t touched my pc. In the vacations I use my pc even more because on my holiday work I work 9 hours a day with a pc and when I come home from working I start up my own pc. Sometimes they even ask IT-related questions at me on my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert in what I do but I evolved a lot with my IT skills. If I look at what I could three years ago and what I can do know … . Three years ago I only knew the basics and know every day on school I learn something new about computers.&lt;/p&gt;
+
+&lt;p&gt;I think when I finished my sixth year on Immaculate Institute I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about JavaScript, HTML and CSS at Karel de Grote high school. If I pass that exam I don’t have to study those lessons anymore next year and the things I learn there could always come handy this school year. After I finished my bachelor or master I hope I can start of course in a business where they make beautiful, interactive and responsive websites so I can fully express my passion into my work.&lt;/p&gt;
+
+&lt;p&gt;IT is as I already mentioned something really important in my life. I can’t imagen a life without my computer, smartphone, … . It is a big part of my life and I really like it that my friends of the class share this passion with me so there is always something IT-related to talk about in the class.&lt;/p&gt;
 </description>
     </item>
     
