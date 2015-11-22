@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>/vincent-boden.github.io/</loc>
     <lastmod>2015-10-23T14:56:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/GIP%20TAAK%2007/</loc>
+    <loc>/vincent-boden.github.io/post/GIP%20TAAK%2007/</loc>
     <lastmod>2015-10-23T14:56:25+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/GIP%20TAAK%2004/</loc>
+    <loc>/vincent-boden.github.io/post/GIP%20TAAK%2005/</loc>
     <lastmod>2015-10-19T17:14:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/GIP%20TAAK%2005/</loc>
+    <loc>/vincent-boden.github.io/post/GIP%20TAAK%2004/</loc>
     <lastmod>2015-10-19T17:14:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/page/frans/FR/</loc>
+    <loc>/vincent-boden.github.io/page/ittapa/IT/</loc>
     <lastmod>2015-01-01T17:14:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/page/bedrijfsbeheer/BB/</loc>
+    <loc>/vincent-boden.github.io/page/frans/FR/</loc>
     <lastmod>2015-01-01T17:14:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/page/ittapa/IT/</loc>
+    <loc>/vincent-boden.github.io/page/bedrijfsbeheer/BB/</loc>
     <lastmod>2015-01-01T17:14:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/page/engels/EN/</loc>
+    <loc>/vincent-boden.github.io/page/software/SO/</loc>
     <lastmod>2015-01-01T17:14:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/page/software/SO/</loc>
+    <loc>/vincent-boden.github.io/page/stage/ST/</loc>
     <lastmod>2015-01-01T17:14:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/page/stage/ST/</loc>
+    <loc>/vincent-boden.github.io/page/systeembeheer/SB/</loc>
     <lastmod>2015-01-01T17:14:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/page/systeembeheer/SB/</loc>
+    <loc>/vincent-boden.github.io/page/engels/EN/</loc>
     <lastmod>2015-01-01T17:14:11+02:00</lastmod>
   </url>
   

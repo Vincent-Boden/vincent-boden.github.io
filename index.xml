@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vincent&#39;s GIP-site 2015 - 2016</title>
-    <link>http://localhost:1313/</link>
+    <link>vincent-boden.github.io/</link>
     <description>Recent content on Vincent&#39;s GIP-site 2015 - 2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GIP-site 2015 - 2016</copyright>
     <lastBuildDate>Fri, 23 Oct 2015 14:56:25 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="vincent-boden.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GIP TAAK 07 SOFTWARE</title>
-      <link>http://localhost:1313/post/GIP%20TAAK%2007/</link>
+      <link>/vincent-boden.github.io/post/GIP%20TAAK%2007/</link>
       <pubDate>Fri, 23 Oct 2015 14:56:25 +0200</pubDate>
       
-      <guid>http://localhost:1313/post/GIP%20TAAK%2007/</guid>
+      <guid>/vincent-boden.github.io/post/GIP%20TAAK%2007/</guid>
       <description>
 
 &lt;h3 id=&#34;taak-07-vergelijking-hugo-wordpress:9b329372fbdc015bcba8535af475c9de&#34;&gt;&lt;strong&gt;TAAK 07: VERGELIJKING HUGO - WORDPRESS&lt;/strong&gt;&lt;/h3&gt;
@@ -124,11 +124,33 @@ wist wat hier allemaal moest staan.&lt;/p&gt;
     </item>
     
     <item>
-      <title>GIP TAAK 04 FRANS</title>
-      <link>http://localhost:1313/post/GIP%20TAAK%2004/</link>
+      <title>GIP TAAK 05 ENGELS</title>
+      <link>/vincent-boden.github.io/post/GIP%20TAAK%2005/</link>
       <pubDate>Mon, 19 Oct 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://localhost:1313/post/GIP%20TAAK%2004/</guid>
+      <guid>/vincent-boden.github.io/post/GIP%20TAAK%2005/</guid>
+      <description>
+
+&lt;h3 id=&#34;taak-05-it-autobiography:91ecd52a1dace6d8139f0634258e1b69&#34;&gt;&lt;strong&gt;TAAK 05: IT-autobiography:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Hello my name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in Beerse. My school is Immaculata Institute in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
+
+&lt;p&gt;My first contact with IT was when I was very young around the age of six. One of my uncles worked in an IT-related business and every time I saw him he told something about what they did. Most of all they made websites and I was really interested even when I was that young. When my parents bought my first pc my addiction started to grow. First I just started with playing games and visiting info websites about stores in my city but when I was older I started to learn how to use my computer as a  software development tool with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
+
+&lt;p&gt;IT means a lot for me, every single moment when I didn&amp;rsquo;t plan anything that day I take my computer and I play games, build websites, do something for school, … . There is actually not a single day that I didn&amp;rsquo;t touched my pc. In the vacations I use my pc even more because on my holiday work I work 9 hours a day with a pc and when I come home from working I start up my own pc. Sometimes they even ask IT-related questions at me on my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert in what I do but I evolved a lot with my IT skills. If I look at what I could three years ago and what I can do know … . Three years ago I only knew the basics and know every day on school I learn something new about computers.&lt;/p&gt;
+
+&lt;p&gt;I think when I finished my sixth year on Immaculate Institute I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about JavaScript, HTML and CSS at Karel de Grote high school. If I pass that exam I don’t have to study those lessons anymore next year and the things I learn there could always come handy this school year. After I finished my bachelor or master I hope I can start of course in a business where they make beautiful, interactive and responsive websites so I can fully express my passion into my work.&lt;/p&gt;
+
+&lt;p&gt;IT is as I already mentioned something really important in my life. I can’t imagen a life without my computer, smartphone, … . It is a big part of my life and I really like it that my friends of the class share this passion with me so there is always something IT-related to talk about in the class.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GIP TAAK 04 FRANS</title>
+      <link>/vincent-boden.github.io/post/GIP%20TAAK%2004/</link>
+      <pubDate>Mon, 19 Oct 2015 17:14:11 +0200</pubDate>
+      
+      <guid>/vincent-boden.github.io/post/GIP%20TAAK%2004/</guid>
       <description>
 
 &lt;h3 id=&#34;taak-04-la-foire-aux-questions:70280f0e624693dbc05527b961374c9f&#34;&gt;&lt;strong&gt;TAAK 04: LA FOIRE AUX QUESTIONS&lt;/strong&gt;&lt;/h3&gt;
@@ -215,33 +237,21 @@ wist wat hier allemaal moest staan.&lt;/p&gt;
     </item>
     
     <item>
-      <title>GIP TAAK 05 ENGELS</title>
-      <link>http://localhost:1313/post/GIP%20TAAK%2005/</link>
-      <pubDate>Mon, 19 Oct 2015 17:14:11 +0200</pubDate>
+      <title>IT-TAPA</title>
+      <link>/vincent-boden.github.io/page/ittapa/IT/</link>
+      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://localhost:1313/post/GIP%20TAAK%2005/</guid>
-      <description>
-
-&lt;h3 id=&#34;taak-05-it-autobiography:91ecd52a1dace6d8139f0634258e1b69&#34;&gt;&lt;strong&gt;TAAK 05: IT-autobiography:&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;Hello my name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in Beerse. My school is Immaculata Institute in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
-
-&lt;p&gt;My first contact with IT was when I was very young around the age of six. One of my uncles worked in an IT-related business and every time I saw him he told something about what they did. Most of all they made websites and I was really interested even when I was that young. When my parents bought my first pc my addiction started to grow. First I just started with playing games and visiting info websites about stores in my city but when I was older I started to learn how to use my computer as a  software development tool with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
-
-&lt;p&gt;IT means a lot for me, every single moment when I didn&amp;rsquo;t plan anything that day I take my computer and I play games, build websites, do something for school, … . There is actually not a single day that I didn&amp;rsquo;t touched my pc. In the vacations I use my pc even more because on my holiday work I work 9 hours a day with a pc and when I come home from working I start up my own pc. Sometimes they even ask IT-related questions at me on my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert in what I do but I evolved a lot with my IT skills. If I look at what I could three years ago and what I can do know … . Three years ago I only knew the basics and know every day on school I learn something new about computers.&lt;/p&gt;
-
-&lt;p&gt;I think when I finished my sixth year on Immaculate Institute I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about JavaScript, HTML and CSS at Karel de Grote high school. If I pass that exam I don’t have to study those lessons anymore next year and the things I learn there could always come handy this school year. After I finished my bachelor or master I hope I can start of course in a business where they make beautiful, interactive and responsive websites so I can fully express my passion into my work.&lt;/p&gt;
-
-&lt;p&gt;IT is as I already mentioned something really important in my life. I can’t imagen a life without my computer, smartphone, … . It is a big part of my life and I really like it that my friends of the class share this passion with me so there is always something IT-related to talk about in the class.&lt;/p&gt;
+      <guid>/vincent-boden.github.io/page/ittapa/IT/</guid>
+      <description>&lt;p&gt;IT-TAPA&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Frans</title>
-      <link>http://localhost:1313/page/frans/FR/</link>
+      <link>/vincent-boden.github.io/page/frans/FR/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://localhost:1313/page/frans/FR/</guid>
+      <guid>/vincent-boden.github.io/page/frans/FR/</guid>
       <description>
 
 &lt;h3 id=&#34;taak-04-la-foire-aux-questions:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;strong&gt;TAAK 04: LA FOIRE AUX QUESTIONS&lt;/strong&gt;&lt;/h3&gt;
@@ -329,52 +339,20 @@ wist wat hier allemaal moest staan.&lt;/p&gt;
     
     <item>
       <title>Bedrijfsbeheer</title>
-      <link>http://localhost:1313/page/bedrijfsbeheer/BB/</link>
+      <link>/vincent-boden.github.io/page/bedrijfsbeheer/BB/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://localhost:1313/page/bedrijfsbeheer/BB/</guid>
+      <guid>/vincent-boden.github.io/page/bedrijfsbeheer/BB/</guid>
       <description>&lt;p&gt;Bedrijfsbeheer&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>IT-TAPA</title>
-      <link>http://localhost:1313/page/ittapa/IT/</link>
-      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://localhost:1313/page/ittapa/IT/</guid>
-      <description>&lt;p&gt;IT-TAPA&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Engels</title>
-      <link>http://localhost:1313/page/engels/EN/</link>
-      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://localhost:1313/page/engels/EN/</guid>
-      <description>
-
-&lt;h3 id=&#34;taak-05-it-autobiography:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;strong&gt;TAAK 05: IT-autobiography:&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;Hello my name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in Beerse. My school is Immaculata Institute in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
-
-&lt;p&gt;My first contact with IT was when I was very young around the age of six. One of my uncles worked in an IT-related business and every time I saw him he told something about what they did. Most of all they made websites and I was really interested even when I was that young. When my parents bought my first pc my addiction started to grow. First I just started with playing games and visiting info websites about stores in my city but when I was older I started to learn how to use my computer as a  software development tool with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
-
-&lt;p&gt;IT means a lot for me, every single moment when I didn&amp;rsquo;t plan anything that day I take my computer and I play games, build websites, do something for school, … . There is actually not a single day that I didn&amp;rsquo;t touched my pc. In the vacations I use my pc even more because on my holiday work I work 9 hours a day with a pc and when I come home from working I start up my own pc. Sometimes they even ask IT-related questions at me on my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert in what I do but I evolved a lot with my IT skills. If I look at what I could three years ago and what I can do know … . Three years ago I only knew the basics and know every day on school I learn something new about computers.&lt;/p&gt;
-
-&lt;p&gt;I think when I finished my sixth year on Immaculate Institute I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about JavaScript, HTML and CSS at Karel de Grote high school. If I pass that exam I don’t have to study those lessons anymore next year and the things I learn there could always come handy this school year. After I finished my bachelor or master I hope I can start of course in a business where they make beautiful, interactive and responsive websites so I can fully express my passion into my work.&lt;/p&gt;
-
-&lt;p&gt;IT is as I already mentioned something really important in my life. I can’t imagen a life without my computer, smartphone, … . It is a big part of my life and I really like it that my friends of the class share this passion with me so there is always something IT-related to talk about in the class.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Software Ontwikkeling</title>
-      <link>http://localhost:1313/page/software/SO/</link>
+      <link>/vincent-boden.github.io/page/software/SO/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://localhost:1313/page/software/SO/</guid>
+      <guid>/vincent-boden.github.io/page/software/SO/</guid>
       <description>
 
 &lt;h3 id=&#34;taak-07-vergelijking-hugo-wordpress:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;&lt;strong&gt;TAAK 07: VERGELIJKING HUGO - WORDPRESS&lt;/strong&gt;&lt;/h3&gt;
@@ -484,21 +462,43 @@ wist wat hier allemaal moest staan.&lt;/p&gt;
     
     <item>
       <title>Stage</title>
-      <link>http://localhost:1313/page/stage/ST/</link>
+      <link>/vincent-boden.github.io/page/stage/ST/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://localhost:1313/page/stage/ST/</guid>
+      <guid>/vincent-boden.github.io/page/stage/ST/</guid>
       <description>&lt;p&gt;Stage&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Systeembeheer</title>
-      <link>http://localhost:1313/page/systeembeheer/SB/</link>
+      <link>/vincent-boden.github.io/page/systeembeheer/SB/</link>
       <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://localhost:1313/page/systeembeheer/SB/</guid>
+      <guid>/vincent-boden.github.io/page/systeembeheer/SB/</guid>
       <description>&lt;p&gt;Systeembeheer&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Engels</title>
+      <link>/vincent-boden.github.io/page/engels/EN/</link>
+      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
+      
+      <guid>/vincent-boden.github.io/page/engels/EN/</guid>
+      <description>
+
+&lt;h3 id=&#34;taak-05-it-autobiography:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;strong&gt;TAAK 05: IT-autobiography:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Hello my name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in Beerse. My school is Immaculata Institute in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
+
+&lt;p&gt;My first contact with IT was when I was very young around the age of six. One of my uncles worked in an IT-related business and every time I saw him he told something about what they did. Most of all they made websites and I was really interested even when I was that young. When my parents bought my first pc my addiction started to grow. First I just started with playing games and visiting info websites about stores in my city but when I was older I started to learn how to use my computer as a  software development tool with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
+
+&lt;p&gt;IT means a lot for me, every single moment when I didn&amp;rsquo;t plan anything that day I take my computer and I play games, build websites, do something for school, … . There is actually not a single day that I didn&amp;rsquo;t touched my pc. In the vacations I use my pc even more because on my holiday work I work 9 hours a day with a pc and when I come home from working I start up my own pc. Sometimes they even ask IT-related questions at me on my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert in what I do but I evolved a lot with my IT skills. If I look at what I could three years ago and what I can do know … . Three years ago I only knew the basics and know every day on school I learn something new about computers.&lt;/p&gt;
+
+&lt;p&gt;I think when I finished my sixth year on Immaculate Institute I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about JavaScript, HTML and CSS at Karel de Grote high school. If I pass that exam I don’t have to study those lessons anymore next year and the things I learn there could always come handy this school year. After I finished my bachelor or master I hope I can start of course in a business where they make beautiful, interactive and responsive websites so I can fully express my passion into my work.&lt;/p&gt;
+
+&lt;p&gt;IT is as I already mentioned something really important in my life. I can’t imagen a life without my computer, smartphone, … . It is a big part of my life and I really like it that my friends of the class share this passion with me so there is always something IT-related to talk about in the class.&lt;/p&gt;
 </description>
     </item>
     
