@@ -25,7 +25,7 @@
 &lt;p&gt;Hugo is een zeer handige software om je eigen &lt;strong&gt;blog/website&lt;/strong&gt; mee te maken. Het nadeel bij &lt;strong&gt;Hugo&lt;/strong&gt; is dat
 het heel moeilijk is om ermee te starten. Als je niet weet hoe Hugo werkt moet je eerst heel veel testen,
 onderzoeken en proberen te werken met verschillende thema’s. Elk thema heeft namelijk een &lt;strong&gt;aparte manier
-van configureren&lt;/strong&gt; dus je moet eerst een thema vinden dat je zou willen gebruiken en dan moet je de &lt;em&gt;README.md&lt;/em&gt;
+van configureren&lt;/strong&gt; dus je moet eerst een thema vinden dat je zou willen gebruiken en dan moet je de &amp;ldquo;&lt;em&gt;README.md&lt;/em&gt;&amp;ldquo;
 lezen of extra uitleg zoeken op de Hugo site zelf om de configuratie van dit bepaalde thema onder de knie
 te krijgen. Vanaf dat je je thema volledig hebt geconfigureerd en hebt aangepast naar jouw voorkeur is het
 toevoegen van &lt;strong&gt;posts&lt;/strong&gt; wel handig en eenvoudig. Jouw bepaalde thema geeft een bepaalde opmaak aan jou &lt;strong&gt;markdown&lt;/strong&gt;
@@ -46,7 +46,7 @@ locaties, … toevoegen aan je post.&lt;/p&gt;
 &lt;p&gt;Het &lt;strong&gt;publiceren&lt;/strong&gt; van de Wordpress blog is zeer handig, het werkt
 meteen als je de blog hebt aangemaakt en wanneer je je e-mail hebt bevestigd. Het publiceren via &lt;strong&gt;GitHub&lt;/strong&gt;
 met Hugo daarentegen brengt wel enkele problemen met zich mee. De &lt;strong&gt;baseUrl&lt;/strong&gt; wou nooit aanpassen en bleef
-steeds op &lt;em&gt;“localhost:1313”&lt;/em&gt; staan, wat er dus voor zorgde dat de site niet kon laden. Soms wilde de CSS ook niet
+steeds op &amp;ldquo;&lt;em&gt;localhost:1313&lt;/em&gt;&amp;rdquo; staan, wat er dus voor zorgde dat de site niet kon laden. Soms wilde de CSS ook niet
 laden en kon ik enkel de inhoud zien van mijn site zonder opmaak. Maar wanneer je eenmaal weet hoe het
 werkt gaat het wel vlot. Naar mijn eigen mening vind ik Wordpress wel &lt;strong&gt;handiger&lt;/strong&gt; om mee te werken maar ik
 vind Hugo beter omdat je hier zelf meer moeite in moet steken en dat geeft een &lt;strong&gt;gevoel van voldoening&lt;/strong&gt; dat
@@ -76,52 +76,52 @@ je toch moeite hebt gestoken in het maken van je site/blog.&lt;/p&gt;
 
 &lt;h5 id=&#34;layouts:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;Layouts:&lt;/h5&gt;
 
-&lt;p&gt;&lt;strong&gt;content.html:&lt;/strong&gt; Hier staat in HTML en GO de vorm geschreven hoe de content
+&lt;p&gt;&lt;strong&gt;content.html:&lt;/strong&gt; Hier staat in &lt;strong&gt;HTML&lt;/strong&gt; en &lt;strong&gt;GO&lt;/strong&gt; de vorm geschreven hoe de content
 map op de site wordt weergegeven, in mijn geval in de vorm van kaartjes.
 Ik heb hier een heel kleine aanpassing aangedaan wat ik op zich wel zeer
-moeilijk vond omdat ik GO niet ken.&lt;/p&gt;
+moeilijk vond omdat ik &lt;strong&gt;GO&lt;/strong&gt; niet ken.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;footer.html:&lt;/strong&gt; Hierin staat het pagina einde van de site, ik heb hier enkel kleine
+&lt;p&gt;&lt;strong&gt;footer.html:&lt;/strong&gt; Hierin staat het &lt;strong&gt;pagina einde&lt;/strong&gt; van de site, ik heb hier enkel kleine
 aanpassingen aan gedaan zoals de school vermelden, achtergrond
 aanpassen, … . Hier heb ik geen problemen mee ondervonden.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;header.html:&lt;/strong&gt; Hierin staat de header van de site en de navigatiebar. Vooral
+&lt;p&gt;&lt;strong&gt;header.html:&lt;/strong&gt; Hierin staat de &lt;strong&gt;header&lt;/strong&gt; van de site en de navigatiebar. Vooral
 met de navigatiebar heb ik veel problemen gehad. Ik heb nieuwe pagina’s
 aangemaakt, voor elk vak een. Met het toevoegen en linken in de navigatiebar
-heb ik enkele problemen ondervonden, de pagina’s bleven namelijk ook tussen
+heb ik &lt;strong&gt;enkele problemen&lt;/strong&gt; ondervonden, de pagina’s bleven namelijk ook tussen
 de posts staan wat dus niet de bedoeling is.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;pagination.html:&lt;/strong&gt; Dit is een belangrijk bestand voor maken van meerdere post
-pagina’s en het navigeren daarheen. Ik ben hier dus vanaf afgebleven.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;pagination.html:&lt;/strong&gt; Dit is een belangrijk bestand voor maken van &lt;strong&gt;meerdere post
+pagina’s&lt;/strong&gt; en het navigeren daarheen. Ik ben hier dus vanaf afgebleven.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;index.html:&lt;/strong&gt; Dit is de verdeling van waar al de html zal worden geplaatst als
+&lt;p&gt;&lt;strong&gt;index.html:&lt;/strong&gt; Dit is de verdeling van waar al de &lt;strong&gt;HTML&lt;/strong&gt; zal worden geplaatst als
 het in de public mat terecht komt.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;static:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;Static:&lt;/h5&gt;
 
-&lt;p&gt;&lt;strong&gt;style.css:&lt;/strong&gt; Hier heb ik de CSS van mijn thema in gekopieerd en een beetje
+&lt;p&gt;&lt;strong&gt;style.css:&lt;/strong&gt; Hier heb ik de &lt;strong&gt;CSS&lt;/strong&gt; van mijn thema in gekopieerd en een beetje
 aangepast naar hoe ik het wilde. Het moeilijke hierbij was dat ik eerst niet goed
-wist wat bij welk hoorde op de site dus moest ik dit eerst enkele keren testen
+wist wat bij welk hoorde op de site dus moest ik dit eerst enkele keren &lt;strong&gt;testen&lt;/strong&gt;
 voor dat het goed werkte.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;materialize.min.js:&lt;/strong&gt; Hier staat al de Javascript van mijn thema. Ik heb hier niets
-in aangepast omdat ik vind dat de Javascript van mijn thema er goed uit ziet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;materialize.min.js:&lt;/strong&gt; Hier staat al de &lt;strong&gt;Javascript&lt;/strong&gt; van mijn thema. Ik heb hier niets
+in aangepast omdat ik vind dat de &lt;strong&gt;Javascript&lt;/strong&gt; van mijn thema er goed uit ziet.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;content:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;Content:&lt;/h5&gt;
 
-&lt;p&gt;&lt;strong&gt;Al de content:&lt;/strong&gt; Hier staan alle pages en posts in. Deze map stond standaard in het hugo&lt;br /&gt;
-bestand. De inhoud heb ik volledig zelf gemaakt met behulp van de command
-prompt. Hier waren geen moeilijkheden bij.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Al de content:&lt;/strong&gt; Hier staan alle &lt;strong&gt;pages en posts&lt;/strong&gt; in. Deze map stond standaard in het &lt;strong&gt;hugo&lt;/strong&gt;&lt;br /&gt;
+bestand. De inhoud heb ik volledig zelf gemaakt met behulp van de &lt;strong&gt;command
+prompt&lt;/strong&gt;. Hier waren geen moeilijkheden bij.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;rest:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;Rest:&lt;/h5&gt;
 
-&lt;p&gt;&lt;strong&gt;config.toml:&lt;/strong&gt; In dit bestand staat de configuratie van jou thema, ik heb hier veel
+&lt;p&gt;&lt;strong&gt;config.toml:&lt;/strong&gt; In dit bestand staat de &lt;strong&gt;configuratie&lt;/strong&gt; van jou thema, ik heb hier veel
 in aangepast gedurende de vordering van de site omdat ik soms niet goed
 wist wat hier allemaal moest staan.&lt;/p&gt;
 </description>
@@ -142,7 +142,7 @@ wist wat hier allemaal moest staan.&lt;/p&gt;
 &lt;p&gt;Hugo is een zeer handige software om je eigen &lt;strong&gt;blog/website&lt;/strong&gt; mee te maken. Het nadeel bij &lt;strong&gt;Hugo&lt;/strong&gt; is dat
 het heel moeilijk is om ermee te starten. Als je niet weet hoe Hugo werkt moet je eerst heel veel testen,
 onderzoeken en proberen te werken met verschillende thema’s. Elk thema heeft namelijk een &lt;strong&gt;aparte manier
-van configureren&lt;/strong&gt; dus je moet eerst een thema vinden dat je zou willen gebruiken en dan moet je de &lt;em&gt;README.md&lt;/em&gt;
+van configureren&lt;/strong&gt; dus je moet eerst een thema vinden dat je zou willen gebruiken en dan moet je de &amp;ldquo;&lt;em&gt;README.md&lt;/em&gt;&amp;ldquo;
 lezen of extra uitleg zoeken op de Hugo site zelf om de configuratie van dit bepaalde thema onder de knie
 te krijgen. Vanaf dat je je thema volledig hebt geconfigureerd en hebt aangepast naar jouw voorkeur is het
 toevoegen van &lt;strong&gt;posts&lt;/strong&gt; wel handig en eenvoudig. Jouw bepaalde thema geeft een bepaalde opmaak aan jou &lt;strong&gt;markdown&lt;/strong&gt;
@@ -163,7 +163,7 @@ locaties, … toevoegen aan je post.&lt;/p&gt;
 &lt;p&gt;Het &lt;strong&gt;publiceren&lt;/strong&gt; van de Wordpress blog is zeer handig, het werkt
 meteen als je de blog hebt aangemaakt en wanneer je je e-mail hebt bevestigd. Het publiceren via &lt;strong&gt;GitHub&lt;/strong&gt;
 met Hugo daarentegen brengt wel enkele problemen met zich mee. De &lt;strong&gt;baseUrl&lt;/strong&gt; wou nooit aanpassen en bleef
-steeds op &lt;em&gt;“localhost:1313”&lt;/em&gt; staan, wat er dus voor zorgde dat de site niet kon laden. Soms wilde de CSS ook niet
+steeds op &amp;ldquo;&lt;em&gt;localhost:1313&lt;/em&gt;&amp;rdquo; staan, wat er dus voor zorgde dat de site niet kon laden. Soms wilde de CSS ook niet
 laden en kon ik enkel de inhoud zien van mijn site zonder opmaak. Maar wanneer je eenmaal weet hoe het
 werkt gaat het wel vlot. Naar mijn eigen mening vind ik Wordpress wel &lt;strong&gt;handiger&lt;/strong&gt; om mee te werken maar ik
 vind Hugo beter omdat je hier zelf meer moeite in moet steken en dat geeft een &lt;strong&gt;gevoel van voldoening&lt;/strong&gt; dat
@@ -193,147 +193,54 @@ je toch moeite hebt gestoken in het maken van je site/blog.&lt;/p&gt;
 
 &lt;h5 id=&#34;layouts:9b329372fbdc015bcba8535af475c9de&#34;&gt;Layouts:&lt;/h5&gt;
 
-&lt;p&gt;&lt;strong&gt;content.html:&lt;/strong&gt; Hier staat in HTML en GO de vorm geschreven hoe de content
+&lt;p&gt;&lt;strong&gt;content.html:&lt;/strong&gt; Hier staat in &lt;strong&gt;HTML&lt;/strong&gt; en &lt;strong&gt;GO&lt;/strong&gt; de vorm geschreven hoe de content
 map op de site wordt weergegeven, in mijn geval in de vorm van kaartjes.
 Ik heb hier een heel kleine aanpassing aangedaan wat ik op zich wel zeer
-moeilijk vond omdat ik GO niet ken.&lt;/p&gt;
+moeilijk vond omdat ik &lt;strong&gt;GO&lt;/strong&gt; niet ken.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;footer.html:&lt;/strong&gt; Hierin staat het pagina einde van de site, ik heb hier enkel kleine
+&lt;p&gt;&lt;strong&gt;footer.html:&lt;/strong&gt; Hierin staat het &lt;strong&gt;pagina einde&lt;/strong&gt; van de site, ik heb hier enkel kleine
 aanpassingen aan gedaan zoals de school vermelden, achtergrond
 aanpassen, … . Hier heb ik geen problemen mee ondervonden.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;header.html:&lt;/strong&gt; Hierin staat de header van de site en de navigatiebar. Vooral
+&lt;p&gt;&lt;strong&gt;header.html:&lt;/strong&gt; Hierin staat de &lt;strong&gt;header&lt;/strong&gt; van de site en de navigatiebar. Vooral
 met de navigatiebar heb ik veel problemen gehad. Ik heb nieuwe pagina’s
 aangemaakt, voor elk vak een. Met het toevoegen en linken in de navigatiebar
-heb ik enkele problemen ondervonden, de pagina’s bleven namelijk ook tussen
+heb ik &lt;strong&gt;enkele problemen&lt;/strong&gt; ondervonden, de pagina’s bleven namelijk ook tussen
 de posts staan wat dus niet de bedoeling is.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;pagination.html:&lt;/strong&gt; Dit is een belangrijk bestand voor maken van meerdere post
-pagina’s en het navigeren daarheen. Ik ben hier dus vanaf afgebleven.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;pagination.html:&lt;/strong&gt; Dit is een belangrijk bestand voor maken van &lt;strong&gt;meerdere post
+pagina’s&lt;/strong&gt; en het navigeren daarheen. Ik ben hier dus vanaf afgebleven.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;index.html:&lt;/strong&gt; Dit is de verdeling van waar al de html zal worden geplaatst als
+&lt;p&gt;&lt;strong&gt;index.html:&lt;/strong&gt; Dit is de verdeling van waar al de &lt;strong&gt;HTML&lt;/strong&gt; zal worden geplaatst als
 het in de public mat terecht komt.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;static:9b329372fbdc015bcba8535af475c9de&#34;&gt;Static:&lt;/h5&gt;
 
-&lt;p&gt;&lt;strong&gt;style.css:&lt;/strong&gt; Hier heb ik de CSS van mijn thema in gekopieerd en een beetje
+&lt;p&gt;&lt;strong&gt;style.css:&lt;/strong&gt; Hier heb ik de &lt;strong&gt;CSS&lt;/strong&gt; van mijn thema in gekopieerd en een beetje
 aangepast naar hoe ik het wilde. Het moeilijke hierbij was dat ik eerst niet goed
-wist wat bij welk hoorde op de site dus moest ik dit eerst enkele keren testen
+wist wat bij welk hoorde op de site dus moest ik dit eerst enkele keren &lt;strong&gt;testen&lt;/strong&gt;
 voor dat het goed werkte.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;materialize.min.js:&lt;/strong&gt; Hier staat al de Javascript van mijn thema. Ik heb hier niets
-in aangepast omdat ik vind dat de Javascript van mijn thema er goed uit ziet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;materialize.min.js:&lt;/strong&gt; Hier staat al de &lt;strong&gt;Javascript&lt;/strong&gt; van mijn thema. Ik heb hier niets
+in aangepast omdat ik vind dat de &lt;strong&gt;Javascript&lt;/strong&gt; van mijn thema er goed uit ziet.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;content:9b329372fbdc015bcba8535af475c9de&#34;&gt;Content:&lt;/h5&gt;
 
-&lt;p&gt;&lt;strong&gt;Al de content:&lt;/strong&gt; Hier staan alle pages en posts in. Deze map stond standaard in het hugo&lt;br /&gt;
-bestand. De inhoud heb ik volledig zelf gemaakt met behulp van de command
-prompt. Hier waren geen moeilijkheden bij.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Al de content:&lt;/strong&gt; Hier staan alle &lt;strong&gt;pages en posts&lt;/strong&gt; in. Deze map stond standaard in het &lt;strong&gt;hugo&lt;/strong&gt;&lt;br /&gt;
+bestand. De inhoud heb ik volledig zelf gemaakt met behulp van de &lt;strong&gt;command
+prompt&lt;/strong&gt;. Hier waren geen moeilijkheden bij.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;rest:9b329372fbdc015bcba8535af475c9de&#34;&gt;Rest:&lt;/h5&gt;
 
-&lt;p&gt;&lt;strong&gt;config.toml:&lt;/strong&gt; In dit bestand staat de configuratie van jou thema, ik heb hier veel
+&lt;p&gt;&lt;strong&gt;config.toml:&lt;/strong&gt; In dit bestand staat de &lt;strong&gt;configuratie&lt;/strong&gt; van jou thema, ik heb hier veel
 in aangepast gedurende de vordering van de site omdat ik soms niet goed
 wist wat hier allemaal moest staan.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Frans</title>
-      <link>http://vincent-boden.github.io/page/frans/FR/</link>
-      <pubDate>Mon, 19 Oct 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/frans/FR/</guid>
-      <description>
-
-&lt;h3 id=&#34;taak-04-la-foire-aux-questions:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;strong&gt;TAAK 04: LA FOIRE AUX QUESTIONS&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;il-y-a-des-différences-entre-d-office-online-et-d-office-offline:da25d6b755363f2b45fca738fe36faf8&#34;&gt;Il y a des différences entre d&amp;rsquo;Office online et d&amp;rsquo;Office offline?&lt;/h5&gt;
-
-&lt;p&gt;Oui, il y a des différences. Par exemple, il y a moins de options pour le mise en page. Mais pas craint, Office online a aussi beaucoup des bien options.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;où-puis-utiliser-onedrive:da25d6b755363f2b45fca738fe36faf8&#34;&gt;Où puis-utiliser OneDrive?&lt;/h5&gt;
-
-&lt;p&gt;OneDrive est un application multiplateforme. Vous pouvez utiliser le partout. Il y a des applications pour iOS, Mac, Android, Windows, … Ici vous pouvez gérer tous vos fichiers et plus.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;comment-partager-des-fichiers-avec-onedrive-for-business:da25d6b755363f2b45fca738fe36faf8&#34;&gt;Comment partager des fichiers avec OneDrive for Business?&lt;/h5&gt;
-
-&lt;p&gt;OneDrive a un avantage pour part des documents. C&amp;rsquo;est facile à utiliser. Suivez ces étapes:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Vous devez cliquer à gauche du nom de votre fichier pour sélecter le fichier   que vous voulez partage.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Après vous cliquer en haut à partager.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Maintenant vous voyez un menu avec les options où vous pouvez choisir.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;quelle-types-des-documents-vous-pouvez-télécharger:da25d6b755363f2b45fca738fe36faf8&#34;&gt;Quelle types des documents vous pouvez télécharger?&lt;/h5&gt;
-
-&lt;p&gt;Il y a 2 options de téléverser des documents en OneDrive online. Vous pouvez créer de nouveaux documents d&amp;rsquo;Office comme PowerPoint, Word, Excel, … mais il y a aussi un option pour téléverser des documents de tout types de votre pc avec un maximum de 10 GiB.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;une-connexion-à-internet-est-elle-requise-pour-office-365:da25d6b755363f2b45fca738fe36faf8&#34;&gt;Une connexion à Internet est-elle requise pour Office 365 ?&lt;/h5&gt;
-
-&lt;p&gt;Non, pour utilisé Office, une connexion à internet n&amp;rsquo;est pas nécessaire. Néanmoins, l&amp;rsquo;installation requise une connexion. Aussi, une connexion offre plus des fonctions comme sans connexion:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Services de cloud (Synchronisation avec OneDrive et Office online)&lt;/li&gt;
-&lt;li&gt;E-mail&lt;/li&gt;
-&lt;li&gt;IT Management&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Donc, quand vous exécutez des changement lorsque vous êtes déconnecté ce&lt;/p&gt;
-
-&lt;p&gt;synchroniser quand vous allez online.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;comment-vous-changez-une-extension-à-office-365:da25d6b755363f2b45fca738fe36faf8&#34;&gt;Comment vous changez une extension à Office 365?&lt;/h5&gt;
-
-&lt;p&gt;En Office vous pouvez utiliser plus que seulement les extensions standard. Si vous pouvez adapter l&amp;rsquo;extensions dans un PDF dans Word par exemple, c&amp;rsquo;est simple par quelque clics comme suit:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Cliquer sur fichier aux coin supérieur gauche de votre document et après en enregistrer sous.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Maintenant vous choisissez la place de enregistrer de votre document.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sous la cadre de enregistrer vous voyez la cadre où vous pouvez changer l&amp;rsquo;extension.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;qu-est-ce-que-le-cloud:da25d6b755363f2b45fca738fe36faf8&#34;&gt;Qu&amp;rsquo;est-ce que le cloud?&lt;/h5&gt;
-
-&lt;p&gt;Le cloud est une désignation pour les services basés sur le web. Le cloud est utilisé par plus des applications. OneDrive est un part de la cloud du Office. Dans le cloud, vous pouvez stocker des documents, synchroniser avec OneDrive, téléphoner avec Lync et cetera. Le cloud n&amp;rsquo;a pas un interface mais OneDrive apporte certaines fonctions.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;
-&lt;/p&gt;
-
-&lt;h5 id=&#34;comment-vous-pouvez-protéger-votre-document:da25d6b755363f2b45fca738fe36faf8&#34;&gt;Comment vous pouvez protéger votre document?&lt;/h5&gt;
-
-&lt;p&gt;Quand vous avez un document secret ou quand personne peux adapter votre document, vous pouvez protéger votre document:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Cliquer sur fichier aux coin supérieur gauche de votre document. Vous voyez un cadre avec le titre &amp;ldquo;Protéger le document&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Comme vous cliquez cette cadre vous voyez un menu avec les options différentes de protéger de votre document.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
@@ -351,123 +258,123 @@ wist wat hier allemaal moest staan.&lt;/p&gt;
 
 &lt;h5 id=&#34;introduction:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;Introduction&lt;/h5&gt;
 
-&lt;p&gt;Hello my name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in Beerse. My school is Immaculata Institute in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
+&lt;p&gt;My name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in &lt;a href=&#34;http://www.beerse.be/&#34;&gt;Beerse&lt;/a&gt;. My school is &lt;a href=&#34;http://www.immalle.be/immalle/&#34;&gt;Immaculata Institute&lt;/a&gt; in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;what-was-my-first-contact-with-it:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;What was my first contact with IT?&lt;/h5&gt;
 
-&lt;p&gt;My first contact with IT was when I was very young around the age of six. One of my uncles worked in an IT-related business and every time I saw him he told something about what they did. Most of all they made websites and I was really interested even when I was that young. When my parents bought my first pc my addiction started to grow. First I just started with playing games and visiting info websites about stores in my city but when I was older I started to learn how to use my computer as a  software development tool with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
+&lt;p&gt;My first contact with IT was when I was very young, around the age of six. One of my uncles worked in an &lt;strong&gt;IT-related business&lt;/strong&gt; and every time I saw him he told something about what they did. Most of all they made &lt;strong&gt;websites&lt;/strong&gt; and I was really interested even when I was that young. When my parents bought my first pc my &lt;strong&gt;addiction&lt;/strong&gt; started to grow. First I just started with playing games and visiting information websites from stores in my town but as I got older I started to learn how to use my computer as a &lt;strong&gt;software development tool&lt;/strong&gt; with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;what-means-it-for-me:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;What means IT for me?&lt;/h5&gt;
 
-&lt;p&gt;IT means a lot for me, every single moment when I didn&amp;rsquo;t plan anything that day I take my computer and I play games, build websites, do something for school, … . There is actually not a single day that I didn&amp;rsquo;t touched my pc. In the vacations I use my pc even more because on my holiday work I work 9 hours a day with a pc and when I come home from working I start up my own pc. Sometimes they even ask IT-related questions at me on my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert in what I do but I evolved a lot with my IT skills. If I look at what I could three years ago and what I can do know … . Three years ago I only knew the basics and know every day on school I learn something new about computers.&lt;/p&gt;
+&lt;p&gt;IT means a lot for me, every single moment (when I didn&amp;rsquo;t plan anything that day) I take my computer and I play games, build websites, do something for school, … . There is actually &lt;strong&gt;not a single day&lt;/strong&gt; that I haven’t used my pc. In the vacations I use my pc even more because at my &lt;strong&gt;holiday job&lt;/strong&gt; I work with a pc nine hours a day and when I come home from working I start up my own pc. Sometimes they even ask me &lt;strong&gt;IT-related questions&lt;/strong&gt; at my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert at what I do but I developped personally a lot with my &lt;strong&gt;IT skills&lt;/strong&gt;. If I look at what I was able to do three years ago and what I can do know … . Three years ago I only knew the &lt;strong&gt;basics&lt;/strong&gt; and now I learn something new about computers at school every day.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;how-do-you-see-the-future:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;How do you see the future?&lt;/h5&gt;
 
-&lt;p&gt;I think when I finished my sixth year on Immaculate Institute I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about JavaScript, HTML and CSS at Karel de Grote high school. If I pass that exam I don’t have to study those lessons anymore next year and the things I learn there could always come handy this school year. After I finished my bachelor or master I hope I can start of course in a business where they make beautiful, interactive and responsive websites so I can fully express my passion into my work.&lt;/p&gt;
+&lt;p&gt;I think when I finish my sixth year at &lt;a href=&#34;http://www.immalle.be/immalle/&#34;&gt;Immaculate Institute&lt;/a&gt; I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about &lt;strong&gt;JavaScript&lt;/strong&gt;, &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt; at &lt;a href=&#34;http://www.kdg.be/opleidingen/&#34;&gt;Karel de Grote high school&lt;/a&gt;. If I pass the exam I don’t have to study those lessons next year anymore and the things I learn there could always come in handy this school year. After I finish my &lt;strong&gt;bachelor&lt;/strong&gt; or &lt;strong&gt;master&lt;/strong&gt; degree I hope I can start in a business where they make beautiful, interactive and responsive websites of course so I can fully express &lt;strong&gt;my passion&lt;/strong&gt; into my work.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;conclusion:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;Conclusion&lt;/h5&gt;
 
-&lt;p&gt;IT is as I already mentioned something really important in my life. I can’t imagen a life without my computer, smartphone, … . It is a big part of my life and I really like it that my friends of the class share this passion with me so there is always something IT-related to talk about in the class.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IT&lt;/strong&gt; is as I already mentioned something really important in my life. I can’t imagine a life without my computer, smartphone, … . It is a big part of my life and I really like the fact that my friends of the class share this passion with me so there is always something IT-related to talk about in class.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>GIP TAAK 04 FRANS</title>
-      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2004/</link>
+      <title>Frans</title>
+      <link>http://vincent-boden.github.io/page/frans/FR/</link>
       <pubDate>Mon, 19 Oct 2015 17:14:11 +0200</pubDate>
       
-      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2004/</guid>
+      <guid>http://vincent-boden.github.io/page/frans/FR/</guid>
       <description>
 
-&lt;h3 id=&#34;taak-04-la-foire-aux-questions:70280f0e624693dbc05527b961374c9f&#34;&gt;&lt;strong&gt;TAAK 04: LA FOIRE AUX QUESTIONS&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;taak-04-la-foire-aux-questions:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;strong&gt;TAAK 04: LA FOIRE AUX QUESTIONS&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;il-y-a-des-différences-entre-d-office-online-et-d-office-offline:70280f0e624693dbc05527b961374c9f&#34;&gt;Il y a des différences entre d&amp;rsquo;Office online et d&amp;rsquo;Office offline?&lt;/h5&gt;
+&lt;h5 id=&#34;1-il-y-a-des-différences-entre-office-online-et-office-offline:da25d6b755363f2b45fca738fe36faf8&#34;&gt;1) Il y a des différences entre Office online et Office offline?&lt;/h5&gt;
 
-&lt;p&gt;Oui, il y a des différences. Par exemple, il y a moins de options pour le mise en page. Mais pas craint, Office online a aussi beaucoup des bien options.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;où-puis-utiliser-onedrive:70280f0e624693dbc05527b961374c9f&#34;&gt;Où puis-utiliser OneDrive?&lt;/h5&gt;
-
-&lt;p&gt;OneDrive est un application multiplateforme. Vous pouvez utiliser le partout. Il y a des applications pour iOS, Mac, Android, Windows, … Ici vous pouvez gérer tous vos fichiers et plus.&lt;/p&gt;
+&lt;p&gt;Oui, il y a des &lt;strong&gt;différences&lt;/strong&gt;. Ainsi, il y a &lt;strong&gt;moins d’options&lt;/strong&gt; pour la mise en page. Mais pas de souci, Office online a aussi beaucoup de bonnes options.&lt;/p&gt;
 
 &lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;comment-partager-des-fichiers-avec-onedrive-for-business:70280f0e624693dbc05527b961374c9f&#34;&gt;Comment partager des fichiers avec OneDrive for Business?&lt;/h5&gt;
+&lt;h5 id=&#34;2-où-peut-on-utiliser-onedrive:da25d6b755363f2b45fca738fe36faf8&#34;&gt;2) Où peut-on utiliser OneDrive?&lt;/h5&gt;
 
-&lt;p&gt;OneDrive a un avantage pour part des documents. C&amp;rsquo;est facile à utiliser. Suivez ces étapes:&lt;/p&gt;
+&lt;p&gt;OneDrive est une application &lt;strong&gt;multiplateforme&lt;/strong&gt;. Vous pouvez l’utiliser partout. Il y a des applications pour iOS, Mac, Android, Windows. Vous pouvez y &lt;strong&gt;gérer&lt;/strong&gt; tous vos fichiers et plus.&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;3-comment-partager-des-fichiers-avec-onedrive-for-business:da25d6b755363f2b45fca738fe36faf8&#34;&gt;3) Comment partager des fichiers avec OneDrive for Business?&lt;/h5&gt;
+
+&lt;p&gt;OneDrive a un &lt;strong&gt;avantage&lt;/strong&gt; pour partager des documents. C&amp;rsquo;est facile à utiliser. Suivez ces étapes:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Vous devez cliquer à gauche du nom de votre fichier pour sélecter le fichier   que vous voulez partage.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Vous devez cliquer à gauche du nom de votre fichier pour &lt;strong&gt;sélectionner&lt;/strong&gt; le fichier que vous voulez partager.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Après vous cliquer en haut à partager.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Après vous cliquez en haut pour &lt;strong&gt;partager&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Maintenant vous voyez un menu avec les options où vous pouvez choisir.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Maintenant vous voyez &lt;strong&gt;un menu&lt;/strong&gt; avec les options que vous pouvez choisir.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;quelle-types-des-documents-vous-pouvez-télécharger:70280f0e624693dbc05527b961374c9f&#34;&gt;Quelle types des documents vous pouvez télécharger?&lt;/h5&gt;
+&lt;h5 id=&#34;4-quels-types-de-documents-peut-on-télécharger:da25d6b755363f2b45fca738fe36faf8&#34;&gt;4) Quels types de documents peut-on télécharger?&lt;/h5&gt;
 
-&lt;p&gt;Il y a 2 options de téléverser des documents en OneDrive online. Vous pouvez créer de nouveaux documents d&amp;rsquo;Office comme PowerPoint, Word, Excel, … mais il y a aussi un option pour téléverser des documents de tout types de votre pc avec un maximum de 10 GiB.&lt;/p&gt;
+&lt;p&gt;Il y a 2 options pour &lt;strong&gt;téléverser&lt;/strong&gt; des documents en OneDrive online. Vous pouvez créer de nouveaux documents d&amp;rsquo;Office comme PowerPoint, Word, Excel, … mais il y a aussi une option pour téléverser des documents de &lt;strong&gt;tous types&lt;/strong&gt; de votre ordinateur avec un maximum de 10 GiB.&lt;/p&gt;
 
 &lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;une-connexion-à-internet-est-elle-requise-pour-office-365:70280f0e624693dbc05527b961374c9f&#34;&gt;Une connexion à Internet est-elle requise pour Office 365 ?&lt;/h5&gt;
+&lt;h5 id=&#34;5-une-connexion-internet-est-elle-requise-pour-office-365:da25d6b755363f2b45fca738fe36faf8&#34;&gt;5) Une connexion Internet est-elle requise pour Office 365 ?&lt;/h5&gt;
 
-&lt;p&gt;Non, pour utilisé Office, une connexion à internet n&amp;rsquo;est pas nécessaire. Néanmoins, l&amp;rsquo;installation requise une connexion. Aussi, une connexion offre plus des fonctions comme sans connexion:&lt;/p&gt;
+&lt;p&gt;Non, pour utiliser Office, une connexion Internet &lt;strong&gt;n&amp;rsquo;est pas nécessaire&lt;/strong&gt;. Néanmoins, l&amp;rsquo;installation exige une connexion. Une connexion offre aussi &lt;strong&gt;plus de fonctions&lt;/strong&gt; que l’utilisation sans connexion:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Services de cloud (Synchronisation avec OneDrive et Office online)&lt;/li&gt;
-&lt;li&gt;E-mail&lt;/li&gt;
-&lt;li&gt;IT Management&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Services cloud (Synchronisation avec OneDrive et Office online)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;E-mail&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;IT Management&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Donc, quand vous exécutez des changement lorsque vous êtes déconnecté ce&lt;/p&gt;
-
-&lt;p&gt;synchroniser quand vous allez online.&lt;/p&gt;
+&lt;p&gt;Donc, quand vous exécutez des changements lorsque vous êtes déconnecté une synchronisation aura lieu quand vous allez &lt;strong&gt;en ligne&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;comment-vous-changez-une-extension-à-office-365:70280f0e624693dbc05527b961374c9f&#34;&gt;Comment vous changez une extension à Office 365?&lt;/h5&gt;
+&lt;h5 id=&#34;6-comment-peut-on-changer-une-extension-office-365:da25d6b755363f2b45fca738fe36faf8&#34;&gt;6) Comment peut-on changer une extension Office 365 ?&lt;/h5&gt;
 
-&lt;p&gt;En Office vous pouvez utiliser plus que seulement les extensions standard. Si vous pouvez adapter l&amp;rsquo;extensions dans un PDF dans Word par exemple, c&amp;rsquo;est simple par quelque clics comme suit:&lt;/p&gt;
+&lt;p&gt;En Office vous pouvez utiliser &lt;strong&gt;plus que les extensions standard&lt;/strong&gt; seulement. Si vous voulez adapter l&amp;rsquo;extension en PDF dans Word par exemple, c&amp;rsquo;est simple par quelques clics. Procédez comme suit:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Cliquer sur fichier aux coin supérieur gauche de votre document et après en enregistrer sous.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cliquez sur &amp;ldquo;&lt;em&gt;fichier&lt;/em&gt;&amp;rdquo; au coin supérieur gauche de votre document et après &amp;ldquo;&lt;em&gt;enregistrer sous&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Maintenant vous choisissez la place de enregistrer de votre document.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Maintenant vous choisissez &lt;strong&gt;la place d’enregistrement&lt;/strong&gt; de votre document.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Sous la cadre de enregistrer vous voyez la cadre où vous pouvez changer l&amp;rsquo;extension.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sous le cadre &amp;ldquo;&lt;em&gt;enregistrer&lt;/em&gt;&amp;rdquo; vous voyez le cadre où vous pouvez changer l&amp;rsquo;extension.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;qu-est-ce-que-le-cloud:70280f0e624693dbc05527b961374c9f&#34;&gt;Qu&amp;rsquo;est-ce que le cloud?&lt;/h5&gt;
+&lt;h5 id=&#34;7-qu-est-ce-que-le-cloud:da25d6b755363f2b45fca738fe36faf8&#34;&gt;7) Qu&amp;rsquo;est-ce que le cloud?&lt;/h5&gt;
 
-&lt;p&gt;Le cloud est une désignation pour les services basés sur le web. Le cloud est utilisé par plus des applications. OneDrive est un part de la cloud du Office. Dans le cloud, vous pouvez stocker des documents, synchroniser avec OneDrive, téléphoner avec Lync et cetera. Le cloud n&amp;rsquo;a pas un interface mais OneDrive apporte certaines fonctions.&lt;/p&gt;
+&lt;p&gt;Le cloud est une désignation pour les services basés sur le web. Le cloud est utilisé par &lt;strong&gt;plusieurs applications&lt;/strong&gt;. OneDrive est une partie du cloud Office. Dans le cloud, vous pouvez &lt;strong&gt;stocker&lt;/strong&gt; des documents, synchroniser avec OneDrive, téléphoner avec Lync etcétéra. Le cloud n&amp;rsquo;a pas d’interface mais OneDrive apporte certaines fonctions.&lt;/p&gt;
 
 &lt;p&gt;&lt;/br&gt;
 &lt;/p&gt;
 
-&lt;h5 id=&#34;comment-vous-pouvez-protéger-votre-document:70280f0e624693dbc05527b961374c9f&#34;&gt;Comment vous pouvez protéger votre document?&lt;/h5&gt;
+&lt;h5 id=&#34;8-comment-pouvez-vous-protéger-votre-document:da25d6b755363f2b45fca738fe36faf8&#34;&gt;8) Comment pouvez-vous protéger votre document?&lt;/h5&gt;
 
-&lt;p&gt;Quand vous avez un document secret ou quand personne peux adapter votre document, vous pouvez protéger votre document:&lt;/p&gt;
+&lt;p&gt;Quand vous avez un document secret ou quand personne ne peut adapter votre document, vous pouvez &lt;strong&gt;protéger&lt;/strong&gt; votre document:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Cliquer sur fichier aux coin supérieur gauche de votre document. Vous voyez un cadre avec le titre &amp;ldquo;Protéger le document&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cliquez sur &amp;ldquo;&lt;em&gt;fichier&lt;/em&gt;&amp;rdquo; au coin supérieur gauche de votre document. Vous voyez un cadre avec le titre &amp;ldquo;&lt;em&gt;Protéger le document&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Comme vous cliquez cette cadre vous voyez un menu avec les options différentes de protéger de votre document.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Comme vous cliquez sur ce cadre vous voyez un menu avec les différentes options pour &lt;strong&gt;protéger votre document&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -486,31 +393,134 @@ wist wat hier allemaal moest staan.&lt;/p&gt;
 
 &lt;h5 id=&#34;introduction:91ecd52a1dace6d8139f0634258e1b69&#34;&gt;Introduction&lt;/h5&gt;
 
-&lt;p&gt;Hello my name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in Beerse. My school is Immaculata Institute in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
+&lt;p&gt;My name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in &lt;a href=&#34;http://www.beerse.be/&#34;&gt;Beerse&lt;/a&gt;. My school is &lt;a href=&#34;http://www.immalle.be/immalle/&#34;&gt;Immaculata Institute&lt;/a&gt; in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;what-was-my-first-contact-with-it:91ecd52a1dace6d8139f0634258e1b69&#34;&gt;What was my first contact with IT?&lt;/h5&gt;
 
-&lt;p&gt;My first contact with IT was when I was very young around the age of six. One of my uncles worked in an IT-related business and every time I saw him he told something about what they did. Most of all they made websites and I was really interested even when I was that young. When my parents bought my first pc my addiction started to grow. First I just started with playing games and visiting info websites about stores in my city but when I was older I started to learn how to use my computer as a  software development tool with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
+&lt;p&gt;My first contact with IT was when I was very young, around the age of six. One of my uncles worked in an &lt;strong&gt;IT-related business&lt;/strong&gt; and every time I saw him he told something about what they did. Most of all they made &lt;strong&gt;websites&lt;/strong&gt; and I was really interested even when I was that young. When my parents bought my first pc my &lt;strong&gt;addiction&lt;/strong&gt; started to grow. First I just started with playing games and visiting information websites from stores in my town but as I got older I started to learn how to use my computer as a &lt;strong&gt;software development tool&lt;/strong&gt; with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;what-means-it-for-me:91ecd52a1dace6d8139f0634258e1b69&#34;&gt;What means IT for me?&lt;/h5&gt;
 
-&lt;p&gt;IT means a lot for me, every single moment when I didn&amp;rsquo;t plan anything that day I take my computer and I play games, build websites, do something for school, … . There is actually not a single day that I didn&amp;rsquo;t touched my pc. In the vacations I use my pc even more because on my holiday work I work 9 hours a day with a pc and when I come home from working I start up my own pc. Sometimes they even ask IT-related questions at me on my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert in what I do but I evolved a lot with my IT skills. If I look at what I could three years ago and what I can do know … . Three years ago I only knew the basics and know every day on school I learn something new about computers.&lt;/p&gt;
+&lt;p&gt;IT means a lot for me, every single moment (when I didn&amp;rsquo;t plan anything that day) I take my computer and I play games, build websites, do something for school, … . There is actually &lt;strong&gt;not a single day&lt;/strong&gt; that I haven’t used my pc. In the vacations I use my pc even more because at my &lt;strong&gt;holiday job&lt;/strong&gt; I work with a pc nine hours a day and when I come home from working I start up my own pc. Sometimes they even ask me &lt;strong&gt;IT-related questions&lt;/strong&gt; at my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert at what I do but I developped personally a lot with my &lt;strong&gt;IT skills&lt;/strong&gt;. If I look at what I was able to do three years ago and what I can do know … . Three years ago I only knew the &lt;strong&gt;basics&lt;/strong&gt; and now I learn something new about computers at school every day.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;how-do-you-see-the-future:91ecd52a1dace6d8139f0634258e1b69&#34;&gt;How do you see the future?&lt;/h5&gt;
 
-&lt;p&gt;I think when I finished my sixth year on Immaculate Institute I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about JavaScript, HTML and CSS at Karel de Grote high school. If I pass that exam I don’t have to study those lessons anymore next year and the things I learn there could always come handy this school year. After I finished my bachelor or master I hope I can start of course in a business where they make beautiful, interactive and responsive websites so I can fully express my passion into my work.&lt;/p&gt;
+&lt;p&gt;I think when I finish my sixth year at &lt;a href=&#34;http://www.immalle.be/immalle/&#34;&gt;Immaculate Institute&lt;/a&gt; I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about &lt;strong&gt;JavaScript&lt;/strong&gt;, &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt; at &lt;a href=&#34;http://www.kdg.be/opleidingen/&#34;&gt;Karel de Grote high school&lt;/a&gt;. If I pass the exam I don’t have to study those lessons next year anymore and the things I learn there could always come in handy this school year. After I finish my &lt;strong&gt;bachelor&lt;/strong&gt; or &lt;strong&gt;master&lt;/strong&gt; degree I hope I can start in a business where they make beautiful, interactive and responsive websites of course so I can fully express &lt;strong&gt;my passion&lt;/strong&gt; into my work.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;conclusion:91ecd52a1dace6d8139f0634258e1b69&#34;&gt;Conclusion&lt;/h5&gt;
 
-&lt;p&gt;IT is as I already mentioned something really important in my life. I can’t imagen a life without my computer, smartphone, … . It is a big part of my life and I really like it that my friends of the class share this passion with me so there is always something IT-related to talk about in the class.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IT&lt;/strong&gt; is as I already mentioned something really important in my life. I can’t imagine a life without my computer, smartphone, … . It is a big part of my life and I really like the fact that my friends of the class share this passion with me so there is always something IT-related to talk about in class.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GIP TAAK 04 FRANS</title>
+      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2004/</link>
+      <pubDate>Mon, 19 Oct 2015 17:14:11 +0200</pubDate>
+      
+      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2004/</guid>
+      <description>
+
+&lt;h3 id=&#34;taak-04-la-foire-aux-questions:70280f0e624693dbc05527b961374c9f&#34;&gt;&lt;strong&gt;TAAK 04: LA FOIRE AUX QUESTIONS&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;1-il-y-a-des-différences-entre-office-online-et-office-offline:70280f0e624693dbc05527b961374c9f&#34;&gt;1) Il y a des différences entre Office online et Office offline?&lt;/h5&gt;
+
+&lt;p&gt;Oui, il y a des &lt;strong&gt;différences&lt;/strong&gt;. Ainsi, il y a &lt;strong&gt;moins d’options&lt;/strong&gt; pour la mise en page. Mais pas de souci, Office online a aussi beaucoup de bonnes options.&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;2-où-peut-on-utiliser-onedrive:70280f0e624693dbc05527b961374c9f&#34;&gt;2) Où peut-on utiliser OneDrive?&lt;/h5&gt;
+
+&lt;p&gt;OneDrive est une application &lt;strong&gt;multiplateforme&lt;/strong&gt;. Vous pouvez l’utiliser partout. Il y a des applications pour iOS, Mac, Android, Windows. Vous pouvez y &lt;strong&gt;gérer&lt;/strong&gt; tous vos fichiers et plus.&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;3-comment-partager-des-fichiers-avec-onedrive-for-business:70280f0e624693dbc05527b961374c9f&#34;&gt;3) Comment partager des fichiers avec OneDrive for Business?&lt;/h5&gt;
+
+&lt;p&gt;OneDrive a un &lt;strong&gt;avantage&lt;/strong&gt; pour partager des documents. C&amp;rsquo;est facile à utiliser. Suivez ces étapes:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Vous devez cliquer à gauche du nom de votre fichier pour &lt;strong&gt;sélectionner&lt;/strong&gt; le fichier que vous voulez partager.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Après vous cliquez en haut pour &lt;strong&gt;partager&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Maintenant vous voyez &lt;strong&gt;un menu&lt;/strong&gt; avec les options que vous pouvez choisir.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;4-quels-types-de-documents-peut-on-télécharger:70280f0e624693dbc05527b961374c9f&#34;&gt;4) Quels types de documents peut-on télécharger?&lt;/h5&gt;
+
+&lt;p&gt;Il y a 2 options pour &lt;strong&gt;téléverser&lt;/strong&gt; des documents en OneDrive online. Vous pouvez créer de nouveaux documents d&amp;rsquo;Office comme PowerPoint, Word, Excel, … mais il y a aussi une option pour téléverser des documents de &lt;strong&gt;tous types&lt;/strong&gt; de votre ordinateur avec un maximum de 10 GiB.&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;5-une-connexion-internet-est-elle-requise-pour-office-365:70280f0e624693dbc05527b961374c9f&#34;&gt;5) Une connexion Internet est-elle requise pour Office 365 ?&lt;/h5&gt;
+
+&lt;p&gt;Non, pour utiliser Office, une connexion Internet &lt;strong&gt;n&amp;rsquo;est pas nécessaire&lt;/strong&gt;. Néanmoins, l&amp;rsquo;installation exige une connexion. Une connexion offre aussi &lt;strong&gt;plus de fonctions&lt;/strong&gt; que l’utilisation sans connexion:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Services cloud (Synchronisation avec OneDrive et Office online)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;E-mail&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;IT Management&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Donc, quand vous exécutez des changements lorsque vous êtes déconnecté une synchronisation aura lieu quand vous allez &lt;strong&gt;en ligne&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;6-comment-peut-on-changer-une-extension-office-365:70280f0e624693dbc05527b961374c9f&#34;&gt;6) Comment peut-on changer une extension Office 365 ?&lt;/h5&gt;
+
+&lt;p&gt;En Office vous pouvez utiliser &lt;strong&gt;plus que les extensions standard&lt;/strong&gt; seulement. Si vous voulez adapter l&amp;rsquo;extension en PDF dans Word par exemple, c&amp;rsquo;est simple par quelques clics. Procédez comme suit:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Cliquez sur &amp;ldquo;&lt;em&gt;fichier&lt;/em&gt;&amp;rdquo; au coin supérieur gauche de votre document et après &amp;ldquo;&lt;em&gt;enregistrer sous&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Maintenant vous choisissez &lt;strong&gt;la place d’enregistrement&lt;/strong&gt; de votre document.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sous le cadre &amp;ldquo;&lt;em&gt;enregistrer&lt;/em&gt;&amp;rdquo; vous voyez le cadre où vous pouvez changer l&amp;rsquo;extension.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;7-qu-est-ce-que-le-cloud:70280f0e624693dbc05527b961374c9f&#34;&gt;7) Qu&amp;rsquo;est-ce que le cloud?&lt;/h5&gt;
+
+&lt;p&gt;Le cloud est une désignation pour les services basés sur le web. Le cloud est utilisé par &lt;strong&gt;plusieurs applications&lt;/strong&gt;. OneDrive est une partie du cloud Office. Dans le cloud, vous pouvez &lt;strong&gt;stocker&lt;/strong&gt; des documents, synchroniser avec OneDrive, téléphoner avec Lync etcétéra. Le cloud n&amp;rsquo;a pas d’interface mais OneDrive apporte certaines fonctions.&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;
+&lt;/p&gt;
+
+&lt;h5 id=&#34;8-comment-pouvez-vous-protéger-votre-document:70280f0e624693dbc05527b961374c9f&#34;&gt;8) Comment pouvez-vous protéger votre document?&lt;/h5&gt;
+
+&lt;p&gt;Quand vous avez un document secret ou quand personne ne peut adapter votre document, vous pouvez &lt;strong&gt;protéger&lt;/strong&gt; votre document:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Cliquez sur &amp;ldquo;&lt;em&gt;fichier&lt;/em&gt;&amp;rdquo; au coin supérieur gauche de votre document. Vous voyez un cadre avec le titre &amp;ldquo;&lt;em&gt;Protéger le document&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Comme vous cliquez sur ce cadre vous voyez un menu avec les différentes options pour &lt;strong&gt;protéger votre document&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bedrijfsbeheer</title>
+      <link>http://vincent-boden.github.io/page/bedrijfsbeheer/BB/</link>
+      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/bedrijfsbeheer/BB/</guid>
+      <description>&lt;p&gt;Bedrijfsbeheer&lt;/p&gt;
 </description>
     </item>
     
@@ -541,16 +551,6 @@ wist wat hier allemaal moest staan.&lt;/p&gt;
       
       <guid>http://vincent-boden.github.io/page/systeembeheer/SB/</guid>
       <description>&lt;p&gt;Systeembeheer&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bedrijfsbeheer</title>
-      <link>http://vincent-boden.github.io/page/bedrijfsbeheer/BB/</link>
-      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/bedrijfsbeheer/BB/</guid>
-      <description>&lt;p&gt;Bedrijfsbeheer&lt;/p&gt;
 </description>
     </item>
     
