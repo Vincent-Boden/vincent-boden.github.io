@@ -1,9 +1,11 @@
 /* Custom Stylesheet */
 
-nav ul a,
-nav .brand-logo {
-  color: #444;
+.link-navmenu :hover {
+  background-color: rgba(0, 0, 0, 0.87);
+  color: white;
+  font-weight: bold;
 }
+
 p {
   line-height: 2rem;
 }
