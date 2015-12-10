@@ -7,189 +7,123 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GIP-site 2015 - 2016</copyright>
-    <lastBuildDate>Fri, 23 Oct 2015 14:56:25 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://vincent-boden.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Software Ontwikkeling</title>
-      <link>http://vincent-boden.github.io/page/software/SO/</link>
-      <pubDate>Fri, 23 Oct 2015 14:56:25 +0200</pubDate>
+      <title>FAQ</title>
+      <link>http://vincent-boden.github.io/page/FAQ/FAQ%20Nederlands/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://vincent-boden.github.io/page/software/SO/</guid>
+      <guid>http://vincent-boden.github.io/page/FAQ/FAQ%20Nederlands/</guid>
       <description>
 
 &lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;taak-07-vergelijking-hugo-wordpress:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;&lt;strong&gt;TAAK 07: VERGELIJKING HUGO - WORDPRESS&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Hugo is een zeer handige software om je eigen &lt;strong&gt;blog/website&lt;/strong&gt; mee te maken. Het nadeel bij &lt;strong&gt;Hugo&lt;/strong&gt; is dat
-het heel moeilijk is om ermee te starten. Als je niet weet hoe Hugo werkt moet je eerst heel veel testen,
-onderzoeken en proberen te werken met verschillende thema’s. Elk thema heeft namelijk een &lt;strong&gt;aparte manier
-van configureren&lt;/strong&gt; dus je moet eerst een thema vinden dat je zou willen gebruiken en dan moet je de &amp;ldquo;&lt;em&gt;README.md&lt;/em&gt;&amp;ldquo;
-lezen of extra uitleg zoeken op de Hugo site zelf om de configuratie van dit bepaalde thema onder de knie
-te krijgen. Vanaf dat je je thema volledig hebt geconfigureerd en hebt aangepast naar jouw voorkeur is het
-toevoegen van &lt;strong&gt;posts&lt;/strong&gt; wel handig en eenvoudig. Jouw bepaalde thema geeft een bepaalde opmaak aan jou &lt;strong&gt;markdown&lt;/strong&gt;
-post en het schrijven van een markdown post is vrij eenvoudig als je eventjes onderzoek doet.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Ik heb ongeveer dezelfde posts nagemaakt met dezelfde titels op &lt;strong&gt;Wordpress&lt;/strong&gt; en dit zijn mijn conclusies in
-vergelijking met het gebruik van Hugo. Wordpress werkt zeer eenvoudig zonder dat je al te veel moet
-onderzoeken kan je &lt;strong&gt;vrijwel meteen een site/blog starten&lt;/strong&gt; en posts beginnen plaatsen. Er zijn ook hier
-verschillende thema’s waar je uit kan kiezen maar deze werken wel allemaal hetzelfde, je hoeft dus &lt;strong&gt;geen
-apart onderzoek&lt;/strong&gt; te doen voor elk thema. Het &lt;strong&gt;opmaken&lt;/strong&gt; van een post in Wordpress werkt zeer eenvoudig,
-je hebt een opmaak lint met allerlei opmaak toepassingen. Je kan ook zeer gemakkelijk afbeeldingen,
-locaties, … toevoegen aan je post.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Het &lt;strong&gt;publiceren&lt;/strong&gt; van de Wordpress blog is zeer handig, het werkt
-meteen als je de blog hebt aangemaakt en wanneer je je e-mail hebt bevestigd. Het publiceren via &lt;strong&gt;GitHub&lt;/strong&gt;
-met Hugo daarentegen brengt wel enkele problemen met zich mee. De &lt;strong&gt;baseUrl&lt;/strong&gt; wou nooit aanpassen en bleef
-steeds op &amp;ldquo;&lt;em&gt;localhost:1313&lt;/em&gt;&amp;rdquo; staan, wat er dus voor zorgde dat de site niet kon laden. Soms wilde de CSS ook niet
-laden en kon ik enkel de inhoud zien van mijn site zonder opmaak. Maar wanneer je eenmaal weet hoe het
-werkt gaat het wel vlot. Naar mijn eigen mening vind ik Wordpress wel &lt;strong&gt;handiger&lt;/strong&gt; om mee te werken maar ik
-vind Hugo beter omdat je hier zelf meer moeite in moet steken en dat geeft een &lt;strong&gt;gevoel van voldoening&lt;/strong&gt; dat
-je toch moeite hebt gestoken in het maken van je site/blog.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;een-overzicht-van-de-directory-structuur:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;Een overzicht van de directory-structuur&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gitlab.com/vincent-boden/VincentBoden-GIPsite2015-2016.git&#34;&gt;&lt;strong&gt;GitLab&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/Vincent-Boden/vincent-boden.github.io.git&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://vincent-boden.github.io/&#34;&gt;&lt;strong&gt;Publicatie URL&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;b-faq-in-het-nederlands-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;FAQ in het Nederlands&lt;/b&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;archetypes:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;Archetypes:&lt;/h5&gt;
+&lt;h4 id=&#34;b-wat-is-het-verschil-tussen-onedrive-en-dropbox-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Wat is het verschil tussen OneDrive en Dropbox?&lt;/b&gt;&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;default.md:&lt;/strong&gt; Dit bestand is gekopieerd uit mijn hugo thema maar ik heb het niet gebruikt in mijn site.&lt;/p&gt;
+&lt;p&gt;Hier ziet u een overzicht van enkele verschillen tussen &lt;strong&gt;OneDrive en Dropbox&lt;/strong&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Elk bestandstype kan op beide worden geüpload maar op Dropbox heb je niet de mogelijkheid om bestanden online te bewerken of te openen. Bij OneDrive heb je deze mogelijkheid bij veel bestandstypes wel.&lt;/p&gt;&lt;/li&gt;
 
-&lt;h5 id=&#34;layouts:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;Layouts:&lt;/h5&gt;
+&lt;li&gt;&lt;p&gt;Bij Dropbox start je maar met 2 GiB gratis opslag ruimte, bij OneDrive heb je gratis … GiB opslag ruimte. Beide kan je verhogen door betalingen. Bij Dropbox kan je ook extra GiB opslag ruimte verdienen door bijvoorbeeld je Facebook vrienden uit te nodigen om Dropbox te gebruiken.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;strong&gt;content.html:&lt;/strong&gt; Hier staat in &lt;strong&gt;HTML&lt;/strong&gt; en &lt;strong&gt;GO&lt;/strong&gt; de vorm geschreven hoe de content
-map op de site wordt weergegeven, in mijn geval in de vorm van kaartjes.
-Ik heb hier een heel kleine aanpassing aangedaan wat ik op zich wel zeer
-moeilijk vond omdat ik &lt;strong&gt;GO&lt;/strong&gt; niet ken.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;footer.html:&lt;/strong&gt; Hierin staat het &lt;strong&gt;pagina einde&lt;/strong&gt; van de site, ik heb hier enkel kleine
-aanpassingen aan gedaan zoals de school vermelden, achtergrond
-aanpassen, … . Hier heb ik geen problemen mee ondervonden.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;header.html:&lt;/strong&gt; Hierin staat de &lt;strong&gt;header&lt;/strong&gt; van de site en de navigatiebar. Vooral
-met de navigatiebar heb ik veel problemen gehad. Ik heb nieuwe pagina’s
-aangemaakt, voor elk vak een. Met het toevoegen en linken in de navigatiebar
-heb ik &lt;strong&gt;enkele problemen&lt;/strong&gt; ondervonden, de pagina’s bleven namelijk ook tussen
-de posts staan wat dus niet de bedoeling is.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;pagination.html:&lt;/strong&gt; Dit is een belangrijk bestand voor maken van &lt;strong&gt;meerdere post
-pagina’s&lt;/strong&gt; en het navigeren daarheen. Ik ben hier dus vanaf afgebleven.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;index.html:&lt;/strong&gt; Dit is de verdeling van waar al de &lt;strong&gt;HTML&lt;/strong&gt; zal worden geplaatst als
-het in de public mat terecht komt.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Alleen Dropbox is beschikbaar op Linux apparaten maar Dropbox is dan weer niet beschikbaar op Windows Phones. OneDrive kan men op elk apparaat gebruiken behalve met Linux.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;static:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;Static:&lt;/h5&gt;
+&lt;h4 id=&#34;b-wat-is-er-verandert-in-office-2013-ten-opzichte-van-office-2007-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Wat is er verandert in Office 2013 ten opzichte van Office 2007?&lt;/b&gt;&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;style.css:&lt;/strong&gt; Hier heb ik de &lt;strong&gt;CSS&lt;/strong&gt; van mijn thema in gekopieerd en een beetje
-aangepast naar hoe ik het wilde. Het moeilijke hierbij was dat ik eerst niet goed
-wist wat bij welk hoorde op de site dus moest ik dit eerst enkele keren &lt;strong&gt;testen&lt;/strong&gt;
-voor dat het goed werkte.&lt;/p&gt;
+&lt;p&gt;Er zijn verschillende punten verandert in Office 2013, hier heeft u een overzicht van de belangrijkste veranderingen:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;materialize.min.js:&lt;/strong&gt; Hier staat al de &lt;strong&gt;Javascript&lt;/strong&gt; van mijn thema. Ik heb hier niets
-in aangepast omdat ik vind dat de &lt;strong&gt;Javascript&lt;/strong&gt; van mijn thema er goed uit ziet.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Men heeft ervoor gezorgd dat het aangenamer werken is via je tablet of smartphone bij de nieuwe Office versie. De apps zullen een aangepaste lay-out hebben en tussen de bewerkingsknoppen heeft men meer plaats gelaten voor eenvoudigere interactie met vinger of pen.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Office 2013 is enkel maar beschikbaar vanaf Windows 7 of hoger. De interactie tussen Office 2013 en Windows 8 verloopt daardoor perfect.&lt;/p&gt;&lt;/li&gt;
 
-&lt;h5 id=&#34;content:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;Content:&lt;/h5&gt;
+&lt;li&gt;&lt;p&gt;De online Cloud services zijn geoptimaliseerd voor betere prestaties. Het online bewerken van documenten verloopt nu vrijwel zonder problemen.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;strong&gt;Al de content:&lt;/strong&gt; Hier staan alle &lt;strong&gt;pages en posts&lt;/strong&gt; in. Deze map stond standaard in het &lt;strong&gt;hugo&lt;/strong&gt;&lt;br /&gt;
-bestand. De inhoud heb ik volledig zelf gemaakt met behulp van de &lt;strong&gt;command
-prompt&lt;/strong&gt;. Hier waren geen moeilijkheden bij.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;U kunt via Word snel en eenvoudig online foto&amp;rsquo;s/video&amp;rsquo;s toevoegen aan je Word documenten. Er is daarbij ook een eenvoudige optie om dit via je persoonlijke OneDrive te doen.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Alles is dus gebruiksvriendelijker en eenvoudiger gemaakt: sneller, verzorgdere lay-out, meer georganiseerd, … .&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;rest:d14ee5058b83c1d60fff47a03daa92f6&#34;&gt;Rest:&lt;/h5&gt;
+&lt;h4 id=&#34;b-is-er-een-verschil-tussen-office-online-en-office-offline-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Is er een verschil tussen Office online en Office offline?&lt;/b&gt;&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;config.toml:&lt;/strong&gt; In dit bestand staat de &lt;strong&gt;configuratie&lt;/strong&gt; van jou thema, ik heb hier veel
-in aangepast gedurende de vordering van de site omdat ik soms niet goed
-wist wat hier allemaal moest staan.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Engels</title>
-      <link>http://vincent-boden.github.io/page/engels/EN/</link>
-      <pubDate>Mon, 19 Oct 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/engels/EN/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;me-and-it:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;strong&gt;Me and IT&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Ja, er zijn enkele verschillen. Je hebt bijvoorbeeld minder opmaak mogelijkheden bij Office online dan bij Office online. Maar het principe blijft hetzelfde. Er zijn nog altijd wel veel opties ter beschikken in Office online.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&#34;b-hoe-beschermt-u-uw-documenten-tegen-aanpassingen-van-andere-gebruikers-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Hoe beschermt u uw documenten tegen aanpassingen van andere gebruikers?&lt;/b&gt;&lt;/h4&gt;
 
-&lt;p&gt;&lt;img class=&#34;rotate90&#34; src=&#34;http://vincent-boden.github.io//images/AfbVincent.png&#34; width=&#34;320&#34; height=&#34;180&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Als u een privé document hebt of als u een document hebt dat andere gebruikers mogen lezen maar niet mogen bewerken kunt u altijd uw document beschermen:&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;In de linkerbovenhoek van uw document klikt u op &amp;ldquo;Bestand&amp;rdquo;. Vervolgens gaat u naar &amp;ldquo;Info&amp;rdquo;. Hier ziet u het kadertje &amp;ldquo;Document beveiligen&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;b-introduction-b:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;b&gt;Introduction&lt;/b&gt;&lt;/h5&gt;
-
-&lt;p&gt;My name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in &lt;a href=&#34;http://www.beerse.be/&#34;&gt;Beerse&lt;/a&gt;. My school is &lt;a href=&#34;http://www.immalle.be/immalle/&#34;&gt;Immaculata Institute&lt;/a&gt; in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Als u hierop klikt ziet u een overzicht met de verschillende beveiligingsopties. Nu kan u uw document beveiligen naar hoe u het wilt.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;b-what-was-my-first-contact-with-it-b:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;b&gt;What was my first contact with IT?&lt;/b&gt;&lt;/h5&gt;
+&lt;h4 id=&#34;b-waar-kan-u-onedrive-overal-gebruiken-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Waar kan u OneDrive overal gebruiken?&lt;/b&gt;&lt;/h4&gt;
 
-&lt;p&gt;My first contact with IT was when I was very young, around the age of six. One of my uncles worked in an &lt;strong&gt;IT-related business&lt;/strong&gt; and every time I saw him he told something about what they did. Most of all they made &lt;strong&gt;websites&lt;/strong&gt; and I was really interested even when I was that young. When my parents bought my first pc my &lt;strong&gt;addiction&lt;/strong&gt; started to grow. First I just started with playing games and visiting information websites from stores in my town but as I got older I started to learn how to use my computer as a &lt;strong&gt;software development tool&lt;/strong&gt; with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;b-what-means-it-for-me-b:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;b&gt;What means IT for me?&lt;/b&gt;&lt;/h5&gt;
-
-&lt;p&gt;IT means a lot for me, every single moment (when I didn&amp;rsquo;t plan anything that day) I take my computer and I play games, build websites, do something for school, … . There is actually &lt;strong&gt;not a single day&lt;/strong&gt; that I haven’t used my pc. In the vacations I use my pc even more because at my &lt;strong&gt;holiday job&lt;/strong&gt; I work with a pc nine hours a day and when I come home from working I start up my own pc. Sometimes they even ask me &lt;strong&gt;IT-related questions&lt;/strong&gt; at my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert at what I do but I developped personally a lot with my &lt;strong&gt;IT skills&lt;/strong&gt;. If I look at what I was able to do three years ago and what I can do know … . Three years ago I only knew the &lt;strong&gt;basics&lt;/strong&gt; and now I learn something new about computers at school every day.&lt;/p&gt;
+&lt;p&gt;OneDrive is een toepassing dat op verschillende platformen werkt. U kan het op zo goed als elk toestel gebruiken. U kan het bijvoorbeeld downloaden op uw computer of het downloaden als een app voor iOS, Android, Windows. Zo heeft u toegang tot al u documenten waar u ook bent.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;b-how-do-you-see-the-future-b:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;b&gt;How do you see the future?&lt;/b&gt;&lt;/h5&gt;
+&lt;h4 id=&#34;b-hoe-kunt-u-bestanden-delen-met-onedrive-for-business-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Hoe kunt u bestanden delen met OneDrive for Business?&lt;/b&gt;&lt;/h4&gt;
 
-&lt;p&gt;I think when I finish my sixth year at &lt;a href=&#34;http://www.immalle.be/immalle/&#34;&gt;Immaculate Institute&lt;/a&gt; I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about &lt;strong&gt;JavaScript&lt;/strong&gt;, &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt; at &lt;a href=&#34;http://www.kdg.be/opleidingen/&#34;&gt;Karel de Grote high school&lt;/a&gt;. If I pass the exam I don’t have to study those lessons next year anymore and the things I learn there could always come in handy this school year. After I finish my &lt;strong&gt;bachelor&lt;/strong&gt; or &lt;strong&gt;master&lt;/strong&gt; degree I hope I can start in a business where they make beautiful, interactive and responsive websites of course so I can fully express &lt;strong&gt;my passion&lt;/strong&gt; into my work.&lt;/p&gt;
+&lt;p&gt;Het is heel eenvoudig om documenten te delen via OneDrive for Business. Volg deze stappen en u hebt in enkele minuten een bestand gedeeld:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;U moet links naast de naam van u document klikken om het document te selecteren dat u wilt delen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Daarna klikt u vanboven op delen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Nu ziet u een menu met verschillende opties voor het delen. U kan hier ook de persoon/personen ingeven waarmee u het bestand wilt delen.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;b-conclusion-b:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;b&gt;Conclusion&lt;/b&gt;&lt;/h5&gt;
+&lt;h4 id=&#34;b-welke-bestandstypes-kan-u-uploaden-op-onedrive-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Welke bestandstypes kan u uploaden op OneDrive?&lt;/b&gt;&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;IT&lt;/strong&gt; is as I already mentioned something really important in my life. I can’t imagine a life without my computer, smartphone, … . It is a big part of my life and I really like the fact that my friends of the class share this passion with me so there is always something IT-related to talk about in class.&lt;/p&gt;
+&lt;p&gt;Er zijn twee opties die u kan kiezen voor het uploaden van bestanden in OneDrive online. U kan een nieuw Office document aanmaken zoals Excel, Word, PowerPoint, … Maar u heeft ook een upload mogelijkheid voor alle verschillende bestanden op uw computer, bijvoorbeeld: muziek, films, … . Per account kan je een maximum van 10 GiB uploaden.&lt;/p&gt;
 
-&lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;b-hoe-verandert-u-de-extensie-van-een-bestand-in-office-365-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Hoe verandert u de extensie van een bestand in Office 365?&lt;/b&gt;&lt;/h4&gt;
+
+&lt;p&gt;In Office hebt u de mogelijkheid om meerdere extensies te gebruiken dan enkel de standaard extensies van Office. Zo kan u bijvoorbeeld heel eenvoudige een Word document veranderen in een PDF document door enkele eenvoudige stappen:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Klik in de linkerbovenhoek op &amp;ldquo;Bestand&amp;rdquo; en vervolgens op &amp;ldquo;Opslaan als&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Nu kiest u de plaats waar u het bestand wilt opslaan op uw computer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Onder de kader waar u de opslagplaats van het bestand kan kiezen ziet u een kadertje waar u de extensie van het bestand kan bepalen door gewoonweg erop te klikken.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/post/GIP%20TAAK%2004/&#34;&gt;FAQ FR&lt;/a&gt;
+&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/FAQ/FAQ%20Nederlands/&#34;&gt;FAQ NE&lt;/a&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Frans</title>
       <link>http://vincent-boden.github.io/page/frans/FR/</link>
-      <pubDate>Mon, 19 Oct 2015 17:14:11 +0200</pubDate>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://vincent-boden.github.io/page/frans/FR/</guid>
       <description>
@@ -282,8 +216,275 @@ wist wat hier allemaal moest staan.&lt;/p&gt;
 
 &lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
 &lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/post/GIP%20TAAK%2004/&#34;&gt;FAQ FR&lt;/a&gt;
-&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/FAQ%20Nederlands/&#34;&gt;FAQ NE&lt;/a&gt;
+&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/FAQ/FAQ%20Nederlands/&#34;&gt;FAQ NE&lt;/a&gt;
 &lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT-TAPA</title>
+      <link>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Sessie/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Sessie/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;taak-01-it-tapa-sessie:531d21b1503c58ff63cb63efb43cb8df&#34;&gt;&lt;strong&gt;TAAK 01: IT-TAPA SESSIE&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;De &lt;b&gt;IT-TAPA middagsessies&lt;/b&gt; waren heel goed verlopen. We hebben alles vlot kunnen uitleggen met af en toe een pauze ertussen om de leerkrachten te kunnen laten volgen en om hen de kans te geven om vragen te stellen. Ik vond het zelf heel leuk om te doen omdat we ook veel over het onderwerp &lt;a href=&#34;http://www.onedrive.live.com/&#34;&gt;OneDrive voor bedrijven&lt;/a&gt; en &lt;a href=&#34;https://products.office.com/nl-be/business/office&#34;&gt;Office 365&lt;/a&gt; weten. Het deed me daarbij ook plezier om andere er iets over bij te kunnen leren.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.onedrive.live.com/&#34;&gt;OneDrive voor bedrijven&lt;/a&gt; is een &lt;b&gt;cloudopslag&lt;/b&gt; waar u al uw bestanden kan opslaan. Het is speciaal ontworpen om eenvoudig in gebruik te nemen in uw bedrijf. De online toepassingen vergemakkelijken het aanpassen van de bestanden. Zo kan u offline maar ook online uw documenten bewerken. Ook zoals bij OneDrive hebt u de mogelijkheid om uw bestanden te delen en er tezamen aan te werken. &lt;a href=&#34;https://products.office.com/nl-be/business/office&#34;&gt;Office 365&lt;/a&gt; omvat al de verschillende &lt;b&gt;toepassingen van Microsoft Office&lt;/b&gt;. Enkele voorbeelden: OneDrive, Word, Excel, Lync, Publisher, &amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;De IT-TAPA middagsessie over OneDrive voor bedrijven en Office 365 is medemogelijk gemaakt door &lt;a href=&#34;http://jensvl-immalle.github.io/&#34;&gt;Jens Van Loon&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img width=75%   src=&#34;https://scontent-fra3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/12243178_931268693576811_5501266098225052475_n.jpg?oh=204607f6604089c1bc94f5a5772757d5&amp;oe=56DFE3C5&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/ittapa/IT-Tapa-Nederlands/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-forward&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TAAK 03 IT-TAPA ENG VIDEO</title>
+      <link>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Engels/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Engels/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;taak-03-it-tapa-instruction-video-the-english-way:db793907b259eee29c4c4b25af251d7d&#34;&gt;&lt;strong&gt;TAAK 03: IT-TAPA INSTRUCTION VIDEO THE ENGLISH WAY&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;75%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/g0GjSCenFNs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/ittapa/IT-Tapa-Nederlands/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT-TAPA</title>
+      <link>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Nederlands/</link>
+      <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Nederlands/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;taak-02-it-tapa-instructie-filmpje-nederlands:b359b2c59213a0f86bd26f1f66654e30&#34;&gt;&lt;strong&gt;TAAK 02: IT-TAPA INSTRUCTIE FILMPJE NEDERLANDS&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;75%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/2NbMCpBh0x8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/ittapa/IT-Tapa-Sessie/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/ittapa/IT-Tapa-Engels/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-forward&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Ontwikkeling</title>
+      <link>http://vincent-boden.github.io/page/software/Software-DirectoryStructuur/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/software/Software-DirectoryStructuur/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;een-overzicht-van-de-directory-structuur:8607617414704fe40b572ea49396cad4&#34;&gt;&lt;strong&gt;Een overzicht van de directory-structuur&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/vincent-boden/VincentBoden-GIPsite2015-2016.git&#34;&gt;&lt;strong&gt;GitLab&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/Vincent-Boden/vincent-boden.github.io.git&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vincent-boden.github.io/&#34;&gt;&lt;strong&gt;Publicatie URL&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;archetypes:8607617414704fe40b572ea49396cad4&#34;&gt;Archetypes&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;default.md:&lt;/strong&gt; Dit bestand is gekopieerd uit mijn hugo thema maar ik heb het niet gebruikt in mijn site.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;layouts:8607617414704fe40b572ea49396cad4&#34;&gt;Layouts&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;content.html:&lt;/strong&gt; Hier staat in &lt;strong&gt;HTML&lt;/strong&gt; en &lt;strong&gt;GO&lt;/strong&gt; de vorm geschreven hoe de content
+map op de site wordt weergegeven, in mijn geval in de vorm van kaartjes.
+Ik heb hier een heel kleine aanpassing aangedaan wat ik op zich wel zeer
+moeilijk vond omdat ik &lt;strong&gt;GO&lt;/strong&gt; niet ken.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;footer.html:&lt;/strong&gt; Hierin staat het &lt;strong&gt;pagina einde&lt;/strong&gt; van de site, ik heb hier enkel kleine
+aanpassingen aan gedaan zoals de school vermelden, achtergrond
+aanpassen, … . Hier heb ik geen problemen mee ondervonden.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;header.html:&lt;/strong&gt; Hierin staat de &lt;strong&gt;header&lt;/strong&gt; van de site en de navigatiebar. Vooral
+met de navigatiebar heb ik veel problemen gehad. Ik heb nieuwe pagina’s
+aangemaakt, voor elk vak een. Met het toevoegen en linken in de navigatiebar
+heb ik &lt;strong&gt;enkele problemen&lt;/strong&gt; ondervonden, de pagina’s bleven namelijk ook tussen
+de posts staan wat dus niet de bedoeling is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;pagination.html:&lt;/strong&gt; Dit is een belangrijk bestand voor maken van &lt;strong&gt;meerdere post
+pagina’s&lt;/strong&gt; en het navigeren daarheen. Ik ben hier dus vanaf afgebleven.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;index.html:&lt;/strong&gt; Dit is de verdeling van waar al de &lt;strong&gt;HTML&lt;/strong&gt; zal worden geplaatst als
+het in de public mat terecht komt.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;static:8607617414704fe40b572ea49396cad4&#34;&gt;Static&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;style.css:&lt;/strong&gt; Hier heb ik de &lt;strong&gt;CSS&lt;/strong&gt; van mijn thema in gekopieerd en een beetje
+aangepast naar hoe ik het wilde. Het moeilijke hierbij was dat ik eerst niet goed
+wist wat bij welk hoorde op de site dus moest ik dit eerst enkele keren &lt;strong&gt;testen&lt;/strong&gt;
+voor dat het goed werkte.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;materialize.min.js:&lt;/strong&gt; Hier staat al de &lt;strong&gt;Javascript&lt;/strong&gt; van mijn thema. Ik heb hier niets
+in aangepast omdat ik vind dat de &lt;strong&gt;Javascript&lt;/strong&gt; van mijn thema er goed uit ziet.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;content:8607617414704fe40b572ea49396cad4&#34;&gt;Content&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Al de content:&lt;/strong&gt; Hier staan alle &lt;strong&gt;pages en posts&lt;/strong&gt; in. Deze map stond standaard in het &lt;strong&gt;hugo&lt;/strong&gt;&lt;br /&gt;
+bestand. De inhoud heb ik volledig zelf gemaakt met behulp van de &lt;strong&gt;command
+prompt&lt;/strong&gt;. Hier waren geen moeilijkheden bij.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;rest:8607617414704fe40b572ea49396cad4&#34;&gt;Rest&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;config.toml:&lt;/strong&gt; In dit bestand staat de &lt;strong&gt;configuratie&lt;/strong&gt; van jou thema, ik heb hier veel
+in aangepast gedurende de vordering van de site omdat ik soms niet goed
+wist wat hier allemaal moest staan.&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/software/Software-VergelijkingWorkflows/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Ontwikkeling</title>
+      <link>http://vincent-boden.github.io/page/software/Software-VergelijkingWorkflows/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/software/Software-VergelijkingWorkflows/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;taak-07-vergelijking-hugo-wordpress:d0e5993ed072317cb0fc836f9fc18933&#34;&gt;&lt;strong&gt;TAAK 07: VERGELIJKING HUGO - WORDPRESS&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Hugo is een zeer handige software om je eigen &lt;strong&gt;blog/website&lt;/strong&gt; mee te maken. Het nadeel bij &lt;strong&gt;Hugo&lt;/strong&gt; is dat
+het heel moeilijk is om ermee te starten. Als je niet weet hoe Hugo werkt moet je eerst heel veel testen,
+onderzoeken en proberen te werken met verschillende thema’s. Elk thema heeft namelijk een &lt;strong&gt;aparte manier
+van configureren&lt;/strong&gt; dus je moet eerst een thema vinden dat je zou willen gebruiken en dan moet je de &amp;ldquo;&lt;em&gt;README.md&lt;/em&gt;&amp;ldquo;
+lezen of extra uitleg zoeken op de Hugo site zelf om de configuratie van dit bepaalde thema onder de knie
+te krijgen. Vanaf dat je je thema volledig hebt geconfigureerd en hebt aangepast naar jouw voorkeur is het
+toevoegen van &lt;strong&gt;posts&lt;/strong&gt; wel handig en eenvoudig. Jouw bepaalde thema geeft een bepaalde opmaak aan jou &lt;strong&gt;markdown&lt;/strong&gt;
+post en het schrijven van een markdown post is vrij eenvoudig als je eventjes onderzoek doet.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Ik heb ongeveer dezelfde posts nagemaakt met dezelfde titels op &lt;strong&gt;Wordpress&lt;/strong&gt; en dit zijn mijn conclusies in
+vergelijking met het gebruik van Hugo. Wordpress werkt zeer eenvoudig zonder dat je al te veel moet
+onderzoeken kan je &lt;strong&gt;vrijwel meteen een site/blog starten&lt;/strong&gt; en posts beginnen plaatsen. Er zijn ook hier
+verschillende thema’s waar je uit kan kiezen maar deze werken wel allemaal hetzelfde, je hoeft dus &lt;strong&gt;geen
+apart onderzoek&lt;/strong&gt; te doen voor elk thema. Het &lt;strong&gt;opmaken&lt;/strong&gt; van een post in Wordpress werkt zeer eenvoudig,
+je hebt een opmaak lint met allerlei opmaak toepassingen. Je kan ook zeer gemakkelijk afbeeldingen,
+locaties, … toevoegen aan je post.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Het &lt;strong&gt;publiceren&lt;/strong&gt; van de Wordpress blog is zeer handig, het werkt
+meteen als je de blog hebt aangemaakt en wanneer je je e-mail hebt bevestigd. Het publiceren via &lt;strong&gt;GitHub&lt;/strong&gt;
+met Hugo daarentegen brengt wel enkele problemen met zich mee. De &lt;strong&gt;baseUrl&lt;/strong&gt; wou nooit aanpassen en bleef
+steeds op &amp;ldquo;&lt;em&gt;localhost:1313&lt;/em&gt;&amp;rdquo; staan, wat er dus voor zorgde dat de site niet kon laden. Soms wilde de CSS ook niet
+laden en kon ik enkel de inhoud zien van mijn site zonder opmaak. Maar wanneer je eenmaal weet hoe het
+werkt gaat het wel vlot. Naar mijn eigen mening vind ik Wordpress wel &lt;strong&gt;handiger&lt;/strong&gt; om mee te werken maar ik
+vind Hugo beter omdat je hier zelf meer moeite in moet steken en dat geeft een &lt;strong&gt;gevoel van voldoening&lt;/strong&gt; dat
+je toch moeite hebt gestoken in het maken van je site/blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/software/Software-DirectoryStructuur/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-forward&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Engels</title>
+      <link>http://vincent-boden.github.io/page/engels/EN/</link>
+      <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/engels/EN/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;me-and-it:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;strong&gt;Me and IT&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;rotate90&#34; src=&#34;http://vincent-boden.github.io//images/AfbVincent.png&#34; width=&#34;320&#34; height=&#34;180&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;b-introduction-b:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;b&gt;Introduction&lt;/b&gt;&lt;/h5&gt;
+
+&lt;p&gt;My name is Vincent Boden, a fanatic website builder. I&amp;rsquo;m 17 years old and I live in &lt;a href=&#34;http://www.beerse.be/&#34;&gt;Beerse&lt;/a&gt;. My school is &lt;a href=&#34;http://www.immalle.be/immalle/&#34;&gt;Immaculata Institute&lt;/a&gt; in Oostmalle where I study IT in my sixth year.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;b-what-was-my-first-contact-with-it-b:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;b&gt;What was my first contact with IT?&lt;/b&gt;&lt;/h5&gt;
+
+&lt;p&gt;My first contact with IT was when I was very young, around the age of six. One of my uncles worked in an &lt;strong&gt;IT-related business&lt;/strong&gt; and every time I saw him he told something about what they did. Most of all they made &lt;strong&gt;websites&lt;/strong&gt; and I was really interested even when I was that young. When my parents bought my first pc my &lt;strong&gt;addiction&lt;/strong&gt; started to grow. First I just started with playing games and visiting information websites from stores in my town but as I got older I started to learn how to use my computer as a &lt;strong&gt;software development tool&lt;/strong&gt; with the help of my uncle when he had time. Of course I still play lots of games in my spare time but building websites is also something that I like.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;b-what-means-it-for-me-b:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;b&gt;What means IT for me?&lt;/b&gt;&lt;/h5&gt;
+
+&lt;p&gt;IT means a lot for me, every single moment (when I didn&amp;rsquo;t plan anything that day) I take my computer and I play games, build websites, do something for school, … . There is actually &lt;strong&gt;not a single day&lt;/strong&gt; that I haven’t used my pc. In the vacations I use my pc even more because at my &lt;strong&gt;holiday job&lt;/strong&gt; I work with a pc nine hours a day and when I come home from working I start up my own pc. Sometimes they even ask me &lt;strong&gt;IT-related questions&lt;/strong&gt; at my holiday work and it gives a really nice feeling if I can help them with what I know. So I can&amp;rsquo;t actually say how much time I spend on my computer a day because it&amp;rsquo;s always different. I am not an expert at what I do but I developped personally a lot with my &lt;strong&gt;IT skills&lt;/strong&gt;. If I look at what I was able to do three years ago and what I can do know … . Three years ago I only knew the &lt;strong&gt;basics&lt;/strong&gt; and now I learn something new about computers at school every day.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;b-how-do-you-see-the-future-b:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;b&gt;How do you see the future?&lt;/b&gt;&lt;/h5&gt;
+
+&lt;p&gt;I think when I finish my sixth year at &lt;a href=&#34;http://www.immalle.be/immalle/&#34;&gt;Immaculate Institute&lt;/a&gt; I am going to study something with building websites in Antwerp. Maybe in the course of this school year I am going to follow a few lessons about &lt;strong&gt;JavaScript&lt;/strong&gt;, &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt; at &lt;a href=&#34;http://www.kdg.be/opleidingen/&#34;&gt;Karel de Grote high school&lt;/a&gt;. If I pass the exam I don’t have to study those lessons next year anymore and the things I learn there could always come in handy this school year. After I finish my &lt;strong&gt;bachelor&lt;/strong&gt; or &lt;strong&gt;master&lt;/strong&gt; degree I hope I can start in a business where they make beautiful, interactive and responsive websites of course so I can fully express &lt;strong&gt;my passion&lt;/strong&gt; into my work.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;b-conclusion-b:d42ee8822c5ff39e8bd95c9ac94377c2&#34;&gt;&lt;b&gt;Conclusion&lt;/b&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;IT&lt;/strong&gt; is as I already mentioned something really important in my life. I can’t imagine a life without my computer, smartphone, … . It is a big part of my life and I really like the fact that my friends of the class share this passion with me so there is always something IT-related to talk about in class.&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -294,16 +495,6 @@ wist wat hier allemaal moest staan.&lt;/p&gt;
       
       <guid>http://vincent-boden.github.io/page/bedrijfsbeheer/BB/</guid>
       <description>&lt;p&gt;Bedrijfsbeheer&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IT-TAPA</title>
-      <link>http://vincent-boden.github.io/page/ittapa/IT/</link>
-      <pubDate>Thu, 01 Jan 2015 17:14:11 +0200</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/ittapa/IT/</guid>
-      <description>&lt;p&gt;IT-TAPA&lt;/p&gt;
 </description>
     </item>
     
