@@ -60,6 +60,12 @@
 
 &lt;h3 id=&#34;stageverslag-dag-8:4f8d18e2e5fb41a9188b7b70c366dc79&#34;&gt;Stageverslag - dag 8&lt;/h3&gt;
 
+&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag08.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ook op stage dag acht hebben we de software vervangen van een van de Smartboxes die aan de laadkades gekoppeld zijn vervangen. Hierbij was er weer iets misgegaan. Omdat de Raspberry Pi die in de Smartbox aanwezig is iets te dicht bij een andere component van de Smartbox zat zijn deze deeltjes tegen elkaar gekomen bij het insteken van de nieuwe SD-kaart met de nieuwe software en dit heeft kortsluiting veroorzaakt waardoor de Raspberry Pi stuk was en vervangen moest worden.&lt;/p&gt;
+
+&lt;p&gt;De namiddag heb ik helemaal gespendeerd aan het maken van verschillende scriptjes in opdracht van mijn stagebegeleider. Ook heb ik zelf enkele script ideeën bedacht en uitgewerkt.&lt;/p&gt;
+
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
@@ -79,6 +85,14 @@
 
 &lt;h3 id=&#34;stageverslag-dag-7:8cfbf334a90517c819ced1207300802b&#34;&gt;Stageverslag - dag 7&lt;/h3&gt;
 
+&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag07.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Op stage dag zeven zijn we gestart met de software van de volgende Smartbox die aan deze laadkade gekoppeld is te vervangen zoals u in de afbeelding kan zien. Bij het vervangen van deze software ging er van alles mis en hier hebben we dan vrij veel tijd ingestoken om achteraf tot de conclusie te komen dat er twee lampen in de lampen toren defect waren.&lt;/p&gt;
+
+&lt;p&gt;Daarna heb ik een soort van vergadering mogen bijwonen waar men een nieuw aangekaart idee gaat voorstellen en bespreken wanneer en hoe ze dit gaan doen zodat ik ook eens een beeld zou krijgen van hoe dat in zijn werk gaat.&lt;/p&gt;
+
+&lt;p&gt;De laatste twee uur heeft mijn stagebegeleider mij aan het werk gezet met Linux commando&amp;rsquo;s. Ik moest zelf uitzoeken en experimenteren hoe ik moest navigeren, bestanden maken, bewerken, &amp;hellip; in bash. Ook heb ik moeten uitzoeken hoe je scripts in bash kan maken, schrijven en uitvoeren voor eigen gebruik. Na enige tijd zoeken is dit allemaal wel gelukt.&lt;/p&gt;
+
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
@@ -97,6 +111,16 @@
 &lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;stageverslag-dag-6:1fb5a32fba7fb54d95844aa6b626fb2e&#34;&gt;Stageverslag - dag 6&lt;/h3&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag06.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Op stage dag zes heb ik een nieuwe stagebegeleider gekregen. Hij houdt zich vooral bezig met de Smartboxen, dit is een case waarin een Raspberry Pi aanwezig is waarop een eigen geschreven applicatie draait. Dit programma staat op het SD-kaartje dat in de Raspberry Pi zit. Voor al de aanwezige Smartboxen aan de laadkades moest de software vervangen worden terwijl er mensen aan het werk waren in de fabriek. We moesten hier soms op wachten om het te testen en ook totdat ze weg waren zodat wij de tijd kregen om het te installeren.&lt;/p&gt;
+
+&lt;p&gt;De bedoeling is dat we tegen het einde van de week al de Smartboxen bij de laadkades voorzien hebben van de nieuwe Software.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;De nieuwe stagebegeleider heeft ook een gedetailleerde uitleg gegeven over Linux in het algemeen, hier ga ik ook mijn Case Study over doen. Hij heeft uitgelegd waar het vandaan komt, waarom ze het op NV Imas gebruiken en hij heeft mij enkele commando&amp;rsquo;s laten uittesten. In de loop van deze week is het de bedoeling dat ik vlot kan werken met de command line in Linux, hierbij aan gekoppeld maak ik gebruik van de command line via een Raspberry Pi.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -383,7 +407,7 @@
     </item>
     
     <item>
-      <title>OVERZICHT VAN MIJN STAGE PER DAG</title>
+      <title>OVERZICHT STAGE- VERSLAGEN</title>
       <link>http://vincent-boden.github.io/post/GIP%20STAGE%20VERSLAGEN/</link>
       <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -609,107 +633,6 @@
     </item>
     
     <item>
-      <title>Frans</title>
-      <link>http://vincent-boden.github.io/page/frans/FR/</link>
-      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/frans/FR/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;la-foire-aux-questions:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;strong&gt;LA FOIRE AUX QUESTIONS&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-il-y-a-des-différences-entre-office-online-et-office-offline-b:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;b&gt;Il y a des différences entre Office online et Office offline?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Oui, il y a des &lt;strong&gt;différences&lt;/strong&gt;. Ainsi, il y a &lt;strong&gt;moins d’options&lt;/strong&gt; pour la mise en page. Mais pas de souci, Office online a aussi beaucoup de bonnes options.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-où-peut-on-utiliser-onedrive-b:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;b&gt;Où peut-on utiliser OneDrive?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;OneDrive est une application &lt;strong&gt;multiplateforme&lt;/strong&gt;. Vous pouvez l’utiliser partout. Il y a des applications pour iOS, Mac, Android, Windows. Vous pouvez y &lt;strong&gt;gérer&lt;/strong&gt; tous vos fichiers et plus.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-comment-partager-des-fichiers-avec-onedrive-for-business-b:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;b&gt;Comment partager des fichiers avec OneDrive for Business?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;OneDrive a un &lt;strong&gt;avantage&lt;/strong&gt; pour partager des documents. C&amp;rsquo;est facile à utiliser. Suivez ces étapes:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Vous devez cliquer à gauche du nom de votre fichier pour &lt;strong&gt;sélectionner&lt;/strong&gt; le fichier que vous voulez partager.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Après vous cliquez en haut pour &lt;strong&gt;partager&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Maintenant vous voyez &lt;strong&gt;un menu&lt;/strong&gt; avec les options que vous pouvez choisir.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-quels-types-de-documents-peut-on-télécharger-b:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;b&gt;Quels types de documents peut-on télécharger?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Il y a 2 options pour &lt;strong&gt;téléverser&lt;/strong&gt; des documents en OneDrive online. Vous pouvez créer de nouveaux documents d&amp;rsquo;Office comme PowerPoint, Word, Excel, … mais il y a aussi une option pour téléverser des documents de &lt;strong&gt;tous types&lt;/strong&gt; de votre ordinateur avec un maximum de 10 GiB.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-une-connexion-internet-est-elle-requise-pour-office-365-b:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;b&gt;Une connexion Internet est-elle requise pour Office 365 ?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Non, pour utiliser Office, une connexion Internet &lt;strong&gt;n&amp;rsquo;est pas nécessaire&lt;/strong&gt;. Néanmoins, l&amp;rsquo;installation exige une connexion. Une connexion offre aussi &lt;strong&gt;plus de fonctions&lt;/strong&gt; que l’utilisation sans connexion:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Services cloud (Synchronisation avec OneDrive et Office online)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;E-mail&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;IT Management&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Donc, quand vous exécutez des changements lorsque vous êtes déconnecté une synchronisation aura lieu quand vous allez &lt;strong&gt;en ligne&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-comment-peut-on-changer-une-extension-office-365-b:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;b&gt;Comment peut-on changer une extension Office 365 ?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;En Office vous pouvez utiliser &lt;strong&gt;plus que les extensions standard&lt;/strong&gt; seulement. Si vous voulez adapter l&amp;rsquo;extension en PDF dans Word par exemple, c&amp;rsquo;est simple par quelques clics. Procédez comme suit:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Cliquez sur &amp;ldquo;&lt;em&gt;fichier&lt;/em&gt;&amp;rdquo; au coin supérieur gauche de votre document et après &amp;ldquo;&lt;em&gt;enregistrer sous&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Maintenant vous choisissez &lt;strong&gt;la place d’enregistrement&lt;/strong&gt; de votre document.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sous le cadre &amp;ldquo;&lt;em&gt;enregistrer&lt;/em&gt;&amp;rdquo; vous voyez le cadre où vous pouvez changer l&amp;rsquo;extension.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-qu-est-ce-que-le-cloud-b:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;b&gt;Qu&amp;rsquo;est-ce que le cloud?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Le cloud est une désignation pour les services basés sur le web. Le cloud est utilisé par &lt;strong&gt;plusieurs applications&lt;/strong&gt;. OneDrive est une partie du cloud Office. Dans le cloud, vous pouvez &lt;strong&gt;stocker&lt;/strong&gt; des documents, synchroniser avec OneDrive, téléphoner avec Lync etcétéra. Le cloud n&amp;rsquo;a pas d’interface mais OneDrive apporte certaines fonctions.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&#34;b-comment-pouvez-vous-protéger-votre-document-b:da25d6b755363f2b45fca738fe36faf8&#34;&gt;&lt;b&gt;Comment pouvez-vous protéger votre document?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Quand vous avez un document secret ou quand personne ne peut adapter votre document, vous pouvez &lt;strong&gt;protéger&lt;/strong&gt; votre document:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Cliquez sur &amp;ldquo;&lt;em&gt;fichier&lt;/em&gt;&amp;rdquo; au coin supérieur gauche de votre document. Vous voyez un cadre avec le titre &amp;ldquo;&lt;em&gt;Protéger le document&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Comme vous cliquez sur ce cadre vous voyez un menu avec les différentes options pour &lt;strong&gt;protéger votre document&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
-&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/post/GIP%20TAAK%2004/&#34;&gt;FAQ FR&lt;/a&gt;
-&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/FAQ/FAQ%20Nederlands/&#34;&gt;FAQ NE&lt;/a&gt;
-&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>TAAK 03 IT-TAPA ENG VIDEO</title>
       <link>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Engels/</link>
       <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
@@ -726,6 +649,39 @@
 &lt;iframe width=&#34;75%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/g0GjSCenFNs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/ittapa/IT-Tapa-Nederlands/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT-TAPA</title>
+      <link>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Sessie/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Sessie/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;taak-01-it-tapa-sessie:531d21b1503c58ff63cb63efb43cb8df&#34;&gt;&lt;strong&gt;TAAK 01: IT-TAPA SESSIE&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;De &lt;b&gt;IT-TAPA middagsessies&lt;/b&gt; waren heel goed verlopen. We hebben alles vlot kunnen uitleggen met af en toe een pauze ertussen om de leerkrachten te kunnen laten volgen en om hen de kans te geven om vragen te stellen. Ik vond het zelf heel leuk om te doen omdat we ook veel over het onderwerp &lt;a href=&#34;http://www.onedrive.live.com/&#34;&gt;OneDrive voor bedrijven&lt;/a&gt; en &lt;a href=&#34;https://products.office.com/nl-be/business/office&#34;&gt;Office 365&lt;/a&gt; weten. Het deed me daarbij ook plezier om andere er iets over bij te kunnen leren.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.onedrive.live.com/&#34;&gt;OneDrive voor bedrijven&lt;/a&gt; is een &lt;b&gt;cloudopslag&lt;/b&gt; waar u al uw bestanden kan opslaan. Het is speciaal ontworpen om eenvoudig in gebruik te nemen in uw bedrijf. De online toepassingen vergemakkelijken het aanpassen van de bestanden. Zo kan u offline maar ook online uw documenten bewerken. Ook zoals bij OneDrive hebt u de mogelijkheid om uw bestanden te delen en er tezamen aan te werken. &lt;a href=&#34;https://products.office.com/nl-be/business/office&#34;&gt;Office 365&lt;/a&gt; omvat al de verschillende &lt;b&gt;toepassingen van Microsoft Office&lt;/b&gt;. Enkele voorbeelden: OneDrive, Word, Excel, Lync, Publisher, &amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;De IT-TAPA middagsessie over OneDrive voor bedrijven en Office 365 is medemogelijk gemaakt door &lt;a href=&#34;http://jensvl-immalle.github.io/&#34;&gt;Jens Van Loon&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img width=75%   src=&#34;https://scontent-fra3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/12243178_931268693576811_5501266098225052475_n.jpg?oh=204607f6604089c1bc94f5a5772757d5&amp;oe=56DFE3C5&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/ittapa/IT-Tapa-Nederlands/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-forward&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;

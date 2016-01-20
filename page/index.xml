@@ -60,6 +60,12 @@
 
 &lt;h3 id=&#34;stageverslag-dag-8:4f8d18e2e5fb41a9188b7b70c366dc79&#34;&gt;Stageverslag - dag 8&lt;/h3&gt;
 
+&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag08.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ook op stage dag acht hebben we de software vervangen van een van de Smartboxes die aan de laadkades gekoppeld zijn vervangen. Hierbij was er weer iets misgegaan. Omdat de Raspberry Pi die in de Smartbox aanwezig is iets te dicht bij een andere component van de Smartbox zat zijn deze deeltjes tegen elkaar gekomen bij het insteken van de nieuwe SD-kaart met de nieuwe software en dit heeft kortsluiting veroorzaakt waardoor de Raspberry Pi stuk was en vervangen moest worden.&lt;/p&gt;
+
+&lt;p&gt;De namiddag heb ik helemaal gespendeerd aan het maken van verschillende scriptjes in opdracht van mijn stagebegeleider. Ook heb ik zelf enkele script ideeën bedacht en uitgewerkt.&lt;/p&gt;
+
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
@@ -79,6 +85,14 @@
 
 &lt;h3 id=&#34;stageverslag-dag-7:8cfbf334a90517c819ced1207300802b&#34;&gt;Stageverslag - dag 7&lt;/h3&gt;
 
+&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag07.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Op stage dag zeven zijn we gestart met de software van de volgende Smartbox die aan deze laadkade gekoppeld is te vervangen zoals u in de afbeelding kan zien. Bij het vervangen van deze software ging er van alles mis en hier hebben we dan vrij veel tijd ingestoken om achteraf tot de conclusie te komen dat er twee lampen in de lampen toren defect waren.&lt;/p&gt;
+
+&lt;p&gt;Daarna heb ik een soort van vergadering mogen bijwonen waar men een nieuw aangekaart idee gaat voorstellen en bespreken wanneer en hoe ze dit gaan doen zodat ik ook eens een beeld zou krijgen van hoe dat in zijn werk gaat.&lt;/p&gt;
+
+&lt;p&gt;De laatste twee uur heeft mijn stagebegeleider mij aan het werk gezet met Linux commando&amp;rsquo;s. Ik moest zelf uitzoeken en experimenteren hoe ik moest navigeren, bestanden maken, bewerken, &amp;hellip; in bash. Ook heb ik moeten uitzoeken hoe je scripts in bash kan maken, schrijven en uitvoeren voor eigen gebruik. Na enige tijd zoeken is dit allemaal wel gelukt.&lt;/p&gt;
+
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
@@ -97,6 +111,16 @@
 &lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;stageverslag-dag-6:1fb5a32fba7fb54d95844aa6b626fb2e&#34;&gt;Stageverslag - dag 6&lt;/h3&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag06.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Op stage dag zes heb ik een nieuwe stagebegeleider gekregen. Hij houdt zich vooral bezig met de Smartboxen, dit is een case waarin een Raspberry Pi aanwezig is waarop een eigen geschreven applicatie draait. Dit programma staat op het SD-kaartje dat in de Raspberry Pi zit. Voor al de aanwezige Smartboxen aan de laadkades moest de software vervangen worden terwijl er mensen aan het werk waren in de fabriek. We moesten hier soms op wachten om het te testen en ook totdat ze weg waren zodat wij de tijd kregen om het te installeren.&lt;/p&gt;
+
+&lt;p&gt;De bedoeling is dat we tegen het einde van de week al de Smartboxen bij de laadkades voorzien hebben van de nieuwe Software.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;De nieuwe stagebegeleider heeft ook een gedetailleerde uitleg gegeven over Linux in het algemeen, hier ga ik ook mijn Case Study over doen. Hij heeft uitgelegd waar het vandaan komt, waarom ze het op NV Imas gebruiken en hij heeft mij enkele commando&amp;rsquo;s laten uittesten. In de loop van deze week is het de bedoeling dat ik vlot kan werken met de command line in Linux, hierbij aan gekoppeld maak ik gebruik van de command line via een Raspberry Pi.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
