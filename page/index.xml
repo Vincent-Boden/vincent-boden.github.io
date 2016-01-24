@@ -22,6 +22,16 @@
 
 &lt;h3 id=&#34;stageverslag-dag-10:4e11de1ed69ea6cb5869882e17fa3fdf&#34;&gt;Stageverslag - dag 10&lt;/h3&gt;
 
+&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag10.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Op stage dag tien hebben we niet zo veel gedaan. We hebben eerst de laatste laadkades voorzien van de nieuwe software en daarna was mijn klastitularis gearriveerd om een kleine bespreking te doen met de twee stagebegeleiders. Daarna ben ik er zelf ook nog even bij gekomen om mijn ervaring over de stage met hen te delen.&lt;/p&gt;
+
+&lt;p&gt;In de namiddag heb ik samen met mijn stagebegeleider een Raspberry Pi geconfigureerd die ik achteraf zelf mee naar huis mocht nemen. Dit was een heel aangename verassing en ik mocht daarbij ook nog eens om twee uur al naar huis.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Ik vond de stage zelf een heel leerrijke ervaring, ook de mensen waar ik mee samenwerkte waren stuk voor stuk fantastische mensen die mij graag wilde helpen en uitleg wilde geven over hoe zij werkte. Ze hebben mij zelfs vakantiewerk aangeboden voor in de grote vakantie, ik ben van plan om dit zeker te doen omdat dit een grote kans voor mij is die ik niet kan laten liggen.&lt;/p&gt;
+
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
@@ -40,6 +50,14 @@
 &lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;stageverslag-dag-9:0a022042cf6067316f191f60b83ce4e4&#34;&gt;Stageverslag - dag 9&lt;/h3&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag09.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Op stage dag negen heeft mijn stagebegeleider mij twee grote opdrachten gegeven, namelijk leren werken met het ssh commando over heel het domein van Nv Imas en een uitgebreid script schrijven dat automatisch alles wegschreef in een log bestand door middel van functies. Het wegschrijven in een log bestand van de gebeurtenissen is iets heel belangrijk. Als er iets misloopt kan je door de logfiles te bekijken meteen zien wat er fout is gegaan en zo voorkom je lang zoeken naar iets klein wat je heel eenvoudig kunt oplossen met een log functie te schrijven.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;We wilde ook nog de software vervangen van een volgend laadkade maar er was iets misgegaan met de Smartbox van de laadkade die we gisteren hadden vervangen. Er kwam namelijk een fout aantal volt binnen waardoor de Raspberry Pi niet kon werken. Dit heeft mijn stagebegeleider opgelost terwijl ik met de scripts bezig was anders nam dit te veel tijd in beslag, zo kon ik meer met scripting bezig zijn.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
