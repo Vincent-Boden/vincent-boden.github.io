@@ -7,8 +7,190 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GIP-site 2015 - 2016</copyright>
-    <lastBuildDate>Fri, 22 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://vincent-boden.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Engels</title>
+      <link>http://vincent-boden.github.io/page/engels/reviewofahardware/</link>
+      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/engels/reviewofahardware/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;review-of-a-hardware-the-raspberry-pi:889bdeb657e1b2ff6875c42322139f34&#34;&gt;&lt;strong&gt;Review of a hardware - The Raspberry Pi&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The Raspberry Pi is actually a really small computer, the most famous cheap circuit board computer. It was made and launched by the Raspberry Pi foundation. Until today they have developed four different versions of the small computer, the Raspberry Pi A, A+, B and B+. Besides the fact that you can use the Raspberry Pi to save your documents , it can be used in countless ways. The Raspberry Pi is a very flexible device.&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 75%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag10.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;reference-to-the-online-review:889bdeb657e1b2ff6875c42322139f34&#34;&gt;Reference to the online review:&lt;/h4&gt;
+
+&lt;p&gt;This is the &lt;a href=&#34;http://www.trustedreviews.com/raspberry-pi-2-review&#34;&gt;link&lt;/a&gt; to the online review of the Raspberry Pi 2 or the Raspberry Pi B+. Overall the review is in favour of the Raspberry Pi because most of the comments are good ones.&lt;/p&gt;
+
+&lt;h4 id=&#34;pros-and-cons-of-the-review:889bdeb657e1b2ff6875c42322139f34&#34;&gt;Pros and cons of the review:&lt;/h4&gt;
+
+&lt;p&gt;I totally agree with most of the things that the reviewer mentioned in his review because I have a Raspberry Pi at home so I can see and I have proof that it is right or wrong what he says.&lt;/p&gt;
+
+&lt;p&gt;The Raspberry Pi is a good way to learn something about Linux and working with the Linux terminal. This is totally true because I learned at my training company how to work with Linux and how to use the different commandos.&lt;/p&gt;
+
+&lt;p&gt;You can’t use Windows or Android on your Raspberry Pi yet. This is totally not true, but I think this is because the review is two years old and the option to use Windows and Android on your Raspberry Pi is very new.&lt;/p&gt;
+
+&lt;p&gt;You can use a Raspberry Pi for very varied things (E.G.: controlling your television, setting up your own webserver to host websites, make your own robot, …). I agree with this because at my training company they use Raspberry Pis very often with lots of different things (E.G.: a counter, a scanner, controlling radio, …).&lt;/p&gt;
+
+&lt;p&gt;Sometimes your Raspberry Pi demands some patience. I agree to a certain extent, because this is only when you are doing lots of heavy things at the same time. If you’re only doing one thing on your Raspberry Pi it all runs very smoothly.&lt;/p&gt;
+
+&lt;p&gt;You can switch very easily between different operating systems since you are working with SD cards. The best way to store your data is on a USB-stick if you are working with different operating systems at one Raspberry Pi. I agree to a certain extent, but if you change your SD card too much you can accidentally break something in your Raspberry Pi because it is very small and fragile.
+It is not recommended to use a Raspberry Pi as your main computer at home. I agree with this statement because the Raspberry PI is a beautiful computer which can do very varied things but it is not made to be used as a main computer because a Raspberry Pi is more built for coding, testing, … and this without a graphical user interface. If you don’t know much about computers it is very difficult to work with a computer without a graphical user interface.&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusion:889bdeb657e1b2ff6875c42322139f34&#34;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;The Raspberry Pi is a very handy tool, something you must have as an IT person. I highly recommend the Raspberry Pi to everybody who is lazy and wants to automate everything and people who want to have a hobby or a challenge to learn something new.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../EN&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systeembeheer</title>
+      <link>http://vincent-boden.github.io/page/systeembeheer/casestudy/</link>
+      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/systeembeheer/casestudy/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;taak-11-case-study-van-het-stagebedrijf:3fc9fb3ad1722d6d342ad3aab0174689&#34;&gt;&lt;strong&gt;TAAK 11 - Case study van het stagebedrijf&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;linux:3fc9fb3ad1722d6d342ad3aab0174689&#34;&gt;Linux&lt;/h4&gt;
+
+&lt;p&gt;Linux is een heel uitgebreid besturingssysteem dat voornamelijk is ontstaan uit twee grote delen namelijk Debian en Slackware. Er bestaan honderden versies van Linux. Omdat Linux een open source besturingssysteem is wilt dit zeggen dat iedereen bijna elke Linux versie gratis kan en mag gebruiken.&lt;/p&gt;
+
+&lt;h4 id=&#34;gebruik-op-mijn-stagebedrijf:3fc9fb3ad1722d6d342ad3aab0174689&#34;&gt;Gebruik op mijn stagebedrijf&lt;/h4&gt;
+
+&lt;p&gt;Op Nv Imas zelf gebruikte iedereen Linux als besturingssysteem opgedeeld in drie versies, namelijk 60% Ubuntu, 20% SUSE en 20% Redhat. Toen ik hier voor het eerst aankwam wist ik meteen dat dit een uitdaging ging worden omdat ik zelf tuis alleen gebruik maak van Winsows als hoofdbesturingssysteem.&lt;/p&gt;
+
+&lt;p&gt;In het begin vond ik dit een beetje vreemd maar na een tijdje begon ik de voordelen te zien van het gebruik van Linux in dit bedrijf, namelijk het feit dat het zo goedkoop is, dat het zeer goed in samenwerking gaat met de Raspberry Pi&amp;rsquo;s die zijn gemonteerd door heel het bedrijf en ook omdat Linux een zeer ligt besturingssysteem is wat er dus voor zorgt dat alles vlot verloopt.&lt;/p&gt;
+
+&lt;p&gt;Toch gebruikte alle werknemers een virtuele Windows 7 voor hun mailverkeer omdat dit gedaan werd met Outlook. Dit hebben ze zo gedaan omdat al de werknemers van VGP werken met een Windows computer met Outlook. Ook doet men dit omdat oplossen van problemen eenvoudiger wordt tussen twee Windows computers dan tussen een Windows computer en een Linux computer.&lt;/p&gt;
+
+&lt;h4 id=&#34;scripting:3fc9fb3ad1722d6d342ad3aab0174689&#34;&gt;Scripting&lt;/h4&gt;
+
+&lt;p&gt;Op mijn stagebedrijf heb ik ook het nut geleerd van scripts te maken. Hieronder ziet u een afbeelding van een script dat ik zelf heb moeten maken van mijn stagementor als oefening.&lt;/p&gt;
+
+&lt;p&gt;Het is een eenvoudig script waarmee je nieuwe files kan aanmaken. Wanneer de file al bestaat zal het vragen om het te vervangen. Er is ook een help functie ingebouwd en alles wat gedaan wordt met het script wordt ook gelogt in een .log file. Zo kan je alles tot op de voet volgen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 100%;&#34; src=&#34;../../../images/giptaak11.png&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusie:3fc9fb3ad1722d6d342ad3aab0174689&#34;&gt;Conclusie&lt;/h4&gt;
+
+&lt;p&gt;Ik zelf ga thuis nog altijd Windows blijven gebruiken maar ik zal af en toe een virtuele machine gebruiken met Linux Ubuntu erop omdat dit toch wel zeer handig kan zijn voor sommige toepassingen.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../SB&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Ontwikkeling</title>
+      <link>http://vincent-boden.github.io/page/software/databasechatroom/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/software/databasechatroom/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;taak-08-database-chatroom:17868c9f981a05358bc5bf08d277e0e1&#34;&gt;&lt;strong&gt;TAAK 08: Database Chatroom&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 75%;&#34; src=&#34;../../../images/taak08.jpg&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../SO&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software ontwikkeling</title>
+      <link>http://vincent-boden.github.io/page/software/interactievejsapplicatie/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/software/interactievejsapplicatie/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;taak-09-interactieve-javascript-applicatie:433f73dde1d33376527aef6600aebb3f&#34;&gt;&lt;strong&gt;TAAK 09 - Interactieve Javascript applicatie&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Als u &lt;a href=&#34;http://vincent-boden1.github.io/&#34;&gt;hier&lt;/a&gt; klikt kan u de interactieve Javascript applicatie bekijken.&lt;/p&gt;
+
+&lt;p&gt;Als u &lt;a href=&#34;https://gitlab.com/vincent-boden/GipTaakJavascriptBerekeningsApplicaties.git&#34;&gt;hier&lt;/a&gt; klikt gaat u naar de GitLab repository van deze interactieve Javascript applicatie.&lt;/p&gt;
+
+&lt;p&gt;Hier ziet u de README.md van de interactieve Javascript applicatie voor meer uitleg waarover deze applicatie gaat.&lt;/p&gt;
+
+&lt;h3 id=&#34;een-wetenschappelijke-website:433f73dde1d33376527aef6600aebb3f&#34;&gt;Een Wetenschappelijke website&lt;/h3&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;wat-is-er-te-zien:433f73dde1d33376527aef6600aebb3f&#34;&gt;Wat is er te zien&lt;/h4&gt;
+
+&lt;p&gt;Je zal op een website terecht komen, van hieruit kunt u via het navigatiemenu kiezen tussen &amp;lsquo;Berekeningen&amp;rsquo; en &amp;lsquo;simulaties&amp;rsquo;. Bij de &amp;lsquo;Berekeningen&amp;rsquo; heeft u een overzicht waaruit u kunt kiezen om verschillende wetenschappelijke berekeningen uit te voeren en bij &amp;lsquo;simulaties&amp;rsquo; kunt u verschillende wetenschappelijke simulaties uitvoeren.&lt;/p&gt;
+
+&lt;h5 id=&#34;berekeningen:433f73dde1d33376527aef6600aebb3f&#34;&gt;&lt;strong&gt;Berekeningen&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Bij de &amp;lsquo;berekeningen&amp;rsquo; kunt u gebruik maken van een standaard rekenmachine en u kunt de afstand tussen verschillende planeten berekenen wanneer ze op een rechte lijn zouden liggen.&lt;/p&gt;
+
+&lt;h5 id=&#34;simulaties:433f73dde1d33376527aef6600aebb3f&#34;&gt;&lt;strong&gt;Simulaties&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Bij de &amp;lsquo;simulaties&amp;rsquo; kunt u enkele simulaties starten zoals de reis door de ruimte waarbij u door te vliegen met een spaceshuttle informatie kunt bekomen van elke planeet in ons zonnestelsel en onze zon. Bij de tabel van Mendeljev vindt u een interactieve tabel van mendeljev waarbij je informatie kunt verzamelen over al de verschillende reeds ontdekte elementen.&lt;/p&gt;
+
+&lt;h4 id=&#34;wat-gebruik-ik:433f73dde1d33376527aef6600aebb3f&#34;&gt;Wat gebruik ik&lt;/h4&gt;
+
+&lt;p&gt;Ik maak gebruik van HTML, CSS, Javascript en de Javascript library Jquery.&lt;/p&gt;
+
+&lt;h4 id=&#34;best-code-practicing:433f73dde1d33376527aef6600aebb3f&#34;&gt;Best code practicing &amp;hellip;&lt;/h4&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../SO&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reportage photo</title>
+      <link>http://vincent-boden.github.io/page/frans/reportagephoto/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/frans/reportagephoto/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;un-reportage-photos-de-mon-stage-à-imas-sa:59c85be14b12474d43f460db0c1dff91&#34;&gt;Un reportage photos de mon stage à Imas sa&lt;/h1&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;https://prezi.com/embed/b0p58lrqthpb/?bgcolor=ffffff&amp;amp;lock_to_path=0&amp;amp;autoplay=0&amp;amp;autohide_ctrls=0&amp;amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0OFVieWhHdmZLOTF6RCtJT3RhRTFFVkR3PT0&amp;amp;landing_sign=f9_nd5DDdoN1JULzbM_B9B2dQSSI8RQMtwQQH9oVbBA&#34; allowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; webkitallowfullscreen=&#34;&#34; id=&#34;iframe_container&#34; frameborder=&#34;0&#34; height=&#34;700&#34; width=&#34;90%&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Software Ontwikkeling</title>
@@ -32,7 +214,7 @@
 
 &lt;p&gt;Ik vond de stage zelf een heel leerrijke ervaring, ook de mensen waar ik mee samenwerkte waren stuk voor stuk fantastische mensen die mij graag wilde helpen en uitleg wilde geven over hoe zij werkte. Ze hebben mij zelfs vakantiewerk aangeboden voor in de grote vakantie, ik ben van plan om dit zeker te doen omdat dit een grote kans voor mij is die ik niet kan laten liggen.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -51,7 +233,7 @@
 
 &lt;h3 id=&#34;stageverslag-dag-9:0a022042cf6067316f191f60b83ce4e4&#34;&gt;Stageverslag - dag 9&lt;/h3&gt;
 
-&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag09.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;width: 90%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag09.png&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Op stage dag negen heeft mijn stagebegeleider mij twee grote opdrachten gegeven, namelijk leren werken met het ssh commando over heel het domein van Nv Imas en een uitgebreid script schrijven dat automatisch alles wegschreef in een log bestand door middel van functies. Het wegschrijven in een log bestand van de gebeurtenissen is iets heel belangrijk. Als er iets misloopt kan je door de logfiles te bekijken meteen zien wat er fout is gegaan en zo voorkom je lang zoeken naar iets klein wat je heel eenvoudig kunt oplossen met een log functie te schrijven.&lt;/p&gt;
 
@@ -59,7 +241,7 @@
 
 &lt;p&gt;We wilde ook nog de software vervangen van een volgend laadkade maar er was iets misgegaan met de Smartbox van de laadkade die we gisteren hadden vervangen. Er kwam namelijk een fout aantal volt binnen waardoor de Raspberry Pi niet kon werken. Dit heeft mijn stagebegeleider opgelost terwijl ik met de scripts bezig was anders nam dit te veel tijd in beslag, zo kon ik meer met scripting bezig zijn.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -84,7 +266,7 @@
 
 &lt;p&gt;De namiddag heb ik helemaal gespendeerd aan het maken van verschillende scriptjes in opdracht van mijn stagebegeleider. Ook heb ik zelf enkele script ideeën bedacht en uitgewerkt.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -111,7 +293,7 @@
 
 &lt;p&gt;De laatste twee uur heeft mijn stagebegeleider mij aan het werk gezet met Linux commando&amp;rsquo;s. Ik moest zelf uitzoeken en experimenteren hoe ik moest navigeren, bestanden maken, bewerken, &amp;hellip; in bash. Ook heb ik moeten uitzoeken hoe je scripts in bash kan maken, schrijven en uitvoeren voor eigen gebruik. Na enige tijd zoeken is dit allemaal wel gelukt.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -140,7 +322,7 @@
 
 &lt;p&gt;De nieuwe stagebegeleider heeft ook een gedetailleerde uitleg gegeven over Linux in het algemeen, hier ga ik ook mijn Case Study over doen. Hij heeft uitgelegd waar het vandaan komt, waarom ze het op NV Imas gebruiken en hij heeft mij enkele commando&amp;rsquo;s laten uittesten. In de loop van deze week is het de bedoeling dat ik vlot kan werken met de command line in Linux, hierbij aan gekoppeld maak ik gebruik van de command line via een Raspberry Pi.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -175,7 +357,7 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -206,7 +388,7 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -235,7 +417,7 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -270,7 +452,7 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -301,392 +483,7 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/stage/ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stage</title>
-      <link>http://vincent-boden.github.io/page/stage/ST/</link>
-      <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/stage/ST/</guid>
-      <description>&lt;h3 style=&#34;text-align: center&#34;&gt;Hier vind u een overzicht van alle stage verslagen&lt;/h3&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align: center&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;&lt;a href=&#34;http://vincent-boden.github.io/page/stage/StageDAG01/&#34;&gt;DAG 01&lt;/a&gt;&lt;/h4&gt;
-    11 Jan 2016
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div style=&#34;text-align: center&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;&lt;a href=&#34;http://vincent-boden.github.io/page/stage/StageDAG02/&#34;&gt;DAG 02&lt;/a&gt;&lt;/h4&gt;
-    12 Jan 2016
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div style=&#34;text-align: center&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;&lt;a href=&#34;http://vincent-boden.github.io/page/stage/StageDAG03/&#34;&gt;DAG 03&lt;/a&gt;&lt;/h4&gt;
-    13 Jan 2016
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align: center&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;&lt;a href=&#34;http://vincent-boden.github.io/page/stage/StageDAG04/&#34;&gt;DAG 04&lt;/a&gt;&lt;/h4&gt;
-    14 Jan 2016
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align: center&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;&lt;a href=&#34;http://vincent-boden.github.io/page/stage/StageDAG05/&#34;&gt;DAG 05&lt;/a&gt;&lt;/h4&gt;
-    15 Jan 2016
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align: center&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;&lt;a href=&#34;http://vincent-boden.github.io/page/stage/StageDAG06/&#34;&gt;DAG 06&lt;/a&gt;&lt;/h4&gt;
-    18 Jan 2016
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align: center&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;&lt;a href=&#34;http://vincent-boden.github.io/page/stage/StageDAG07/&#34;&gt;DAG 07&lt;/a&gt;&lt;/h4&gt;
-    19 Jan 2016
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align: center&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;&lt;a href=&#34;http://vincent-boden.github.io/page/stage/StageDAG08/&#34;&gt;DAG 08&lt;/a&gt;&lt;/h4&gt;
-    20 Jan 2016
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align: center&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;&lt;a href=&#34;http://vincent-boden.github.io/page/stage/StageDAG09/&#34;&gt;DAG 09&lt;/a&gt;&lt;/h4&gt;
-    21 Jan 2016
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align: center; color: #DFE6E8;&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;.&lt;/h4&gt;
-    .
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align: center&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;&lt;a href=&#34;http://vincent-boden.github.io/page/stage/StageDAG10/&#34;&gt;DAG 10&lt;/a&gt;&lt;/h4&gt;
-    22 Jan 2016
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align: center; color: #DFE6E8&#34; class=&#34;col m4 s12&#34;&gt;
-  &lt;div class=&#34;card-panel&#34;&gt;
-    &lt;h4&gt;.&lt;/h4&gt;
-    .
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;p style=&#34;color: #DFE6E8&#34;&gt;.&lt;p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>http://vincent-boden.github.io/page/FAQ/FAQ%20Nederlands/</link>
-      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/FAQ/FAQ%20Nederlands/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;b-faq-in-het-nederlands-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;FAQ in het Nederlands&lt;/b&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-wat-is-het-verschil-tussen-onedrive-en-dropbox-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Wat is het verschil tussen OneDrive en Dropbox?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Hier ziet u een overzicht van enkele verschillen tussen &lt;strong&gt;OneDrive en Dropbox&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Elk bestandstype kan op beide worden geüpload maar op Dropbox heb je niet de mogelijkheid om bestanden online te bewerken of te openen. Bij OneDrive heb je deze mogelijkheid bij veel bestandstypes wel.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Bij Dropbox start je maar met 2 GiB gratis opslag ruimte, bij OneDrive heb je gratis … GiB opslag ruimte. Beide kan je verhogen door betalingen. Bij Dropbox kan je ook extra GiB opslag ruimte verdienen door bijvoorbeeld je Facebook vrienden uit te nodigen om Dropbox te gebruiken.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Alleen Dropbox is beschikbaar op Linux apparaten maar Dropbox is dan weer niet beschikbaar op Windows Phones. OneDrive kan men op elk apparaat gebruiken behalve met Linux.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-wat-is-er-verandert-in-office-2013-ten-opzichte-van-office-2007-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Wat is er verandert in Office 2013 ten opzichte van Office 2007?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Er zijn verschillende punten verandert in Office 2013, hier heeft u een overzicht van de belangrijkste veranderingen:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Men heeft ervoor gezorgd dat het aangenamer werken is via je tablet of smartphone bij de nieuwe Office versie. De apps zullen een aangepaste lay-out hebben en tussen de bewerkingsknoppen heeft men meer plaats gelaten voor eenvoudigere interactie met vinger of pen.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Office 2013 is enkel maar beschikbaar vanaf Windows 7 of hoger. De interactie tussen Office 2013 en Windows 8 verloopt daardoor perfect.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;De online Cloud services zijn geoptimaliseerd voor betere prestaties. Het online bewerken van documenten verloopt nu vrijwel zonder problemen.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;U kunt via Word snel en eenvoudig online foto&amp;rsquo;s/video&amp;rsquo;s toevoegen aan je Word documenten. Er is daarbij ook een eenvoudige optie om dit via je persoonlijke OneDrive te doen.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Alles is dus gebruiksvriendelijker en eenvoudiger gemaakt: sneller, verzorgdere lay-out, meer georganiseerd, … .&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-is-er-een-verschil-tussen-office-online-en-office-offline-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Is er een verschil tussen Office online en Office offline?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Ja, er zijn enkele verschillen. Je hebt bijvoorbeeld minder opmaak mogelijkheden bij Office online dan bij Office online. Maar het principe blijft hetzelfde. Er zijn nog altijd wel veel opties ter beschikken in Office online.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-hoe-beschermt-u-uw-documenten-tegen-aanpassingen-van-andere-gebruikers-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Hoe beschermt u uw documenten tegen aanpassingen van andere gebruikers?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Als u een privé document hebt of als u een document hebt dat andere gebruikers mogen lezen maar niet mogen bewerken kunt u altijd uw document beschermen:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;In de linkerbovenhoek van uw document klikt u op &amp;ldquo;Bestand&amp;rdquo;. Vervolgens gaat u naar &amp;ldquo;Info&amp;rdquo;. Hier ziet u het kadertje &amp;ldquo;Document beveiligen&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Als u hierop klikt ziet u een overzicht met de verschillende beveiligingsopties. Nu kan u uw document beveiligen naar hoe u het wilt.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-waar-kan-u-onedrive-overal-gebruiken-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Waar kan u OneDrive overal gebruiken?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;OneDrive is een toepassing dat op verschillende platformen werkt. U kan het op zo goed als elk toestel gebruiken. U kan het bijvoorbeeld downloaden op uw computer of het downloaden als een app voor iOS, Android, Windows. Zo heeft u toegang tot al u documenten waar u ook bent.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-hoe-kunt-u-bestanden-delen-met-onedrive-for-business-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Hoe kunt u bestanden delen met OneDrive for Business?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Het is heel eenvoudig om documenten te delen via OneDrive for Business. Volg deze stappen en u hebt in enkele minuten een bestand gedeeld:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;U moet links naast de naam van u document klikken om het document te selecteren dat u wilt delen.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Daarna klikt u vanboven op delen.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Nu ziet u een menu met verschillende opties voor het delen. U kan hier ook de persoon/personen ingeven waarmee u het bestand wilt delen.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-welke-bestandstypes-kan-u-uploaden-op-onedrive-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Welke bestandstypes kan u uploaden op OneDrive?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Er zijn twee opties die u kan kiezen voor het uploaden van bestanden in OneDrive online. U kan een nieuw Office document aanmaken zoals Excel, Word, PowerPoint, … Maar u heeft ook een upload mogelijkheid voor alle verschillende bestanden op uw computer, bijvoorbeeld: muziek, films, … . Per account kan je een maximum van 10 GiB uploaden.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-hoe-verandert-u-de-extensie-van-een-bestand-in-office-365-b:94da97e35f0866bcc98deac159f3211e&#34;&gt;&lt;b&gt;Hoe verandert u de extensie van een bestand in Office 365?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;In Office hebt u de mogelijkheid om meerdere extensies te gebruiken dan enkel de standaard extensies van Office. Zo kan u bijvoorbeeld heel eenvoudige een Word document veranderen in een PDF document door enkele eenvoudige stappen:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Klik in de linkerbovenhoek op &amp;ldquo;Bestand&amp;rdquo; en vervolgens op &amp;ldquo;Opslaan als&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Nu kiest u de plaats waar u het bestand wilt opslaan op uw computer.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Onder de kader waar u de opslagplaats van het bestand kan kiezen ziet u een kadertje waar u de extensie van het bestand kan bepalen door gewoonweg erop te klikken.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
-&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/post/GIP%20TAAK%2004/&#34;&gt;FAQ FR&lt;/a&gt;
-&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/FAQ/FAQ%20Nederlands/&#34;&gt;FAQ NE&lt;/a&gt;
-&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Frans</title>
-      <link>http://vincent-boden.github.io/page/frans/FR/</link>
-      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/frans/FR/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;frans:da25d6b755363f2b45fca738fe36faf8&#34;&gt;Frans&lt;/h1&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;le-faq:da25d6b755363f2b45fca738fe36faf8&#34;&gt;Le FAQ&lt;/h3&gt;
-
-&lt;p&gt;Quand vouz cliquez &lt;a href=&#34;../Faq&#34;&gt;ici&lt;/a&gt; vous voyez la FAQ de OneDrive en français.&lt;/p&gt;
-
-&lt;h3 id=&#34;reportage-photo:da25d6b755363f2b45fca738fe36faf8&#34;&gt;Reportage photo&lt;/h3&gt;
-
-&lt;p&gt;Quand vouz cliquez &lt;a href=&#34;../reportagephoto&#34;&gt;ici&lt;/a&gt; vous voyez un reportage photo concernant le stage.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Frans</title>
-      <link>http://vincent-boden.github.io/page/frans/Faq/</link>
-      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/frans/Faq/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;la-foire-aux-questions:1c0724a5e842eb1cc07da74d81bad360&#34;&gt;&lt;strong&gt;LA FOIRE AUX QUESTIONS&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-il-y-a-des-différences-entre-office-online-et-office-offline-b:1c0724a5e842eb1cc07da74d81bad360&#34;&gt;&lt;b&gt;Il y a des différences entre Office online et Office offline?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Oui, il y a des &lt;strong&gt;différences&lt;/strong&gt;. Ainsi, il y a &lt;strong&gt;moins d’options&lt;/strong&gt; pour la mise en page. Mais pas de souci, Office online a aussi beaucoup de bonnes options.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-où-peut-on-utiliser-onedrive-b:1c0724a5e842eb1cc07da74d81bad360&#34;&gt;&lt;b&gt;Où peut-on utiliser OneDrive?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;OneDrive est une application &lt;strong&gt;multiplateforme&lt;/strong&gt;. Vous pouvez l’utiliser partout. Il y a des applications pour iOS, Mac, Android, Windows. Vous pouvez y &lt;strong&gt;gérer&lt;/strong&gt; tous vos fichiers et plus.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-comment-partager-des-fichiers-avec-onedrive-for-business-b:1c0724a5e842eb1cc07da74d81bad360&#34;&gt;&lt;b&gt;Comment partager des fichiers avec OneDrive for Business?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;OneDrive a un &lt;strong&gt;avantage&lt;/strong&gt; pour partager des documents. C&amp;rsquo;est facile à utiliser. Suivez ces étapes:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Vous devez cliquer à gauche du nom de votre fichier pour &lt;strong&gt;sélectionner&lt;/strong&gt; le fichier que vous voulez partager.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Après vous cliquez en haut pour &lt;strong&gt;partager&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Maintenant vous voyez &lt;strong&gt;un menu&lt;/strong&gt; avec les options que vous pouvez choisir.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-quels-types-de-documents-peut-on-télécharger-b:1c0724a5e842eb1cc07da74d81bad360&#34;&gt;&lt;b&gt;Quels types de documents peut-on télécharger?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Il y a 2 options pour &lt;strong&gt;téléverser&lt;/strong&gt; des documents en OneDrive online. Vous pouvez créer de nouveaux documents d&amp;rsquo;Office comme PowerPoint, Word, Excel, … mais il y a aussi une option pour téléverser des documents de &lt;strong&gt;tous types&lt;/strong&gt; de votre ordinateur avec un maximum de 10 GiB.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-une-connexion-internet-est-elle-requise-pour-office-365-b:1c0724a5e842eb1cc07da74d81bad360&#34;&gt;&lt;b&gt;Une connexion Internet est-elle requise pour Office 365 ?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Non, pour utiliser Office, une connexion Internet &lt;strong&gt;n&amp;rsquo;est pas nécessaire&lt;/strong&gt;. Néanmoins, l&amp;rsquo;installation exige une connexion. Une connexion offre aussi &lt;strong&gt;plus de fonctions&lt;/strong&gt; que l’utilisation sans connexion:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Services cloud (Synchronisation avec OneDrive et Office online)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;E-mail&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;IT Management&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Donc, quand vous exécutez des changements lorsque vous êtes déconnecté une synchronisation aura lieu quand vous allez &lt;strong&gt;en ligne&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-comment-peut-on-changer-une-extension-office-365-b:1c0724a5e842eb1cc07da74d81bad360&#34;&gt;&lt;b&gt;Comment peut-on changer une extension Office 365 ?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;En Office vous pouvez utiliser &lt;strong&gt;plus que les extensions standard&lt;/strong&gt; seulement. Si vous voulez adapter l&amp;rsquo;extension en PDF dans Word par exemple, c&amp;rsquo;est simple par quelques clics. Procédez comme suit:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Cliquez sur &amp;ldquo;&lt;em&gt;fichier&lt;/em&gt;&amp;rdquo; au coin supérieur gauche de votre document et après &amp;ldquo;&lt;em&gt;enregistrer sous&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Maintenant vous choisissez &lt;strong&gt;la place d’enregistrement&lt;/strong&gt; de votre document.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sous le cadre &amp;ldquo;&lt;em&gt;enregistrer&lt;/em&gt;&amp;rdquo; vous voyez le cadre où vous pouvez changer l&amp;rsquo;extension.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;b-qu-est-ce-que-le-cloud-b:1c0724a5e842eb1cc07da74d81bad360&#34;&gt;&lt;b&gt;Qu&amp;rsquo;est-ce que le cloud?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Le cloud est une désignation pour les services basés sur le web. Le cloud est utilisé par &lt;strong&gt;plusieurs applications&lt;/strong&gt;. OneDrive est une partie du cloud Office. Dans le cloud, vous pouvez &lt;strong&gt;stocker&lt;/strong&gt; des documents, synchroniser avec OneDrive, téléphoner avec Lync etcétéra. Le cloud n&amp;rsquo;a pas d’interface mais OneDrive apporte certaines fonctions.&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&#34;b-comment-pouvez-vous-protéger-votre-document-b:1c0724a5e842eb1cc07da74d81bad360&#34;&gt;&lt;b&gt;Comment pouvez-vous protéger votre document?&lt;/b&gt;&lt;/h4&gt;
-
-&lt;p&gt;Quand vous avez un document secret ou quand personne ne peut adapter votre document, vous pouvez &lt;strong&gt;protéger&lt;/strong&gt; votre document:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Cliquez sur &amp;ldquo;&lt;em&gt;fichier&lt;/em&gt;&amp;rdquo; au coin supérieur gauche de votre document. Vous voyez un cadre avec le titre &amp;ldquo;&lt;em&gt;Protéger le document&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Comme vous cliquez sur ce cadre vous voyez un menu avec les différentes options pour &lt;strong&gt;protéger votre document&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
-&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/post/GIP%20TAAK%2004/&#34;&gt;FAQ FR&lt;/a&gt;
-&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/FAQ/FAQ%20Nederlands/&#34;&gt;FAQ NE&lt;/a&gt;
-&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IT-TAPA</title>
-      <link>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Sessie/</link>
-      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Sessie/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;taak-01-it-tapa-sessie:531d21b1503c58ff63cb63efb43cb8df&#34;&gt;&lt;strong&gt;TAAK 01: IT-TAPA SESSIE&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;De &lt;b&gt;IT-TAPA middagsessies&lt;/b&gt; waren heel goed verlopen. We hebben alles vlot kunnen uitleggen met af en toe een pauze ertussen om de leerkrachten te kunnen laten volgen en om hen de kans te geven om vragen te stellen. Ik vond het zelf heel leuk om te doen omdat we ook veel over het onderwerp &lt;a href=&#34;http://www.onedrive.live.com/&#34;&gt;OneDrive voor bedrijven&lt;/a&gt; en &lt;a href=&#34;https://products.office.com/nl-be/business/office&#34;&gt;Office 365&lt;/a&gt; weten. Het deed me daarbij ook plezier om andere er iets over bij te kunnen leren.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.onedrive.live.com/&#34;&gt;OneDrive voor bedrijven&lt;/a&gt; is een &lt;b&gt;cloudopslag&lt;/b&gt; waar u al uw bestanden kan opslaan. Het is speciaal ontworpen om eenvoudig in gebruik te nemen in uw bedrijf. De online toepassingen vergemakkelijken het aanpassen van de bestanden. Zo kan u offline maar ook online uw documenten bewerken. Ook zoals bij OneDrive hebt u de mogelijkheid om uw bestanden te delen en er tezamen aan te werken. &lt;a href=&#34;https://products.office.com/nl-be/business/office&#34;&gt;Office 365&lt;/a&gt; omvat al de verschillende &lt;b&gt;toepassingen van Microsoft Office&lt;/b&gt;. Enkele voorbeelden: OneDrive, Word, Excel, Lync, Publisher, &amp;hellip;.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;De IT-TAPA middagsessie over OneDrive voor bedrijven en Office 365 is medemogelijk gemaakt door &lt;a href=&#34;http://jensvl-immalle.github.io/&#34;&gt;Jens Van Loon&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=75%   src=&#34;https://scontent-fra3-1.xx.fbcdn.net/hphotos-xat1/t31.0-8/12244273_931268693576811_5501266098225052475_o.jpg&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;http://vincent-boden.github.io/page/ittapa/IT-Tapa-Nederlands/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-forward&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
