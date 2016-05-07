@@ -108,12 +108,12 @@
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/page/stage/ST/</loc>
+    <loc>http://vincent-boden.github.io/page/stage/StageDAG01/</loc>
     <lastmod>2016-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/page/stage/StageDAG01/</loc>
+    <loc>http://vincent-boden.github.io/page/stage/ST/</loc>
     <lastmod>2016-01-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,11 +143,6 @@
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/page/frans/FR/</loc>
-    <lastmod>2015-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://vincent-boden.github.io/page/ittapa/IT-Tapa-Engels/</loc>
     <lastmod>2015-12-07T00:00:00+00:00</lastmod>
   </url>
@@ -159,6 +154,11 @@
   
   <url>
     <loc>http://vincent-boden.github.io/page/software/SO/</loc>
+    <lastmod>2015-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vincent-boden.github.io/page/frans/FR/</loc>
     <lastmod>2015-12-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,12 +193,12 @@
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/page/software/VergelijkingWorkflows/</loc>
+    <loc>http://vincent-boden.github.io/page/software/DirectoryStructuur/</loc>
     <lastmod>2015-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/page/software/DirectoryStructuur/</loc>
+    <loc>http://vincent-boden.github.io/page/software/VergelijkingWorkflows/</loc>
     <lastmod>2015-11-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,12 +208,12 @@
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/page/engels/EN/</loc>
+    <loc>http://vincent-boden.github.io/page/FAQ/faq/</loc>
     <lastmod>2015-01-01T17:14:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://vincent-boden.github.io/page/FAQ/faq/</loc>
+    <loc>http://vincent-boden.github.io/page/engels/EN/</loc>
     <lastmod>2015-01-01T17:14:11+02:00</lastmod>
   </url>
   

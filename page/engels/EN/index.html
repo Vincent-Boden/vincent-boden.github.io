@@ -11,9 +11,80 @@
   
     footer.page-footer{background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALcAAAETCAMAAABDSmfhAAAAA1BMVEUAAACnej3aAAAASElEQVR4nO3BgQAAAADDoPlT3+AEVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8A8WoAAHxScUAAAAAAElFTkSuQmCC);}
   
+
+  ul {
+    z-index: 0;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    position: fixed;
+    display: inline-block;
+    width: 100%;
+  }
+  li {
+    margin:0;
+    padding:0;
+    width:12.50%;
+    float:left;
+  }
+  li a {
+    display:block;
+    min-width: 100px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    background: black;
+    text-decoration: none;
+  }
+  li:hover a {
+    background: white;
+    color: black;
+    font-weight: bold;
+  }
+  li:hover ul a {
+    background: #f3f3f3;
+    color: black;
+    height: 40px;
+    line-height: 40px;
+  }
+  .navigatiemenu {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: #fff;
+    background: black;
+    text-align: center;
+    height: 40px;
+    padding-top: 20px;
+    border-bottom: 5px solid gray;
+    display: none;
+    cursor:pointer;
+  }
+  @media screen and (min-width : 1000px){
+      ul {
+        display: inline;
+        z-index: 10;
+      }
+  }
+  @media screen and (max-width : 1000px){
+      ul {
+        display: none;
+        z-index: -10;
+      }
+  }
   </style>
 </head>
 <body>
+<ul id="menu">
+  <li><a href="http://vincent-boden.github.io/">Home</a></li>
+  <li><a href="http://vincent-boden.github.io//page/software/SO">Software</a></li>
+  <li><a href="http://vincent-boden.github.io//page/systeembeheer/SB">Systeem</a></li>
+  <li><a href="http://vincent-boden.github.io//page/ittapa/IT">IT-TAPA</a></li>
+  <li><a href="http://vincent-boden.github.io//page/engels/EN">Engels</a></li>
+  <li><a href="http://vincent-boden.github.io//page/frans/FR">Frans</a></li>
+  <li><a href="http://vincent-boden.github.io//page/stage/ST">Stage</a></li>
+  <li><a href="http://vincent-boden.github.io//page/FAQ/faq">FAQ</a></li>
+</ul>
   <nav id="slide-out" class="side-nav">
     <a href="http://vincent-boden.github.io/"><i class="mdi-action-home left"></i>Home<i class="mdi-hardware-keyboard-arrow-right right"></i></a>
     <div class="link-navmenu">
