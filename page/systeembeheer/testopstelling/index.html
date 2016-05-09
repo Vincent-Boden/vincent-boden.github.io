@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-  <title>DATABASE - CHATROOM</title>
+  <title>Systeembeheer</title>
   <link href="http://vincent-boden.github.io//css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="http://vincent-boden.github.io//css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/default.min.css">
@@ -133,16 +133,52 @@
 
 <p><div style="text-align: center"></p>
 
-<h3 id="taak-08-database-chatroom:387d4aa165c1b5a8fbe50c94a5b85579"><strong>TAAK 08: Database Chatroom</strong></h3>
+<h3 id="raspberry-pi-nfc-module-project:c36ee4a195c72d275a44931f82064b64"><strong>Raspberry Pi - NFC module Project</strong></h3>
 
-<p><img style="width: 75%;" src="../../images/taak08.jpg" /></p>
+<h5 id="a-href-https-gitlab-com-vincent-boden-rpi-yorick-vincent-git-gitlab-repository-a:c36ee4a195c72d275a44931f82064b64"><strong><a href="https://gitlab.com/vincent-boden/RPI-Yorick-Vincent.git">GitLab repository</a></strong></h5>
 
-<p>Als u  <a href="../../images/taak8.sql" download>hier</a> klikt kan u de sql code downloaden die bij het diagramma van hierboven hoort.</p>
+<p></div><br></p>
 
-<p></div>
-<br></p>
+<h5 id="verloop-van-het-project:c36ee4a195c72d275a44931f82064b64"><strong>Verloop van het project</strong></h5>
+
+<p>Wij, Vincent en Yorick, zijn thuis in onze vrijetijd aan het experimenteren met de Raspberry Pi, dus we wilde hiermee iets doen. Deze opdracht was hier een uitstekend moment voor.</p>
+
+<p>Meneer Cauwenberg stelde het NFC-project voor waarmee leerkrachten met hun badge of smartphone een deur kunnen opendoen.</p>
+
+<p>1) Eerst zijn we op zoek gegaan naar modules om nfc-tags te lezen en naar een slot, gemaakt voor Raspberry Pi. Dit hebben we dan gevonden. We kregen de toestemming van de school om deze NFC-module aan te kopen.</p>
+
+<p>2) Vervolgens gingen we opzoek naar libraries om de NFC-tags te lezen. We vonden de nxppy-library voor python. Hiermee kan je nfc-tags lezen en afprinten op de terminal</p>
+
+<p>3) Daarna hebben we er een database aangekoppelt waardoor we er een whitelist is. Heeft de gebruiker toegang, dan verschijnt er &ldquo;De deur gaat open&rdquo;. Heeft de gebruiker geen toegang, dan verschijnt er &ldquo;De deur blijft gesloten.&rdquo;</p>
+
+<p>4) Tenslotte hebben we gebruik gemaakt van de gpio-pins om een lampje te laten branden als men toegang heeft. Dit wordt later vervangen door het slot.</p>
+
+<h5 id="todo-problemen:c36ee4a195c72d275a44931f82064b64"><strong>TODO + problemen</strong></h5>
+
+<p>Sommige smartphones hebben een statisch nfc-uid en andere hebben steeds een verschillend uid die random gegenereerd wordt. Iphone&rsquo;s hebben geen nfc. -&gt; Dit leid tot het probleem dat we niet alle smartphones kunnen gebruiken.</p>
+
+<p>Als het slot is besteld, moeten we dit nog aansluiten en testen.</p>
+
+<h5 id="instructie-filmpje:c36ee4a195c72d275a44931f82064b64"><strong>Instructie filmpje</strong></h5>
+
+<p>Hieronder ziet u een instructie filmpje waarin de hardware matige werking van de Raspberry Pi met de NFC module en de NFC apparaten in zijn werking gaat.</p>
+
+<p><div style="text-align: center">
+    <iframe style="width: 75%; height: 500px;" src="https://www.youtube.com/embed/BQMOd7XQyXY" frameborder="0" allowfullscreen></iframe>
+    <br>
+    <a class="btn-floating btn-large waves-effect waves-light" href="../SB"><i class="mdi-navigation-arrow-back"></i></a>
+</div><br></p>
+
+<p><style>
+@media screen and (max-width : 750px){
+    iframe {
+        width: 100%;
+        height: 150px;
+    }
+}
+</style></p>
 </p>
-          <div style="text-align: center">18 Apr 2016</div>
+          <div style="text-align: center">9 May 2016</div>
           
         </div>
       </div>

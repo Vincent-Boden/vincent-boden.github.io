@@ -7,8 +7,305 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GIP-site 2015 - 2016</copyright>
-    <lastBuildDate>Mon, 25 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://vincent-boden.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IT-PROFILE</title>
+      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2018/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2018/</guid>
+      <description>&lt;p&gt;&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+  &lt;title&gt;Bootstrap Example&lt;/title&gt;
+  &lt;meta charset=&#34;utf-8&#34;&gt;
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&#34;&gt;
+  &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+  &lt;script src=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+  &lt;style&gt;
+    .a {
+        font-size: 4em;
+        font-weight: bold;
+        text-align: center;
+    }
+    .b {
+        width: 100%;
+    }
+    .container {
+        width: 90%;
+    }
+    .progress-bar {
+        background-color: red;
+    }
+    @media screen and (max-width : 750px){
+        .container {
+            width: 100%;
+        }
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/p&gt;
+
+&lt;div class=&#34;container&#34;&gt;
+  &lt;h1 class=&#34;a&#34;&gt;IT-profile - start 6e jaar tot nu&lt;/h1&gt;
+  
+  &lt;br&gt;
+  
+  &lt;h2&gt;C#:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+      &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+  
+  &lt;br&gt;
+  
+  &lt;h2&gt;XAML:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+   &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+  
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+  
+  &lt;br&gt;
+  
+  &lt;h2&gt;HTML:&lt;/h2&gt;
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+      
+  &lt;br&gt;
+      
+  &lt;h2&gt;CSS:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+      
+  &lt;br&gt;
+  
+  &lt;h2&gt;PHP:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+    
+  &lt;br&gt;
+      
+  &lt;h2&gt;Javascript:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+  
+  &lt;br&gt;
+  
+  &lt;h2&gt;JQuery:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+  
+  &lt;br&gt;
+  
+  &lt;h2&gt;SQL:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systeembeheer</title>
+      <link>http://vincent-boden.github.io/page/systeembeheer/testopstelling/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/systeembeheer/testopstelling/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;raspberry-pi-nfc-module-project:c36ee4a195c72d275a44931f82064b64&#34;&gt;&lt;strong&gt;Raspberry Pi - NFC module Project&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h5 id=&#34;a-href-https-gitlab-com-vincent-boden-rpi-yorick-vincent-git-gitlab-repository-a:c36ee4a195c72d275a44931f82064b64&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://gitlab.com/vincent-boden/RPI-Yorick-Vincent.git&#34;&gt;GitLab repository&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;verloop-van-het-project:c36ee4a195c72d275a44931f82064b64&#34;&gt;&lt;strong&gt;Verloop van het project&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Wij, Vincent en Yorick, zijn thuis in onze vrijetijd aan het experimenteren met de Raspberry Pi, dus we wilde hiermee iets doen. Deze opdracht was hier een uitstekend moment voor.&lt;/p&gt;
+
+&lt;p&gt;Meneer Cauwenberg stelde het NFC-project voor waarmee leerkrachten met hun badge of smartphone een deur kunnen opendoen.&lt;/p&gt;
+
+&lt;p&gt;1) Eerst zijn we op zoek gegaan naar modules om nfc-tags te lezen en naar een slot, gemaakt voor Raspberry Pi. Dit hebben we dan gevonden. We kregen de toestemming van de school om deze NFC-module aan te kopen.&lt;/p&gt;
+
+&lt;p&gt;2) Vervolgens gingen we opzoek naar libraries om de NFC-tags te lezen. We vonden de nxppy-library voor python. Hiermee kan je nfc-tags lezen en afprinten op de terminal&lt;/p&gt;
+
+&lt;p&gt;3) Daarna hebben we er een database aangekoppelt waardoor we er een whitelist is. Heeft de gebruiker toegang, dan verschijnt er &amp;ldquo;De deur gaat open&amp;rdquo;. Heeft de gebruiker geen toegang, dan verschijnt er &amp;ldquo;De deur blijft gesloten.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;4) Tenslotte hebben we gebruik gemaakt van de gpio-pins om een lampje te laten branden als men toegang heeft. Dit wordt later vervangen door het slot.&lt;/p&gt;
+
+&lt;h5 id=&#34;todo-problemen:c36ee4a195c72d275a44931f82064b64&#34;&gt;&lt;strong&gt;TODO + problemen&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Sommige smartphones hebben een statisch nfc-uid en andere hebben steeds een verschillend uid die random gegenereerd wordt. Iphone&amp;rsquo;s hebben geen nfc. -&amp;gt; Dit leid tot het probleem dat we niet alle smartphones kunnen gebruiken.&lt;/p&gt;
+
+&lt;p&gt;Als het slot is besteld, moeten we dit nog aansluiten en testen.&lt;/p&gt;
+
+&lt;h5 id=&#34;instructie-filmpje:c36ee4a195c72d275a44931f82064b64&#34;&gt;&lt;strong&gt;Instructie filmpje&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Hieronder ziet u een instructie filmpje waarin de hardware matige werking van de Raspberry Pi met de NFC module en de NFC apparaten in zijn werking gaat.&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;iframe style=&#34;width: 75%; height: 500px;&#34; src=&#34;https://www.youtube.com/embed/BQMOd7XQyXY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;br&gt;
+    &lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../SB&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;style&gt;
+@media screen and (max-width : 750px){
+    iframe {
+        width: 100%;
+        height: 150px;
+    }
+}
+&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OPSTELLING RASPBERRY PI - NFC</title>
+      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2010/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2010/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;raspberry-pi-nfc-module-project:a16a7cc00a92f96d06a70a3c941edbcb&#34;&gt;&lt;strong&gt;Raspberry Pi - NFC module Project&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h5 id=&#34;a-href-https-gitlab-com-vincent-boden-rpi-yorick-vincent-git-gitlab-repository-a:a16a7cc00a92f96d06a70a3c941edbcb&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://gitlab.com/vincent-boden/RPI-Yorick-Vincent.git&#34;&gt;GitLab repository&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;verloop-van-het-project:a16a7cc00a92f96d06a70a3c941edbcb&#34;&gt;&lt;strong&gt;Verloop van het project&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Wij, Vincent en Yorick, zijn thuis in onze vrijetijd aan het experimenteren met de Raspberry Pi, dus we wilde hiermee iets doen. Deze opdracht was hier een uitstekend moment voor.&lt;/p&gt;
+
+&lt;p&gt;Meneer Cauwenberg stelde het NFC-project voor waarmee leerkrachten met hun badge of smartphone een deur kunnen opendoen.&lt;/p&gt;
+
+&lt;p&gt;1) Eerst zijn we op zoek gegaan naar modules om nfc-tags te lezen en naar een slot, gemaakt voor Raspberry Pi. Dit hebben we dan gevonden. We kregen de toestemming van de school om deze NFC-module aan te kopen.&lt;/p&gt;
+
+&lt;p&gt;2) Vervolgens gingen we opzoek naar libraries om de NFC-tags te lezen. We vonden de nxppy-library voor python. Hiermee kan je nfc-tags lezen en afprinten op de terminal&lt;/p&gt;
+
+&lt;p&gt;3) Daarna hebben we er een database aangekoppelt waardoor we er een whitelist is. Heeft de gebruiker toegang, dan verschijnt er &amp;ldquo;De deur gaat open&amp;rdquo;. Heeft de gebruiker geen toegang, dan verschijnt er &amp;ldquo;De deur blijft gesloten.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;4) Tenslotte hebben we gebruik gemaakt van de gpio-pins om een lampje te laten branden als men toegang heeft. Dit wordt later vervangen door het slot.&lt;/p&gt;
+
+&lt;h5 id=&#34;todo-problemen:a16a7cc00a92f96d06a70a3c941edbcb&#34;&gt;&lt;strong&gt;TODO + problemen&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Sommige smartphones hebben een statisch nfc-uid en andere hebben steeds een verschillend uid die random gegenereerd wordt. Iphone&amp;rsquo;s hebben geen nfc. -&amp;gt; Dit leid tot het probleem dat we niet alle smartphones kunnen gebruiken.&lt;/p&gt;
+
+&lt;p&gt;Als het slot is besteld, moeten we dit nog aansluiten en testen.&lt;/p&gt;
+
+&lt;h5 id=&#34;instructie-filmpje:a16a7cc00a92f96d06a70a3c941edbcb&#34;&gt;&lt;strong&gt;Instructie filmpje&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Hieronder ziet u een instructie filmpje waarin de hardware matige werking van de Raspberry Pi met de NFC module en de NFC apparaten in zijn werking gaat.&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;iframe style=&#34;width: 75%; height: 500px;&#34; src=&#34;https://www.youtube.com/embed/BQMOd7XQyXY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Engels</title>
@@ -208,6 +505,8 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 
 &lt;p&gt;&lt;img style=&#34;width: 75%;&#34; src=&#34;../../../images/taak08.jpg&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;Als u  &lt;a href=&#34;../../../images/taak8.sql&#34; download&gt;hier&lt;/a&gt; klikt kan u de sql code downloaden die bij het diagramma van hierboven hoort.&lt;/p&gt;
+
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../SO&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
@@ -252,32 +551,19 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 
 &lt;p&gt;Ik maak gebruik van HTML, CSS, Javascript en de Javascript library Jquery.&lt;/p&gt;
 
-&lt;h4 id=&#34;best-code-practicing:433f73dde1d33376527aef6600aebb3f&#34;&gt;Best code practicing &amp;hellip;&lt;/h4&gt;
+&lt;h4 id=&#34;best-coding-practices:433f73dde1d33376527aef6600aebb3f&#34;&gt;Best Coding Practices&lt;/h4&gt;
+
+&lt;p&gt;1)   Het gebruiken van commentaar (niet te veel / niet te weinig)&lt;/p&gt;
+
+&lt;p&gt;2)   Het kiezen van goede namen voor variabele&lt;/p&gt;
+
+&lt;p&gt;3)   Functie namen goed kiezen zodat je meteen weet wat de functie doet&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
 &lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../SO&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DATABASE - CHATROOM</title>
-      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2008/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2008/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;taak-08-database-chatroom:387d4aa165c1b5a8fbe50c94a5b85579&#34;&gt;&lt;strong&gt;TAAK 08: Database Chatroom&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img style=&#34;width: 75%;&#34; src=&#34;../../images/taak08.jpg&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -319,9 +605,36 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 
 &lt;p&gt;Ik maak gebruik van HTML, CSS, Javascript en de Javascript library Jquery.&lt;/p&gt;
 
-&lt;h4 id=&#34;best-code-practicing:513fb80685cb26c9cf692e1d0f5d8162&#34;&gt;Best code practicing &amp;hellip;&lt;/h4&gt;
+&lt;h4 id=&#34;best-coding-practices:513fb80685cb26c9cf692e1d0f5d8162&#34;&gt;Best Coding Practices&lt;/h4&gt;
+
+&lt;p&gt;1)  Het gebruiken van commentaar (niet te veel / niet te weinig)&lt;/p&gt;
+
+&lt;p&gt;2)   Het kiezen van goede namen voor variabele&lt;/p&gt;
+
+&lt;p&gt;3)  Functie namen goed kiezen zodat je meteen weet wat de functie doet&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DATABASE - CHATROOM</title>
+      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2008/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2008/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;taak-08-database-chatroom:387d4aa165c1b5a8fbe50c94a5b85579&#34;&gt;&lt;strong&gt;TAAK 08: Database Chatroom&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 75%;&#34; src=&#34;../../images/taak08.jpg&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Als u  &lt;a href=&#34;../../images/taak8.sql&#34; download&gt;hier&lt;/a&gt; klikt kan u de sql code downloaden die bij het diagramma van hierboven hoort.&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -413,85 +726,6 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;Ik vond de stage zelf een heel leerrijke ervaring, ook de mensen waar ik mee samenwerkte waren stuk voor stuk fantastische mensen die mij graag wilde helpen en uitleg wilde geven over hoe zij werkte. Ze hebben mij zelfs vakantiewerk aangeboden voor in de grote vakantie, ik ben van plan om dit zeker te doen omdat dit een grote kans voor mij is die ik niet kan laten liggen.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Ontwikkeling</title>
-      <link>http://vincent-boden.github.io/page/stage/StageDAG09/</link>
-      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/stage/StageDAG09/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;stageverslag-dag-9:0a022042cf6067316f191f60b83ce4e4&#34;&gt;Stageverslag - dag 9&lt;/h3&gt;
-
-&lt;p&gt;&lt;img style=&#34;width: 90%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag09.png&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Op stage dag negen heeft mijn stagebegeleider mij twee grote opdrachten gegeven, namelijk leren werken met het ssh commando over heel het domein van Nv Imas en een uitgebreid script schrijven dat automatisch alles wegschreef in een log bestand door middel van functies. Het wegschrijven in een log bestand van de gebeurtenissen is iets heel belangrijk. Als er iets misloopt kan je door de logfiles te bekijken meteen zien wat er fout is gegaan en zo voorkom je lang zoeken naar iets klein wat je heel eenvoudig kunt oplossen met een log functie te schrijven.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;We wilde ook nog de software vervangen van een volgend laadkade maar er was iets misgegaan met de Smartbox van de laadkade die we gisteren hadden vervangen. Er kwam namelijk een fout aantal volt binnen waardoor de Raspberry Pi niet kon werken. Dit heeft mijn stagebegeleider opgelost terwijl ik met de scripts bezig was anders nam dit te veel tijd in beslag, zo kon ik meer met scripting bezig zijn.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Ontwikkeling</title>
-      <link>http://vincent-boden.github.io/page/stage/StageDAG08/</link>
-      <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/stage/StageDAG08/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;stageverslag-dag-8:4f8d18e2e5fb41a9188b7b70c366dc79&#34;&gt;Stageverslag - dag 8&lt;/h3&gt;
-
-&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag08.png&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ook op stage dag acht hebben we de software vervangen van een van de Smartboxes die aan de laadkades gekoppeld zijn vervangen. Hierbij was er weer iets misgegaan. Omdat de Raspberry Pi die in de Smartbox aanwezig is iets te dicht bij een andere component van de Smartbox zat zijn deze deeltjes tegen elkaar gekomen bij het insteken van de nieuwe SD-kaart met de nieuwe software en dit heeft kortsluiting veroorzaakt waardoor de Raspberry Pi stuk was en vervangen moest worden.&lt;/p&gt;
-
-&lt;p&gt;De namiddag heb ik helemaal gespendeerd aan het maken van verschillende scriptjes in opdracht van mijn stagebegeleider. Ook heb ik zelf enkele script ideeën bedacht en uitgewerkt.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Ontwikkeling</title>
-      <link>http://vincent-boden.github.io/page/stage/StageDAG07/</link>
-      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/stage/StageDAG07/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;stageverslag-dag-7:8cfbf334a90517c819ced1207300802b&#34;&gt;Stageverslag - dag 7&lt;/h3&gt;
-
-&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag07.png&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Op stage dag zeven zijn we gestart met de software van de volgende Smartbox die aan deze laadkade gekoppeld is te vervangen zoals u in de afbeelding kan zien. Bij het vervangen van deze software ging er van alles mis en hier hebben we dan vrij veel tijd ingestoken om achteraf tot de conclusie te komen dat er twee lampen in de lampen toren defect waren.&lt;/p&gt;
-
-&lt;p&gt;Daarna heb ik een soort van vergadering mogen bijwonen waar men een nieuw aangekaart idee gaat voorstellen en bespreken wanneer en hoe ze dit gaan doen zodat ik ook eens een beeld zou krijgen van hoe dat in zijn werk gaat.&lt;/p&gt;
-
-&lt;p&gt;De laatste twee uur heeft mijn stagebegeleider mij aan het werk gezet met Linux commando&amp;rsquo;s. Ik moest zelf uitzoeken en experimenteren hoe ik moest navigeren, bestanden maken, bewerken, &amp;hellip; in bash. Ook heb ik moeten uitzoeken hoe je scripts in bash kan maken, schrijven en uitvoeren voor eigen gebruik. Na enige tijd zoeken is dit allemaal wel gelukt.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 

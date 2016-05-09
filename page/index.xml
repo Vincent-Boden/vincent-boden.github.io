@@ -7,8 +7,65 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GIP-site 2015 - 2016</copyright>
-    <lastBuildDate>Mon, 25 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 May 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://vincent-boden.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Systeembeheer</title>
+      <link>http://vincent-boden.github.io/page/systeembeheer/testopstelling/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/systeembeheer/testopstelling/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;raspberry-pi-nfc-module-project:c36ee4a195c72d275a44931f82064b64&#34;&gt;&lt;strong&gt;Raspberry Pi - NFC module Project&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h5 id=&#34;a-href-https-gitlab-com-vincent-boden-rpi-yorick-vincent-git-gitlab-repository-a:c36ee4a195c72d275a44931f82064b64&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://gitlab.com/vincent-boden/RPI-Yorick-Vincent.git&#34;&gt;GitLab repository&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;verloop-van-het-project:c36ee4a195c72d275a44931f82064b64&#34;&gt;&lt;strong&gt;Verloop van het project&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Wij, Vincent en Yorick, zijn thuis in onze vrijetijd aan het experimenteren met de Raspberry Pi, dus we wilde hiermee iets doen. Deze opdracht was hier een uitstekend moment voor.&lt;/p&gt;
+
+&lt;p&gt;Meneer Cauwenberg stelde het NFC-project voor waarmee leerkrachten met hun badge of smartphone een deur kunnen opendoen.&lt;/p&gt;
+
+&lt;p&gt;1) Eerst zijn we op zoek gegaan naar modules om nfc-tags te lezen en naar een slot, gemaakt voor Raspberry Pi. Dit hebben we dan gevonden. We kregen de toestemming van de school om deze NFC-module aan te kopen.&lt;/p&gt;
+
+&lt;p&gt;2) Vervolgens gingen we opzoek naar libraries om de NFC-tags te lezen. We vonden de nxppy-library voor python. Hiermee kan je nfc-tags lezen en afprinten op de terminal&lt;/p&gt;
+
+&lt;p&gt;3) Daarna hebben we er een database aangekoppelt waardoor we er een whitelist is. Heeft de gebruiker toegang, dan verschijnt er &amp;ldquo;De deur gaat open&amp;rdquo;. Heeft de gebruiker geen toegang, dan verschijnt er &amp;ldquo;De deur blijft gesloten.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;4) Tenslotte hebben we gebruik gemaakt van de gpio-pins om een lampje te laten branden als men toegang heeft. Dit wordt later vervangen door het slot.&lt;/p&gt;
+
+&lt;h5 id=&#34;todo-problemen:c36ee4a195c72d275a44931f82064b64&#34;&gt;&lt;strong&gt;TODO + problemen&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Sommige smartphones hebben een statisch nfc-uid en andere hebben steeds een verschillend uid die random gegenereerd wordt. Iphone&amp;rsquo;s hebben geen nfc. -&amp;gt; Dit leid tot het probleem dat we niet alle smartphones kunnen gebruiken.&lt;/p&gt;
+
+&lt;p&gt;Als het slot is besteld, moeten we dit nog aansluiten en testen.&lt;/p&gt;
+
+&lt;h5 id=&#34;instructie-filmpje:c36ee4a195c72d275a44931f82064b64&#34;&gt;&lt;strong&gt;Instructie filmpje&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Hieronder ziet u een instructie filmpje waarin de hardware matige werking van de Raspberry Pi met de NFC module en de NFC apparaten in zijn werking gaat.&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;iframe style=&#34;width: 75%; height: 500px;&#34; src=&#34;https://www.youtube.com/embed/BQMOd7XQyXY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;br&gt;
+    &lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../SB&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;style&gt;
+@media screen and (max-width : 750px){
+    iframe {
+        width: 100%;
+        height: 150px;
+    }
+}
+&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Engels</title>
@@ -120,6 +177,8 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 
 &lt;p&gt;&lt;img style=&#34;width: 75%;&#34; src=&#34;../../../images/taak08.jpg&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;Als u  &lt;a href=&#34;../../../images/taak8.sql&#34; download&gt;hier&lt;/a&gt; klikt kan u de sql code downloaden die bij het diagramma van hierboven hoort.&lt;/p&gt;
+
 &lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../SO&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
@@ -164,7 +223,13 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 
 &lt;p&gt;Ik maak gebruik van HTML, CSS, Javascript en de Javascript library Jquery.&lt;/p&gt;
 
-&lt;h4 id=&#34;best-code-practicing:433f73dde1d33376527aef6600aebb3f&#34;&gt;Best code practicing &amp;hellip;&lt;/h4&gt;
+&lt;h4 id=&#34;best-coding-practices:433f73dde1d33376527aef6600aebb3f&#34;&gt;Best Coding Practices&lt;/h4&gt;
+
+&lt;p&gt;1)   Het gebruiken van commentaar (niet te veel / niet te weinig)&lt;/p&gt;
+
+&lt;p&gt;2)   Het kiezen van goede namen voor variabele&lt;/p&gt;
+
+&lt;p&gt;3)   Functie namen goed kiezen zodat je meteen weet wat de functie doet&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -449,37 +514,6 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;We hebben ook even een kijkje genomen in een van de twee server lokalen zoals u ziet op de afbeelding, hier heeft men wat extra uitleg bij gegeven.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Ontwikkeling</title>
-      <link>http://vincent-boden.github.io/page/stage/StageDAG01/</link>
-      <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/stage/StageDAG01/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;stageverslag-dag-1:2cef3ff2075d3c4e048ac9e61fc64e7b&#34;&gt;Stageverslag - dag 1&lt;/h3&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&#34;height: 50%; width: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag01.png&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Vandaag heb ik bij de aankomst op het stagebedrijf een rondleiding gekregen door het bedrijf en door de fabriek. Daarna zijn we meteen begonnen met het installeren van OS&amp;rsquo;s op enkele computers. In de namiddag heeft men uitleg gegeven over hoe het netwerk in elkaar zit en de redenen waarom ze grotendeels Linux Ubuntu gebruiken in plaats van Windows. Men heeft ook uitleg gegeven over de werking van enkele hardware matige apparaten. Tussen deze opdrachten en uitleg door werden we soms opgebeld om iets IT-gerelateerd op te gaan lossen, hier mocht ik met mee gaan om te zien hoe de trouble shooting werkte en hoe de problemen werden opgelost.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Ik vond de allereerste dag een zeer leerrijke dag. Ik heb veel geleerd over hoe het nu in het echt eraan toe gaat in verband met een netwerk in een heel groot bedrijf. We hebben deze onderwerpen ook wel gezien in de klas maar vanuit het standpunt van een groot bedrijf zie je uiteindelijk veel meer en ook het feit dat men hier een Linux netwerk heeft geeft je een heel andere kijk t.o.v. een Windows netwerk.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 

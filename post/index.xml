@@ -7,8 +7,248 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GIP-site 2015 - 2016</copyright>
-    <lastBuildDate>Mon, 25 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://vincent-boden.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IT-PROFILE</title>
+      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2018/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2018/</guid>
+      <description>&lt;p&gt;&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+  &lt;title&gt;Bootstrap Example&lt;/title&gt;
+  &lt;meta charset=&#34;utf-8&#34;&gt;
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&#34;&gt;
+  &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+  &lt;script src=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+  &lt;style&gt;
+    .a {
+        font-size: 4em;
+        font-weight: bold;
+        text-align: center;
+    }
+    .b {
+        width: 100%;
+    }
+    .container {
+        width: 90%;
+    }
+    .progress-bar {
+        background-color: red;
+    }
+    @media screen and (max-width : 750px){
+        .container {
+            width: 100%;
+        }
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/p&gt;
+
+&lt;div class=&#34;container&#34;&gt;
+  &lt;h1 class=&#34;a&#34;&gt;IT-profile - start 6e jaar tot nu&lt;/h1&gt;
+  
+  &lt;br&gt;
+  
+  &lt;h2&gt;C#:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+      &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+  
+  &lt;br&gt;
+  
+  &lt;h2&gt;XAML:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+   &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+  
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+  
+  &lt;br&gt;
+  
+  &lt;h2&gt;HTML:&lt;/h2&gt;
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+      
+  &lt;br&gt;
+      
+  &lt;h2&gt;CSS:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+      
+  &lt;br&gt;
+  
+  &lt;h2&gt;PHP:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+    
+  &lt;br&gt;
+      
+  &lt;h2&gt;Javascript:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+  
+  &lt;br&gt;
+  
+  &lt;h2&gt;JQuery:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+  
+  &lt;br&gt;
+  
+  &lt;h2&gt;SQL:&lt;/h2&gt; 
+  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+  &lt;div class=&#34;progress&#34;&gt;
+    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
+    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OPSTELLING RASPBERRY PI - NFC</title>
+      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2010/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2010/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;raspberry-pi-nfc-module-project:a16a7cc00a92f96d06a70a3c941edbcb&#34;&gt;&lt;strong&gt;Raspberry Pi - NFC module Project&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h5 id=&#34;a-href-https-gitlab-com-vincent-boden-rpi-yorick-vincent-git-gitlab-repository-a:a16a7cc00a92f96d06a70a3c941edbcb&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://gitlab.com/vincent-boden/RPI-Yorick-Vincent.git&#34;&gt;GitLab repository&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;verloop-van-het-project:a16a7cc00a92f96d06a70a3c941edbcb&#34;&gt;&lt;strong&gt;Verloop van het project&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Wij, Vincent en Yorick, zijn thuis in onze vrijetijd aan het experimenteren met de Raspberry Pi, dus we wilde hiermee iets doen. Deze opdracht was hier een uitstekend moment voor.&lt;/p&gt;
+
+&lt;p&gt;Meneer Cauwenberg stelde het NFC-project voor waarmee leerkrachten met hun badge of smartphone een deur kunnen opendoen.&lt;/p&gt;
+
+&lt;p&gt;1) Eerst zijn we op zoek gegaan naar modules om nfc-tags te lezen en naar een slot, gemaakt voor Raspberry Pi. Dit hebben we dan gevonden. We kregen de toestemming van de school om deze NFC-module aan te kopen.&lt;/p&gt;
+
+&lt;p&gt;2) Vervolgens gingen we opzoek naar libraries om de NFC-tags te lezen. We vonden de nxppy-library voor python. Hiermee kan je nfc-tags lezen en afprinten op de terminal&lt;/p&gt;
+
+&lt;p&gt;3) Daarna hebben we er een database aangekoppelt waardoor we er een whitelist is. Heeft de gebruiker toegang, dan verschijnt er &amp;ldquo;De deur gaat open&amp;rdquo;. Heeft de gebruiker geen toegang, dan verschijnt er &amp;ldquo;De deur blijft gesloten.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;4) Tenslotte hebben we gebruik gemaakt van de gpio-pins om een lampje te laten branden als men toegang heeft. Dit wordt later vervangen door het slot.&lt;/p&gt;
+
+&lt;h5 id=&#34;todo-problemen:a16a7cc00a92f96d06a70a3c941edbcb&#34;&gt;&lt;strong&gt;TODO + problemen&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Sommige smartphones hebben een statisch nfc-uid en andere hebben steeds een verschillend uid die random gegenereerd wordt. Iphone&amp;rsquo;s hebben geen nfc. -&amp;gt; Dit leid tot het probleem dat we niet alle smartphones kunnen gebruiken.&lt;/p&gt;
+
+&lt;p&gt;Als het slot is besteld, moeten we dit nog aansluiten en testen.&lt;/p&gt;
+
+&lt;h5 id=&#34;instructie-filmpje:a16a7cc00a92f96d06a70a3c941edbcb&#34;&gt;&lt;strong&gt;Instructie filmpje&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Hieronder ziet u een instructie filmpje waarin de hardware matige werking van de Raspberry Pi met de NFC module en de NFC apparaten in zijn werking gaat.&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;iframe style=&#34;width: 75%; height: 500px;&#34; src=&#34;https://www.youtube.com/embed/BQMOd7XQyXY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CASE-STUDY STAGEBEDRIJF</title>
@@ -112,6 +352,8 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 
 &lt;p&gt;&lt;img style=&#34;width: 75%;&#34; src=&#34;../../images/taak08.jpg&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;Als u  &lt;a href=&#34;../../images/taak8.sql&#34; download&gt;hier&lt;/a&gt; klikt kan u de sql code downloaden die bij het diagramma van hierboven hoort.&lt;/p&gt;
+
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
 </description>
@@ -155,7 +397,13 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 
 &lt;p&gt;Ik maak gebruik van HTML, CSS, Javascript en de Javascript library Jquery.&lt;/p&gt;
 
-&lt;h4 id=&#34;best-code-practicing:513fb80685cb26c9cf692e1d0f5d8162&#34;&gt;Best code practicing &amp;hellip;&lt;/h4&gt;
+&lt;h4 id=&#34;best-coding-practices:513fb80685cb26c9cf692e1d0f5d8162&#34;&gt;Best Coding Practices&lt;/h4&gt;
+
+&lt;p&gt;1)  Het gebruiken van commentaar (niet te veel / niet te weinig)&lt;/p&gt;
+
+&lt;p&gt;2)   Het kiezen van goede namen voor variabele&lt;/p&gt;
+
+&lt;p&gt;3)  Functie namen goed kiezen zodat je meteen weet wat de functie doet&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 </description>
@@ -445,15 +693,6 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;style&gt;
-@media screen and (max-width : 750px){
-    iframe {
-        width: 100%;
-        height: auto;
-    }
-}
-&lt;/style&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -506,15 +745,6 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 
 &lt;p&gt;&lt;/div&gt;
 &lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;style&gt;
-@media screen and (max-width : 750px){
-    iframe {
-        width: 100%;
-        height: auto;
-    }
-}
-&lt;/style&gt;&lt;/p&gt;
 </description>
     </item>
     
