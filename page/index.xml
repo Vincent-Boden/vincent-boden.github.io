@@ -334,7 +334,13 @@ function slide() {
 
 &lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
     &lt;iframe style=&#34;width: 75%; height: 500px;&#34; src=&#34;https://www.youtube.com/embed/BQMOd7XQyXY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-    &lt;br&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;teamwork:c36ee4a195c72d275a44931f82064b64&#34;&gt;&lt;strong&gt;Teamwork&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Aan dit project werkt ik samen met &lt;a href=&#34;http://disite.be/yorick.scheyltjens/index.php?id=nfc&#34;&gt;Yorick Scheyltjens&lt;/a&gt;. Ik ken hem al ruim 6 jaar en ik kan ontzettend goed met hem samen werken. Daarom werk ik met hem aan dit project. We hebben beide idëen en vullen elkaar zo aan.&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
     &lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../SB&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;br&gt;&lt;/p&gt;
 
