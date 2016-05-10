@@ -7,8 +7,290 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GIP-site 2015 - 2016</copyright>
-    <lastBuildDate>Mon, 09 May 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://vincent-boden.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Software Ontwikkeling</title>
+      <link>http://vincent-boden.github.io/page/software/itprofile/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/software/itprofile/</guid>
+      <description>&lt;p&gt;&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+  &lt;title&gt;Bootstrap Example&lt;/title&gt;
+  &lt;meta charset=&#34;utf-8&#34;&gt;
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&#34;&gt;
+  &lt;style&gt;
+    h1 {
+        font-size: 4em;
+        text-align: center;
+    }
+    .green {
+        background-color: green;
+        }
+    .red {
+        background-color: red;
+    }
+    .orange {
+        background-color: orange;
+    }
+    .div1 {
+        position: relative;
+        height: 20px;
+    }
+    h2 {
+        padding-top: 25px;
+    }
+    @media screen and (max-width : 750px){
+        .container {
+            width: 100%;
+        }
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h1&gt;Taak 18: IT-profile&lt;/h1&gt;
+&lt;h2&gt;HTML:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;HTML-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;HTML-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;CSS:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;CSS-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;CSS-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Javascript:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Javascript-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;Javascript-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Jquery:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;Jquery-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;Jquery-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;PHP:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;PHP-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;PHP-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De periode die we in de lessen eraan besteet hebben (The Wall + oefeningen)&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Thuis gebruik om oefeningen op te lossen&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;SQL:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;SQL-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;SQL-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De GIP taak rond het creëren van een database met MySql&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Het creëren van een databse voor de whitelist van &lt;a href=&#34;../../systeembeheer/testopstelling&#34;&gt;het Raspberry Pi - NFC module project&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Python:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Python-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Python-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Het gebruik van een Raspberry Pi, testen van bepaalde delen door python bestandjes&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Het creëren van een databse voor de whitelist van &lt;a href=&#34;../../systeembeheer/testopstelling&#34;&gt;het Raspberry Pi - NFC module project&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;C#:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;C#-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;C#-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;XAML:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;XAML-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;XAML-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Cisco:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Cisco-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;Cisco-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Kort mee in contact gekomen op mijn stagebedrijf&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Windows Servers:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;WindowsServers-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;WindowsServers-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Thuis heel veel geoefend voor de examens&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Algernon:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Algernon-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Algernon-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Git:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;Git-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;Git-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Het constante gebruik van git voor elk project&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Ook voor projecten die niet voor school zijn, zoals KDG project&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Conclusie:&lt;/h2&gt;
+&lt;p&gt;Aan enkele programmeertalen is er nog wel wat werk aan maar de meeste zijn al wel oke of goed zelfs.&lt;/p&gt;
+&lt;p&gt;De lessen over HTML, CSS en Javascript aan de KDG hebben mij veel bijgeleerd.&lt;/p&gt;
+&lt;p&gt;Het gebruik van Git ligt mij in de hand en gaat zeer vlot.&lt;/p&gt;
+&lt;p&gt;Windows servers begin ik aardig onder de knie te krijgen.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;&#34;&gt;Bekijk de animatie opnieuw&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../SO&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+window.addEventListener(&#34;load&#34;,slide);
+function slide() {
+    var talen = [&#39;HTML-Start&#39;,&#39;HTML-Einde&#39;,&#39;CSS-Start&#39;,&#39;CSS-Einde&#39;,&#39;Javascript-Start&#39;,&#39;Javascript-Einde&#39;,&#39;Jquery-Start&#39;,&#39;Jquery-Einde&#39;,&#39;PHP-Start&#39;,&#39;PHP-Einde&#39;,&#39;SQL-Start&#39;,&#39;SQL-Einde&#39;,&#39;Python-Start&#39;,&#39;Python-Einde&#39;,&#39;C#-Start&#39;,&#39;C#-Einde&#39;,&#39;XAML-Start&#39;,&#39;XAML-Einde&#39;,&#39;Cisco-Start&#39;,&#39;Cisco-Einde&#39;,&#39;WindowsServers-Start&#39;,&#39;WindowsServers-Einde&#39;,&#39;Algernon-Start&#39;,&#39;Algernon-Einde&#39;,&#39;Git-Start&#39;,&#39;Git-Einde&#39;];
+    var score = [50,80,45,75,30,55,45,65,15,35,60,75,10,20,55,65,20,35,30,50,55,75,0,20,65,80];
+    var waarde = 0;
+    function toon(waarde, talen, score) {
+        var element = document.getElementById(talen[waarde]);
+        var breedte = 1;
+        var id = setInterval(controleermax, 5);
+        function controleermax() {
+            if (breedte &gt;= score[waarde]) {
+                clearInterval(id);
+                ++waarde;
+                if(talen.length != waarde) {
+                    toon(waarde, talen, score);
+                }
+            } 
+            else {
+                breedte++;
+                element.style.width = breedte + &#39;%&#39;;
+                element.innerHTML = element.id + &#39;: &#39; +breedte + &#39;%&#39;;
+            }
+        }
+    }
+    toon(waarde, talen, score);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Systeembeheer</title>
@@ -479,41 +761,6 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;Ik vond sommige van deze taken een beetje saaier maar ik weet dat dit er ook bij hoort dus op zich vond ik dit niet zo erg. Bij het oplossen van deze issues bij de werknemers kom je ook veel in contact met andere mensen dit vind ik persoonlijk zeer fijn, zo kom je te weten met wie je allemaal samenwerkt en wie welke functie heeft in het bedrijf.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Ontwikkeling</title>
-      <link>http://vincent-boden.github.io/page/stage/StageDAG02/</link>
-      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/stage/StageDAG02/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;stageverslag-dag-2:ec1b3d9332339e209bd7d40706b39f5b&#34;&gt;Stageverslag - dag 2&lt;/h3&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&#34;height: 50%; width: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag02.png&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Op mijn tweede stage dag zijn we begonnen met het inpluggen van enkele netwerk kabels omdat er problemen waren met enkele pc&amp;rsquo;s hun internet. Daarna heb ik een uitgebreidere uitleg gekregen over het netwerk, ook over dat van de buitenlandse filialen.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;In de namiddag zijn we grotendeels bezig geweest met het verwijderen, plaatsen en vervangen van een tiental access points die zich in de fabriek bevonden, dit deden we met een hoogtewerker.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;We hebben ook even een kijkje genomen in een van de twee server lokalen zoals u ziet op de afbeelding, hier heeft men wat extra uitleg bij gegeven.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 

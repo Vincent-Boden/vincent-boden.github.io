@@ -11,6 +11,288 @@
     <atom:link href="http://vincent-boden.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Software Ontwikkeling</title>
+      <link>http://vincent-boden.github.io/page/software/itprofile/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/page/software/itprofile/</guid>
+      <description>&lt;p&gt;&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+  &lt;title&gt;Bootstrap Example&lt;/title&gt;
+  &lt;meta charset=&#34;utf-8&#34;&gt;
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&#34;&gt;
+  &lt;style&gt;
+    h1 {
+        font-size: 4em;
+        text-align: center;
+    }
+    .green {
+        background-color: green;
+        }
+    .red {
+        background-color: red;
+    }
+    .orange {
+        background-color: orange;
+    }
+    .div1 {
+        position: relative;
+        height: 20px;
+    }
+    h2 {
+        padding-top: 25px;
+    }
+    @media screen and (max-width : 750px){
+        .container {
+            width: 100%;
+        }
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h1&gt;Taak 18: IT-profile&lt;/h1&gt;
+&lt;h2&gt;HTML:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;HTML-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;HTML-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;CSS:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;CSS-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;CSS-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Javascript:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Javascript-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;Javascript-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Jquery:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;Jquery-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;Jquery-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;PHP:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;PHP-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;PHP-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De periode die we in de lessen eraan besteet hebben (The Wall + oefeningen)&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Thuis gebruik om oefeningen op te lossen&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;SQL:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;SQL-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;SQL-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De GIP taak rond het creëren van een database met MySql&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Het creëren van een databse voor de whitelist van &lt;a href=&#34;../../systeembeheer/testopstelling&#34;&gt;het Raspberry Pi - NFC module project&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Python:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Python-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Python-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Het gebruik van een Raspberry Pi, testen van bepaalde delen door python bestandjes&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Het creëren van een databse voor de whitelist van &lt;a href=&#34;../../systeembeheer/testopstelling&#34;&gt;het Raspberry Pi - NFC module project&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;C#:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;C#-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;C#-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;XAML:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;XAML-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;XAML-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Cisco:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Cisco-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;Cisco-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Kort mee in contact gekomen op mijn stagebedrijf&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Windows Servers:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;WindowsServers-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;WindowsServers-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Thuis heel veel geoefend voor de examens&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Algernon:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Algernon-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Algernon-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Git:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;Git-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;Git-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Het constante gebruik van git voor elk project&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Ook voor projecten die niet voor school zijn, zoals KDG project&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Conclusie:&lt;/h2&gt;
+&lt;p&gt;Aan enkele programmeertalen is er nog wel wat werk aan maar de meeste zijn al wel oke of goed zelfs.&lt;/p&gt;
+&lt;p&gt;De lessen over HTML, CSS en Javascript aan de KDG hebben mij veel bijgeleerd.&lt;/p&gt;
+&lt;p&gt;Het gebruik van Git ligt mij in de hand en gaat zeer vlot.&lt;/p&gt;
+&lt;p&gt;Windows servers begin ik aardig onder de knie te krijgen.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;&#34;&gt;Bekijk de animatie opnieuw&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../SO&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+window.addEventListener(&#34;load&#34;,slide);
+function slide() {
+    var talen = [&#39;HTML-Start&#39;,&#39;HTML-Einde&#39;,&#39;CSS-Start&#39;,&#39;CSS-Einde&#39;,&#39;Javascript-Start&#39;,&#39;Javascript-Einde&#39;,&#39;Jquery-Start&#39;,&#39;Jquery-Einde&#39;,&#39;PHP-Start&#39;,&#39;PHP-Einde&#39;,&#39;SQL-Start&#39;,&#39;SQL-Einde&#39;,&#39;Python-Start&#39;,&#39;Python-Einde&#39;,&#39;C#-Start&#39;,&#39;C#-Einde&#39;,&#39;XAML-Start&#39;,&#39;XAML-Einde&#39;,&#39;Cisco-Start&#39;,&#39;Cisco-Einde&#39;,&#39;WindowsServers-Start&#39;,&#39;WindowsServers-Einde&#39;,&#39;Algernon-Start&#39;,&#39;Algernon-Einde&#39;,&#39;Git-Start&#39;,&#39;Git-Einde&#39;];
+    var score = [50,80,45,75,30,55,45,65,15,35,60,75,10,20,55,65,20,35,30,50,55,75,0,20,65,80];
+    var waarde = 0;
+    function toon(waarde, talen, score) {
+        var element = document.getElementById(talen[waarde]);
+        var breedte = 1;
+        var id = setInterval(controleermax, 5);
+        function controleermax() {
+            if (breedte &gt;= score[waarde]) {
+                clearInterval(id);
+                ++waarde;
+                if(talen.length != waarde) {
+                    toon(waarde, talen, score);
+                }
+            } 
+            else {
+                breedte++;
+                element.style.width = breedte + &#39;%&#39;;
+                element.innerHTML = element.id + &#39;: &#39; +breedte + &#39;%&#39;;
+            }
+        }
+    }
+    toon(waarde, talen, score);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>IT-PROFILE</title>
       <link>http://vincent-boden.github.io/post/GIP%20TAAK%2018/</link>
       <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
@@ -22,22 +304,26 @@
   &lt;meta charset=&#34;utf-8&#34;&gt;
   &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
   &lt;link rel=&#34;stylesheet&#34; href=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&#34;&gt;
-  &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js&#34;&gt;&lt;/script&gt;
-  &lt;script src=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
   &lt;style&gt;
-    .a {
+    h1 {
         font-size: 4em;
-        font-weight: bold;
         text-align: center;
     }
-    .b {
-        width: 100%;
-    }
-    .container {
-        width: 90%;
-    }
-    .progress-bar {
+    .green {
+        background-color: green;
+        }
+    .red {
         background-color: red;
+    }
+    .orange {
+        background-color: orange;
+    }
+    .div1 {
+        position: relative;
+        height: 20px;
+    }
+    h2 {
+        padding-top: 25px;
     }
     @media screen and (max-width : 750px){
         .container {
@@ -48,156 +334,236 @@
 &lt;/head&gt;
 &lt;body&gt;&lt;/p&gt;
 
-&lt;div class=&#34;container&#34;&gt;
-  &lt;h1 class=&#34;a&#34;&gt;IT-profile - start 6e jaar tot nu&lt;/h1&gt;
-  
-  &lt;br&gt;
-  
-  &lt;h2&gt;C#:&lt;/h2&gt; 
-  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-      &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
-  &lt;ol&gt;
-    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
-  &lt;/ol&gt;
-  
-  &lt;br&gt;
-  
-  &lt;h2&gt;XAML:&lt;/h2&gt; 
-  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-   &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
-  &lt;ol&gt;
-  
-    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
-  &lt;/ol&gt;
-  
-  &lt;br&gt;
-  
-  &lt;h2&gt;HTML:&lt;/h2&gt;
-  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
-  &lt;ol&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
-    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
-  &lt;/ol&gt;
-      
-  &lt;br&gt;
-      
-  &lt;h2&gt;CSS:&lt;/h2&gt; 
-  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
-  &lt;ol&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
-    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
-  &lt;/ol&gt;
-      
-  &lt;br&gt;
-  
-  &lt;h2&gt;PHP:&lt;/h2&gt; 
-  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
-  &lt;ol&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
-    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
-  &lt;/ol&gt;
-    
-  &lt;br&gt;
-      
-  &lt;h2&gt;Javascript:&lt;/h2&gt; 
-  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
-  &lt;ol&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
-    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
-  &lt;/ol&gt;
-  
-  &lt;br&gt;
-  
-  &lt;h2&gt;JQuery:&lt;/h2&gt; 
-  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
-  &lt;ol&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
-    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
-  &lt;/ol&gt;
-  
-  &lt;br&gt;
-  
-  &lt;h2&gt;SQL:&lt;/h2&gt; 
-  &lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
-  &lt;div class=&#34;progress&#34;&gt;
-    &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;40%&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;h3&gt;Redenen van deze vooruitgang:&lt;/h3&gt;
-  &lt;ol&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen op KDG&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Lessen in de school&lt;/li&gt;
-    &lt;li class=&#34;b&#34;&gt;Het tuis experimenteren voor de GIP website en de javascript taak&lt;/li&gt;
-    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
-  &lt;/ol&gt;
+&lt;p&gt;&lt;h1&gt;IT-profile&lt;/h1&gt;
+&lt;h2&gt;HTML:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;HTML-Start&#34;&gt;&lt;/div&gt;
 &lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;HTML-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;CSS:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;CSS-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;CSS-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Javascript:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Javascript-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;Javascript-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Jquery:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;Jquery-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;Jquery-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Redenen:&lt;/h3&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Lessen aan de Karel de Grote hogeschool in Antwerpen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;De vele gip taken rond de website op onze school&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;3.&lt;/td&gt;&lt;td&gt;Zelf thuis bijgeleerd&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;PHP:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;PHP-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;PHP-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De periode die we in de lessen eraan besteet hebben (The Wall + oefeningen)&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Thuis gebruik om oefeningen op te lossen&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;SQL:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;SQL-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;SQL-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De GIP taak rond het creëren van een database met MySql&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Het creëren van een databse voor de whitelist van &lt;a href=&#34;../GIP TAAK 10&#34;&gt;het Raspberry Pi - NFC module project&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Python:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Python-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Python-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Het gebruik van een Raspberry Pi, testen van bepaalde delen door python bestandjes&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Het creëren van een databse voor de whitelist van &lt;a href=&#34;../GIP TAAK 10&#34;&gt;het Raspberry Pi - NFC module project&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;C#:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;C#-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;C#-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;XAML:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;XAML-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;XAML-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Cisco:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Cisco-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;Cisco-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Kort mee in contact gekomen op mijn stagebedrijf&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Windows Servers:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped orange active&#34; id=&#34;WindowsServers-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;WindowsServers-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Thuis heel veel geoefend voor de examens&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Algernon:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Algernon-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped red active&#34; id=&#34;Algernon-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;De lessen die we op school eraan besteed hebben&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Git:&lt;/h2&gt;
+&lt;h3&gt;Begin 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;Git-Start&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Einde 6e jaar&lt;/h3&gt;
+&lt;div class=&#34;div1 progress&#34;&gt;
+    &lt;div class=&#34;div2 progress-bar progress-bar-striped green active&#34; id=&#34;Git-Einde&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;1.&lt;/td&gt;&lt;td&gt;Het constante gebruik van git voor elk project&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;2.&lt;/td&gt;&lt;td&gt;Ook voor projecten die niet voor school zijn, zoals KDG project&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Conclusie:&lt;/h2&gt;
+&lt;p&gt;Aan enkele programmeertalen is er nog wel wat werk aan maar de meeste zijn al wel oke of goed zelfs.&lt;/p&gt;
+&lt;p&gt;De lessen over HTML, CSS en Javascript aan de KDG hebben mij veel bijgeleerd.&lt;/p&gt;
+&lt;p&gt;Het gebruik van Git ligt mij in de hand en gaat zeer vlot.&lt;/p&gt;
+&lt;p&gt;Windows servers begin ik aardig onder de knie te krijgen.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;&#34;&gt;Bekijk de animatie opnieuw&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+window.addEventListener(&#34;load&#34;,slide);
+function slide() {
+    var talen = [&#39;HTML-Start&#39;,&#39;HTML-Einde&#39;,&#39;CSS-Start&#39;,&#39;CSS-Einde&#39;,&#39;Javascript-Start&#39;,&#39;Javascript-Einde&#39;,&#39;Jquery-Start&#39;,&#39;Jquery-Einde&#39;,&#39;PHP-Start&#39;,&#39;PHP-Einde&#39;,&#39;SQL-Start&#39;,&#39;SQL-Einde&#39;,&#39;Python-Start&#39;,&#39;Python-Einde&#39;,&#39;C#-Start&#39;,&#39;C#-Einde&#39;,&#39;XAML-Start&#39;,&#39;XAML-Einde&#39;,&#39;Cisco-Start&#39;,&#39;Cisco-Einde&#39;,&#39;WindowsServers-Start&#39;,&#39;WindowsServers-Einde&#39;,&#39;Algernon-Start&#39;,&#39;Algernon-Einde&#39;,&#39;Git-Start&#39;,&#39;Git-Einde&#39;];
+    var score = [50,80,45,75,30,55,45,65,15,35,60,75,10,20,55,65,20,35,30,50,55,75,0,20,65,80];
+    var waarde = 0;
+    function toon(waarde, talen, score) {
+        var element = document.getElementById(talen[waarde]);
+        var breedte = 1;
+        var id = setInterval(controleermax, 5);
+        function controleermax() {
+            if (breedte &gt;= score[waarde]) {
+                clearInterval(id);
+                ++waarde;
+                if(talen.length != waarde) {
+                    toon(waarde, talen, score);
+                }
+            } 
+            else {
+                breedte++;
+                element.style.width = breedte + &#39;%&#39;;
+                element.innerHTML = element.id + &#39;: &#39; +breedte + &#39;%&#39;;
+            }
+        }
+    }
+    toon(waarde, talen, score);
+}
+&lt;/script&gt;
 
 &lt;p&gt;&lt;/body&gt;
 &lt;/html&gt;&lt;/p&gt;
@@ -568,6 +934,27 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
     </item>
     
     <item>
+      <title>DATABASE - CHATROOM</title>
+      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2008/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2008/</guid>
+      <description>
+
+&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;taak-08-database-chatroom:387d4aa165c1b5a8fbe50c94a5b85579&#34;&gt;&lt;strong&gt;TAAK 08: Database Chatroom&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 75%;&#34; src=&#34;../../images/taak08.jpg&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Als u  &lt;a href=&#34;../../images/taak8.sql&#34; download&gt;hier&lt;/a&gt; klikt kan u de sql code downloaden die bij het diagramma van hierboven hoort.&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>INTERACTIEVE JS APPLICATIE</title>
       <link>http://vincent-boden.github.io/post/GIP%20TAAK%2009/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
@@ -614,27 +1001,6 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 &lt;p&gt;3)  Functie namen goed kiezen zodat je meteen weet wat de functie doet&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DATABASE - CHATROOM</title>
-      <link>http://vincent-boden.github.io/post/GIP%20TAAK%2008/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/post/GIP%20TAAK%2008/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;taak-08-database-chatroom:387d4aa165c1b5a8fbe50c94a5b85579&#34;&gt;&lt;strong&gt;TAAK 08: Database Chatroom&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img style=&#34;width: 75%;&#34; src=&#34;../../images/taak08.jpg&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Als u  &lt;a href=&#34;../../images/taak8.sql&#34; download&gt;hier&lt;/a&gt; klikt kan u de sql code downloaden die bij het diagramma van hierboven hoort.&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -702,35 +1068,6 @@ It is not recommended to use a Raspberry Pi as your main computer at home. I agr
 &lt;p&gt;Als je naar al het bedrijf in het algemeen gaat kijken kun je wel zeggen dat ze een heel eigen gepersonaliseerde huisstijl hebben. Heel veel elementen zijn nergens anders terug te vinden wat zorgt voor originaliteit en eigenheid wat dit bedrijf dus scheidt van andere bedrijven.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Ontwikkeling</title>
-      <link>http://vincent-boden.github.io/page/stage/StageDAG10/</link>
-      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://vincent-boden.github.io/page/stage/StageDAG10/</guid>
-      <description>
-
-&lt;p&gt;&lt;div style=&#34;text-align: center&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;stageverslag-dag-10:4e11de1ed69ea6cb5869882e17fa3fdf&#34;&gt;Stageverslag - dag 10&lt;/h3&gt;
-
-&lt;p&gt;&lt;img style=&#34;width: 50%; height: 50%&#34; src=&#34;http://vincent-boden.github.io/images/FotoDag10.png&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Op stage dag tien hebben we niet zo veel gedaan. We hebben eerst de laatste laadkades voorzien van de nieuwe software en daarna was mijn klastitularis gearriveerd om een kleine bespreking te doen met de twee stagebegeleiders. Daarna ben ik er zelf ook nog even bij gekomen om mijn ervaring over de stage met hen te delen.&lt;/p&gt;
-
-&lt;p&gt;In de namiddag heb ik samen met mijn stagebegeleider een Raspberry Pi geconfigureerd die ik achteraf zelf mee naar huis mocht nemen. Dit was een heel aangename verassing en ik mocht daarbij ook nog eens om twee uur al naar huis.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Ik vond de stage zelf een heel leerrijke ervaring, ook de mensen waar ik mee samenwerkte waren stuk voor stuk fantastische mensen die mij graag wilde helpen en uitleg wilde geven over hoe zij werkte. Ze hebben mij zelfs vakantiewerk aangeboden voor in de grote vakantie, ik ben van plan om dit zeker te doen omdat dit een grote kans voor mij is die ik niet kan laten liggen.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn-floating btn-large waves-effect waves-light&#34; href=&#34;../ST/&#34;&gt;&lt;i class=&#34;mdi-navigation-arrow-back&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
